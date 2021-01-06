@@ -1,0 +1,1168 @@
+year,date_sampled,site,block,doy,times_sampled,habitat_type,bowls_down,bowls_up,bowl_time,start_am,am_nettime_hrs,am_netters,start_pm,pm_nettime_hrs,pm_netters,total_time,high_temp,wind,cloud_cover,precip,notes
+2009,22-Jun,Willey,A,173,1,Willow,8:58,17:50,8:52,12:54,1,"J. Welch, R. Diaz, R. Irwin",17:42,1,"J. Welch, R. Diaz",2,,,,,
+2009,22-Jun,Tuttle,A,173,1,Veratrum,9:25,17:16,7:51,11:11,1,"J. Welch, R. Diaz",16:33,1,"J. Welch, R. Diaz",2,,,,,
+2009,22-Jun,Davids,A,173,1,Dry,10:11,16:15,6:04,10:21,1,"J. Welch, R. Diaz, R. Irwin",14:54,1,"J. Welch, R. Diaz",2,22,"1 SW",0,0,
+2009,01-Jul,Gothic,B,182,1,Willow,9:05,14:40,5:35,8:47,1,"J. Welch, P. Howel",13:20,1,"J. Welch",2,,,,,
+2009,01-Jul,Beaver,B,182,1,Veratrum,9:51,15:46,5:55,9:34,1,"J. Welch, P. Howel",14:48,0.67,"J. Welch",1.67,,,,,
+2009,01-Jul,Seans,B,182,1,Dry,10:50,17:05,6:15,10:36,1,"J. Welch, P. Howel",16:13,0.53,"J. Welch",1.53,25.5,"0 SW",1,0,
+2009,06-Jul,Davids,A,187,2,Dry,8:49,14:45,5:56,8:50,1,"J. Welch, DC, TM",14:18,1,"DC, TM",2,,,,,
+2009,06-Jul,Tuttle,A,187,2,Veratrum,9:46,15:35,5:49,9:43,1,"J. Welch, DC, TM",15:17,1,"DC, TM, DH",2,,,,,
+2009,06-Jul,Willey,A,187,2,Willow,10:30,15:56,5:26,10:25,1,"J. Welch, DC, TM",15:42,1,"DC, TM, DH",2,22,"2 W",2,0,
+2009,08-Jul,Avery,C,189,1,Veratrum,8:50,14:43,5:53,8:52,1,"J. Welch, R. Diaz",13:56,1,"J. Welch, R. Diaz",2,,,,,
+2009,08-Jul,Marriage,C,189,1,Dry,9:41,15:41,6:00,9:43,1,"J. Welch, R. Diaz",14:57,1,"J. Welch, R. Diaz",2,,,,,
+2009,08-Jul,Parking,C,189,1,Willow,10:32,16:24,5:52,10:33,1,"J. Welch, R. Diaz",15:46,1,"J. Welch, R. Diaz",2,24,"2 W",0,0,
+2009,14-Jul,Little,D,195,1,Veratrum,9:00,14:23,5:23,9:02,1,"J. Welch, DC, TM",13:25,1,"J. Welch, R. Diaz",2,,,,,
+2009,14-Jul,Copper,D,195,1,Willow,9:46,15:19,5:33,9:48,1,"J. Welch, DC, TM",14:31,1,"J. Welch, R. Diaz",2,,,,,
+2009,14-Jul,Hill,D,195,1,Dry,10:42,16:15,5:33,10:44,1,"J. Welch, DC, TM",15:28,1,"J. Welch, R. Diaz",2,24,"0 W",0,0,
+2009,16-Jul,Seans,B,197,2,Dry,9:07,15:39,6:32,9:09,1,"J. Welch, Z. Gezon",14:52,1,"J. Welch, Z. Gezon",2,,,,,
+2009,16-Jul,Gothic,B,197,2,Willow,10:41,16:47,6:06,10:42,1,"J. Welch, Z. Gezon",16:04,1,"J. Welch, Z. Gezon",2,,,,,
+2009,16-Jul,Beaver,B,197,2,Veratrum,11:44,17:38,5:54,11:45,1,"J. Welch, Z. Gezon",16:53,1,"J. Welch, Z. Gezon",2,25,"2 W",0,0,
+2009,22-Jul,Davids,A,203,3,Dry,8:44,15:04,6:20,9:47,0.68,"J. Welch, C. Donohar",13:48,1,"J. Welch",1.68,,,,,
+2009,22-Jul,Tuttle,A,203,3,Veratrum,10:53,16:33,5:40,10:54,1,"J. Welch, C. Donohar",15:21,1,"J. Welch",2,,,,,
+2009,22-Jul,Willey,A,203,3,Willow,11:39,17:48,6:09,11:40,0.83,"J. Welch, C. Donohar",16:38,1,"J. Welch",1.83,"25.0 C","2 W",2,0,
+2009,24-Jul,Avery,C,205,2,Veratrum,9:05,13:58,4:53,9:07,1,"J. Welch, R. Diaz",12:43,1,"J. Welch",2,,,,,
+2009,24-Jul,Marriage,C,205,2,Dry,10:15,15:32,5:17,10:16,1,"J. Welch, R. Diaz",14:15,1,"J. Welch",2,,,,,
+2009,24-Jul,Parking,C,205,2,Willow,11:08,16:33,5:25,11:09,1,"J. Welch, R. Diaz",15:38,1,"J. Welch",2,"25.5 C","1 W",1,0,
+2009,27-Jul,Copper,D,208,2,Willow,9:10,14:32,5:22,9:11,1,"J. Welch, TM",13:50,1,"J. Welch, TM, R. Diaz",2,,,,,
+2009,27-Jul,Little,D,208,2,Veratrum,10:20,14:52,4:32,10:21,1,"J. Welch, TM",14:35,1,"TM, R. Diaz",2,,,,,
+2009,27-Jul,Hill,D,208,2,Dry,11:34,15:12,3:38,11:43,1,"J. Welch, TM",15:12,1,"J. Welch, TM, R. Diaz",2,"23.5 C","0 W",2,0,
+2009,29-Jul,Seans,B,210,3,Dry,8:41,14:01,5:20,8:42,1,"J. Welch, TM",14:03,0.5,"J. Welch, R. Diaz",1.5,,,,,
+2009,29-Jul,Gothic,B,210,3,Willow,10:01,14:47,4:46,10:02,1,"J. Welch, TM",NA,0,NA,1,,,,,
+2009,29-Jul,Beaver,B,210,3,Veratrum,11:19,14:55,3:36,11:20,1,"J. Welch, TM",NA,0,NA,1,"19.5 C","1 W",3,0.15,
+2009,03-Aug,Davids,A,215,4,Dry,9:03,15:24,6:21,9:04,1,"J. Welch, R. Diaz",14:21,1,"C. Donohar, R. Diaz",2,,,,,
+2009,03-Aug,Tuttle,A,215,4,Veratrum,10:59,16:45,5:46,11:00,0.5,"J. Welch, R. Diaz",15:43,0.7,"C. Donohar, R. Diaz",1.2,,,,,
+2009,03-Aug,Willey,A,215,4,Willow,11:36,17:09,5:33,11:37,0.52,"J. Welch, R. Diaz",16:48,0.45,"C. Donohar, R. Diaz",0.97,"24 C","1 W",1,0,
+2009,05-Aug,Avery,C,217,3,Veratrum,8:51,14:45,5:54,8:52,1,"J. Welch, R. Diaz",13:39,0.58,"C. Donohar, R. Diaz",1.58,,,,,
+2009,05-Aug,Marriage,C,217,3,Dry,10:05,15:42,5:37,10:06,1,"J. Welch, R. Diaz",15:02,0.68,"C. Donohar, R. Diaz",1.68,,,,,
+2009,05-Aug,Parking,C,217,3,Willow,11:14,16:41,5:27,11:15,0.67,"J. Welch, R. Diaz",15:50,0.52,"C. Donohar, R. Diaz",1.18,"26.5 C","2 SW",2,0.02,
+2009,12-Aug,Copper,D,224,3,Willow,9:05,14:50,5:45,9:06,1,"J. Welch, Z. Gezon",14:15,1,"J. Welch, Z. Gezon, PM",2,,,,,
+2009,12-Aug,Little,D,224,3,Veratrum,10:02,15:41,5:39,10:03,1,"J. Welch, Z. Gezon",14:56,1,"J. Welch, Z. Gezon, PM",2,,,,,
+2009,12-Aug,Hill,D,224,3,Dry,11:02,16:20,5:18,11:03,1,"J. Welch, Z. Gezon",15:49,1,"J. Welch, Z. Gezon, PM",2,"25 C","0 W",1,0,
+2009,13-Aug,Seans,B,225,4,Dry,8:53,15:18,6:25,8:58,1,"Z. Gezon",13:53,1,"Z. Gezon",2,,,,,
+2009,13-Aug,Gothic,B,225,4,Willow,10:55,16:57,6:02,10:57,1,"Z. Gezon",15:27,1,"Z. Gezon",2,,,,,
+2009,13-Aug,Beaver,B,225,4,Veratrum,12:31,18:27,5:56,12:33,1,"Z. Gezon",17:05,1,"Z. Gezon",2,"19 C","2 SW",1,0,
+2009,17-Aug,Tuttle,A,230,5,Veratrum,8:55,15:25,6:30,8:57,1,"Z. Gezon",13:45,1,"Z. Gezon",2,,,,,
+2009,17-Aug,Willey,A,230,5,Willow,10:31,16:50,6:19,10:32,1,"Z. Gezon",15:28,1,"Z. Gezon",2,,,,,
+2009,17-Aug,Davids,A,230,5,Dry,12:26,18:40,6:14,12:28,1,"Z. Gezon",17:22,1,"Z. Gezon",2,"21 C","0 SW",0,0,
+2009,19-Aug,Avery,C,232,4,Veratrum,9:15,15:18,6:03,9:17,1,"Z. Gezon",13:38,1,"Z. Gezon",2,,,,,
+2009,19-Aug,Marriage,C,232,4,Dry,10:50,16:51,6:01,10:54,1,"Z. Gezon",15:30,1,"Z. Gezon",2,,,,,
+2009,19-Aug,Parking,C,232,4,Willow,12:23,18:31,6:08,12:24,1,"Z. Gezon",17:05,1,"Z. Gezon",2,"22 C","0 W",0,0,
+2009,24-Aug,Copper,D,237,4,Willow,9:37,14:23,4:46,9:38,1,"Z. Gezon",13:10,1,"Z. Gezon",2,,,,,
+2009,24-Aug,Little,D,237,4,Veratrum,10:45,15:40,4:55,10:46,1,"Z. Gezon",14:27,1,"Z. Gezon",2,,,,,
+2009,24-Aug,Hill,D,237,4,Dry,11:56,16:52,4:56,11:57,1,"Z. Gezon",15:42,1,"Z. Gezon",2,"14.5 C","3 S",4,0.17,
+2010,17-Jun,Beaver,B,168,1,Veratrum,9:18,14:45,5:27,9:20,1,"Z. Gezon, R. Polanco",13:45,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,17-Jun,Gothic,B,168,1,Willow,10:20,16:10,5:50,10:20,1,"Z. Gezon, R. Polanco",15:10,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,17-Jun,Seans,B,168,1,Dry,11:40,17:45,6:05,11:30,1,"Z. Gezon, R. Polanco",16:35,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,18-Jun,Hill,D,169,1,Dry,9:30,13:38,4:08,9:30,1,"Z. Gezon, R. Polanco",12:33,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,18-Jun,Little,D,169,1,Veratrum,10:23,14:40,4:17,10:25,1,"Z. Gezon, R. Polanco",13:42,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,18-Jun,Copper,D,169,1,Willow,11:20,15:46,4:26,11:20,1,"Z. Gezon, R. Polanco",14:51,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,21-Jun,Willey,A,172,1,Willow,10:07,16:05,5:58,10:08,1,"Z. Gezon, R. Polanco",14:58,0.5,"Z. Gezon",1.5,,,,,"Gave Robert afternoon off to work on finding sites and proposal. This was unanticipated, so I couldn't net for the full hour in the afternoon."
+2010,21-Jun,Tuttle,A,172,1,Veratrum,9:08,14:55,5:47,9:10,1,"Z. Gezon, R. Polanco",13:12,0.5,"Z. Gezon",1.5,,,,,"Gave Robert afternoon off to work on finding sites and proposal. This was unanticipated, so I couldn't net for the full hour in the afternoon."
+2010,21-Jun,Davids,A,172,1,Dry,11:15,17:45,6:30,11:15,1,"Z. Gezon, R. Polanco",16:35,0.5,"Z. Gezon",1.5,,,,,"Gave Robert afternoon off to work on finding sites and proposal. This was unanticipated, so I couldn't net for the full hour in the afternoon."
+2010,22-Jun,Beaver,B,173,2,Veratrum,9:57,16:18,6:21,9:57,1,"Z. Gezon, A. Slominski",15:12,1,"Z. Gezon, A. Slominski",2,,,,,
+2010,22-Jun,Gothic,B,173,2,Willow,10:48,17:35,6:47,10:48,1,"Z. Gezon, A. Slominski",16:31,1,"Z. Gezon, A. Slominski",2,,,,,
+2010,22-Jun,Seans,B,173,2,Dry,7:40,14:50,7:10,7:40,0.67,"Z. Gezon",13:15,1,"Z. Gezon, A. Slominski",1.67,,,,,"Had to start early to compensate for Anthony arriving at 9:00 plus having to be back before noon for the meeting with Becky and Robert."
+2010,23-Jun,Hill,D,174,2,Dry,9:13,12:57,3:44,9:14,1,"Z. Gezon, A. Slominski",12:00,1,"Z. Gezon, A. Slominski",2,,,,,
+2010,23-Jun,Little,D,174,2,Veratrum,10:06,14:15,4:09,10:06,1,"Z. Gezon, A. Slominski",13:12,1,"Z. Gezon, A. Slominski",2,,,,,
+2010,23-Jun,Copper,D,174,2,Willow,10:54,15:35,4:41,10:55,1,"Z. Gezon, A. Slominski",14:38,1,"Z. Gezon, A. Slominski",2,,,,,
+2010,25-Jun,"Kettle ponds","Weather station",176,1,"Weather Station",10:56,14:25,3:29,10:00,1,"Z. Gezon, R. Polanco",NA,0,NA,1,,,,,"lightning storm. Called off afternoon netting."
+2010,25-Jun,"KP control",Control,176,1,Control,11:19,14:40,3:21,11:20,1,"Z. Gezon, R. Polanco",NA,0,NA,1,,,,,"lightning storm. Called off afternoon netting."
+2010,26-Jun,Snodgrass,"Weather station",177,1,"Weather Station",9:55,16:46,6:51,10:20,1,"Z. Gezon",15:00,1,"Z. Gezon",2,,,,,
+2010,27-Jun,Almont,"Weather station",178,1,"Weather Station",8:47,14:50,6:03,8:50,1,"Z. Gezon",13:30,1,"Z. Gezon",2,,,,,
+2010,05-Jul,Tuttle,A,186,2,Veratrum,9:05,15:50,6:45,9:08,1,"Z. Gezon, R. Polanco",14:37,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,05-Jul,Willey,A,186,2,Willow,9:59,17:05,7:06,10:00,1,"Z. Gezon, R. Polanco",16:04,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,05-Jul,Davids,A,186,2,Dry,11:07,18:20,7:13,11:07,1,"Z. Gezon, R. Polanco",17:29,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,06-Jul,Beaver,B,187,3,Veratrum,9:22,14:30,5:08,9:23,1,"Z. Gezon, R. Polanco",13:21,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,06-Jul,Gothic,B,187,3,Willow,10:13,15:57,5:44,10:13,1,"Z. Gezon, R. Polanco",15:00,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,06-Jul,Seans,B,187,3,Dry,11:10,17:20,6:10,11:10,1,"Z. Gezon, R. Polanco",16:27,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,07-Jul,Hill,D,188,3,Dry,9:46,13:27,3:41,9:46,1,"Z. Gezon, R. Polanco",12:29,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,07-Jul,Little,D,188,3,Veratrum,10:35,15:05,4:30,10:35,1,"Z. Gezon, R. Polanco",14:10,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,07-Jul,Copper,D,188,3,Willow,11:20,15:52,4:32,11:20,1,"Z. Gezon, R. Polanco",15:52,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,08-Jul,"Kettle ponds","Weather station",189,2,"Weather Station",9:26,14:40,5:14,9:26,1,"Z. Gezon",13:52,1,"Z. Gezon",2,,,,,
+2010,08-Jul,Snodgrass,"Weather station",189,2,"Weather Station",11:40,16:56,5:16,11:40,1,"Z. Gezon",16:40,1,"Z. Gezon",2,,,,,
+2010,09-Jul,"Mexican Cut","Weather station",190,1,"Weather Station",9:05,13:20,4:15,9:07,1,"Z. Gezon",12:00,1,"Z. Gezon",2,,,,,
+2010,10-Jul,Almont,"Weather station",191,2,"Weather Station",9:00,14:17,5:17,9:00,1,"Z. Gezon",12:57,1,"Z. Gezon",2,,,,,
+2010,19-Jul,Tuttle,A,200,3,Veratrum,9:17,14:36,5:19,9:18,1,"Z. Gezon, R. Polanco",13:14,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,19-Jul,Willey,A,200,3,Willow,10:02,15:56,5:54,10:02,1,"Z. Gezon, R. Polanco",14:47,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,19-Jul,Davids,A,200,3,Dry,11:02,17:40,6:38,11:02,1,"Z. Gezon, R. Polanco",16:28,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,20-Jul,Beaver,B,201,4,Veratrum,9:15,14:25,5:10,9:15,1,"Z. Gezon, R. Polanco",13:17,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,20-Jul,Gothic,B,201,4,Willow,10:00,15:47,5:47,10:00,1,"Z. Gezon, R. Polanco",14:40,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,20-Jul,Seans,B,201,4,Dry,10:55,15:55,5:00,10:55,1,"Z. Gezon, R. Polanco",16:00,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,23-Jul,"Mexican Cut","Weather station",204,2,"Weather Station",9:30,14:46,5:16,9:32,1,"Z. Gezon",12:58,1,"Z. Gezon",2,,,,,
+2010,24-Jul,Almont,"Weather station",205,3,"Weather Station",10:42,16:38,5:56,10:42,1,"Z. Gezon",15:14,1,"Z. Gezon",2,,,,,
+2010,26-Jul,Hill,D,207,4,Dry,9:21,13:31,4:10,9:23,1,"Z. Gezon, R. Polanco",12:40,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,26-Jul,Little,D,207,4,Veratrum,10:11,15:05,4:54,10:12,1,"Z. Gezon, R. Polanco",14:14,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,26-Jul,Copper,D,207,4,Willow,11:00,15:55,4:55,11:03,1,"Z. Gezon, R. Polanco",15:19,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,28-Jul,"Kettle ponds","Weather station",209,3,"Weather Station",9:55,15:35,5:40,9:55,1,"R. Polanco",14:35,1,"Z. Gezon, R. Polanco",2,,,,,
+2010,28-Jul,Snodgrass,"Weather station",209,3,"Weather Station",9:30,13:20,3:50,9:18,1,"Z. Gezon, A. Slominski",12:15,1,"Z. Gezon, A. Slominski",2,,,,,
+2010,02-Aug,Tuttle,A,214,4,Veratrum,8:28,13:29,5:01,8:30,1,"R. Polanco, A. Slominski",12:25,1,"R. Polanco, A. Slominski",2,,,,,
+2010,02-Aug,Willey,A,214,4,Willow,10:05,14:46,4:41,9:15,1,"R. Polanco, A. Slominski",13:50,1,"R. Polanco, A. Slominski",2,,,,,
+2010,02-Aug,Davids,A,214,4,Dry,10:30,15:40,5:10,10:35,1,"R. Polanco, A. Slominski",15:15,1,"R. Polanco, A. Slominski",2,,,,,"rain in afternoon"
+2010,03-Aug,Beaver,B,215,5,Veratrum,8:40,13:15,4:35,8:41,1,"R. Polanco, A. Slominski",12:30,1,"R. Polanco, A. Slominski",2,,,,,
+2010,03-Aug,Gothic,B,215,5,Willow,9:37,13:35,3:58,9:38,1,"R. Polanco, A. Slominski",13:45,1,"R. Polanco, A. Slominski",2,,,,,
+2010,03-Aug,Seans,B,215,5,Dry,10:45,15:55,5:10,10:50,1,"R. Polanco, A. Slominski",15:05,1,"R. Polanco, A. Slominski",2,,,,,
+2010,04-Aug,Hill,D,216,5,Dry,9:00,13:40,4:40,9:02,1,"R. Polanco, A. Slominski",12:29,1,"R. Polanco, A. Slominski",2,,,,,
+2010,04-Aug,Little,D,216,5,Veratrum,9:58,14:52,4:54,10:00,1,"R. Polanco, A. Slominski",13:55,1,"R. Polanco, A. Slominski",2,,,,,
+2010,04-Aug,Copper,D,216,5,Willow,10:54,15:50,4:56,10:55,1,"R. Polanco, A. Slominski",15:08,1,"R. Polanco, A. Slominski",2,,,,,
+2010,05-Aug,"Kettle ponds","Weather station",217,4,"Weather Station",9:20,13:25,4:05,9:25,1,"R. Polanco",12:01,1,"R. Polanco",2,,,,,
+2010,05-Aug,Snodgrass,"Weather station",217,4,"Weather Station",9:30,14:00,4:30,9:30,1,"A. Slominski",12:15,1,"A. Slominski",2,,,,,
+2010,10-Aug,"Mexican Cut","Weather station",222,3,"Weather Station",9:10,14:15,5:05,9:10,1,"Z. Gezon",12:45,1,"Z. Gezon",2,,,,,
+2010,11-Aug,Almont,"Weather station",223,4,"Weather Station",9:24,14:18,4:54,9:25,1,"Z. Gezon",12:50,1,"Z. Gezon",2,,,,,
+2010,16-Aug,Tuttle,A,228,5,Veratrum,7:55,14:16,6:21,7:55,1,"Z. Gezon",12:55,1,"Z. Gezon",2,,,,,
+2010,16-Aug,Willey,A,228,5,Willow,9:20,15:16,5:56,9:20,0.5,"Z. Gezon",14:20,0.85,"Z. Gezon",1.35,,,,,
+2010,16-Aug,Davids,A,228,5,Dry,10:27,16:50,6:23,10:27,1,"Z. Gezon",15:37,1,"Z. Gezon",2,,,,,
+2010,17-Aug,Beaver,B,229,6,Veratrum,8:47,13:00,4:13,8:47,1,"Z. Gezon, A. Slominski",12:25,1,"Z. Gezon, A. Slominski",2,,,,,
+2010,17-Aug,Gothic,B,229,6,Willow,9:36,13:45,4:09,9:36,1,"Z. Gezon, A. Slominski",13:06,1,"Z. Gezon, A. Slominski",2,,,,,
+2010,17-Aug,Seans,B,229,6,Dry,10:42,14:33,3:51,10:42,1,"Z. Gezon, A. Slominski",13:54,1,"Z. Gezon, A. Slominski",2,,,,,
+2010,18-Aug,Hill,D,230,6,Dry,9:06,14:59,5:53,9:08,1,"Z. Gezon",13:30,1,"Z. Gezon",2,,,,,
+2010,18-Aug,Little,D,230,6,Veratrum,10:37,16:34,5:57,10:40,1,"Z. Gezon",15:02,1,"Z. Gezon",2,,,,,
+2010,18-Aug,Copper,D,230,6,Willow,12:04,18:00,5:56,12:04,1,"Z. Gezon",16:38,1,"Z. Gezon",2,,,,,
+2010,19-Aug,"Kettle ponds","Weather station",231,5,"Weather Station",9:00,15:48,6:48,9:04,1,"Z. Gezon",14:36,1,"Z. Gezon",2,,,,,
+2010,19-Aug,Snodgrass,"Weather station",231,5,"Weather Station",9:15,13:30,4:15,9:20,1,"A. Slominski",12:00,1,"A. Slominski",2,,,,,
+2010,20-Aug,Almont,"Weather station",232,5,"Weather Station",9:50,14:41,4:51,9:50,1,"Z. Gezon",12:30,1,"Z. Gezon",2,,,,,
+2010,21-Aug,"Mexican Cut","Weather station",233,4,"Weather Station",8:56,14:51,5:55,9:35,1,"Z. Gezon",13:14,1,"Z. Gezon",2,,,,,
+2010,28-Aug,Beaver,B,240,7,Veratrum,8:30,13:55,5:25,8:32,1,"A. Slominski",12:45,1,"A. Slominski",2,,,,,
+2010,28-Aug,Gothic,B,240,7,Willow,9:45,15:15,5:30,9:45,1,"A. Slominski",14:00,1,"A. Slominski",2,,,,,
+2010,28-Aug,Seans,B,240,7,Dry,11:02,16:40,5:38,11:02,1.17,"A. Slominski",15:22,1.08,"A. Slominski",2.25,,,,,
+2010,29-Aug,Tuttle,A,241,6,Veratrum,8:00,13:35,5:35,8:00,1.05,"A. Slominski",12:15,1.08,"A. Slominski",2.13,,,,,
+2010,29-Aug,Willey,A,241,6,Willow,9:16,15:00,5:44,9:17,1.1,"A. Slominski",13:40,1.08,"A. Slominski",2.18,,,,,
+2010,29-Aug,Davids,A,241,6,Dry,10:45,16:32,5:47,10:46,1.08,"A. Slominski",15:15,1.08,"A. Slominski",2.17,,,,,
+2010,02-Sep,Almont,"Weather station",245,6,"Weather Station",10:22,16:12,5:50,10:22,1,"Z. Gezon",14:49,1,"Z. Gezon",2,,,,,
+2010,03-Sep,"Mexican Cut","Weather station",246,5,"Weather Station",10:32,17:11,6:39,10:38,1,"Z. Gezon",15:22,1,"Z. Gezon",2,,,,,
+2010,04-Sep,Hill,D,247,7,Dry,8:56,14:29,5:33,8:56,1,"Z. Gezon",13:04,1,"Z. Gezon",2,,,,,
+2010,04-Sep,Little,D,247,7,Veratrum,10:24,15:57,5:33,10:24,1,"Z. Gezon",14:34,1,"Z. Gezon",2,,,,,
+2010,04-Sep,Copper,D,247,7,Willow,11:51,17:19,5:28,11:55,1,"Z. Gezon",15:59,1,"Z. Gezon",2,,,,,
+2010,05-Sep,"Kettle ponds","Weather station",248,6,"Weather Station",9:00,15:14,6:14,9:00,1,"Z. Gezon",14:00,1,"Z. Gezon",2,,,,,
+2010,05-Sep,Snodgrass,"Weather station",248,6,"Weather Station",11:35,17:22,5:47,11:38,1,"Z. Gezon",16:10,1,"Z. Gezon",2,,,,,
+2011,08-Jun,Willey,A,159,1,Willow,9:58,15:01,5:03,11:07,1,"Z. Gezon, R. Brennan, J. Mola",14:27,1,"Z. Gezon, R. Brennan, J. Mola",2,,,,,
+2011,08-Jun,Tuttle,A,159,1,Veratrum,9:07,14:20,5:13,9:14,1,"Z. Gezon, R. Brennan, J. Mola",13:36,1,"Z. Gezon, R. Brennan, J. Mola",2,,,,,
+2011,08-Jun,Davids,A,159,1,Dry,11:00,15:57,4:57,9:59,1,"Z. Gezon, R. Brennan, J. Mola",15:24,1,"Z. Gezon, R. Brennan, J. Mola",2,,,,,
+2011,14-Jun,Hill,D,165,1,Dry,9:10,14:20,5:10,9:12,1,"R. Brennan, J. Mola, P. Caradonna",13:40,1,"R. Brennan, J. Mola, P. Caradonna",2,,,,,
+2011,14-Jun,Little,D,165,1,Veratrum,10:15,14:59,4:44,10:17,1,"R. Brennan, J. Mola, P. Caradonna",14:27,1,"R. Brennan, J. Mola, P. Caradonna",2,,,,,
+2011,15-Jun,Seans,B,166,1,Dry,8:42,14:32,5:50,8:44,1,"R. Brennan, J. Mola",13:40,1,"R. Brennan, J. Mola",2,,,,,
+2011,15-Jun,Gothic,B,166,1,Willow,10:36,15:00,4:24,10:37,1,"R. Brennan, J. Mola",15:01,1,"R. Brennan, J. Mola",2,,,,,
+2011,15-Jun,Beaver,B,166,1,Veratrum,11:36,16:33,4:57,11:37,1,"R. Brennan, J. Mola",15:55,1,"R. Brennan, J. Mola",2,,,,,
+2011,16-Jun,Almont,"Weather station",167,1,"Weather Station",10:05,14:35,4:30,10:12,1,"R. Brennan",13:10,1,"R. Brennan",2,,,,,
+2011,17-Jun,"Kettle Ponds","Weather station",168,1,"Weather Station",9:35,14:55,5:20,9:37,1,"R. Brennan, J. Mola, Bethany",NA,0,NA,1,,,,,rain
+2011,17-Jun,Snodgrass,"Weather station",168,1,"Weather Station",12:10,16:46,4:36,12:17,1,"R. Brennan, J. Mola, Bethany",NA,0,NA,1,,,,,rain
+2011,27-Jun,Davids,A,178,2,Dry,8:58,14:23,5:25,9:12,1,"R. Brennan, J. Mola",13:42,1,"R. Brennan, J. Mola",2,,,,,
+2011,27-Jun,Tuttle,A,178,2,Veratrum,10:20,15:38,5:18,10:23,1,"R. Brennan, J. Mola",14:52,1,"R. Brennan, J. Mola",2,,,,,
+2011,27-Jun,Willey,A,178,2,Willow,11:26,16:30,5:04,11:30,1,"R. Brennan, J. Mola",15:51,1,"R. Brennan, J. Mola",2,,,,,
+2011,28-Jun,Gothic,B,179,2,Willow,8:49,14:15,5:26,8:52,1,"R. Brennan, J. Mola",13:36,1,"R. Brennan, J. Mola",2,,,,,
+2011,28-Jun,Beaver,B,179,2,Veratrum,9:43,14:57,5:14,9:46,1,"R. Brennan, J. Mola",14:20,1,"R. Brennan, J. Mola",2,,,,,
+2011,28-Jun,Seans,B,179,2,Dry,11:02,16:15,5:13,11:04,1,"R. Brennan, J. Mola",15:25,1,"R. Brennan, J. Mola",2,,,,,
+2011,29-Jun,Copper,D,180,1,Willow,9:12,14:41,5:29,9:13,1,"R. Brennan, J. Mola",14:00,1,"R. Brennan, J. Mola",2,,,,,
+2011,29-Jun,Little,D,180,2,Veratrum,10:13,15:10,4:57,10:13,1,"R. Brennan, J. Mola",14:54,0.5,"R. Brennan, J. Mola",1.5,,,,,
+2011,29-Jun,Hill,D,180,2,Dry,10:56,15:30,4:34,11:00,1,"R. Brennan, J. Mola",NA,0,NA,1,,,,,
+2011,30-Jun,Snodgrass,"Weather station",181,2,"Weather Station",10:24,16:06,5:42,10:25,1,"R. Brennan, J. Mola",NA,0,NA,1,,,,,
+2011,01-Jul,Almont,"Weather station",182,2,"Weather Station",11:58,16:24,4:26,11:58,1,"R. Brennan",15:16,1,"R. Brennan",2,,,,,
+2011,06-Jul,"Kettle Ponds","Weather station",187,2,"Weather Station",8:43,16:20,7:37,8:36,1,"R. Brennan, J. Mola",15:41,1,"R. Brennan, J. Mola",2,,,,,
+2011,11-Jul,Willey,A,192,3,Willow,8:55,14:05,5:10,9:12,1,"R. Brennan, J. Mola",13:25,1,"R. Brennan, J. Mola",2,,,,,
+2011,11-Jul,Tuttle,A,192,3,Veratrum,10:02,14:54,4:52,10:15,1,"R. Brennan, J. Mola",14:12,1,"R. Brennan, J. Mola",2,,,,,
+2011,11-Jul,Davids,A,192,3,Dry,11:21,16:04,4:43,11:26,1,"R. Brennan, J. Mola",15:28,1,"R. Brennan, J. Mola",2,,,,,
+2011,12-Jul,Seans,B,193,3,Dry,8:39,14:49,6:10,8:41,1,"R. Brennan",13:48,1,"R. Brennan, TL, Katya",2,,,,,
+2011,12-Jul,Gothic,B,193,3,Willow,10:16,16:12,5:56,10:17,1,"R. Brennan",15:16,1,"R. Brennan, TL, Katya",2,,,,,
+2011,12-Jul,Beaver,B,193,3,Veratrum,11:24,16:42,5:18,11:24,1,"R. Brennan",16:17,1,"R. Brennan, TL, Katya",2,,,,,
+2011,13-Jul,Hill,D,194,3,Dry,10:08,15:15,5:07,9:51,1,"R. Brennan, J. Mola",14:05,1,"R. Brennan, J. Mola",2,,,,,
+2011,13-Jul,Little,D,194,3,Veratrum,10:45,16:24,5:39,10:39,1,"R. Brennan, J. Mola",15:20,1,"R. Brennan, J. Mola",2,,,,,
+2011,13-Jul,Copper,D,194,2,Willow,11:31,16:58,5:27,11:19,1,"R. Brennan, J. Mola",16:27,1,"R. Brennan, J. Mola",2,,,,,
+2011,14-Jul,Almont,"Weather station",195,3,"Weather Station",10:09,16:10,6:01,10:12,1,"R. Brennan, J. Andicoechea",15:20,1,"R. Brennan, J. Andicoechea",2,,,,,
+2011,15-Jul,"Kettle Ponds","Weather station",196,3,"Weather Station",9:00,14:20,5:20,8:54,1,"R. Brennan, J. Mola",13:45,1,"R. Brennan, J. Mola",2,,,,,
+2011,15-Jul,Snodgrass,"Weather station",196,3,"Weather Station",11:32,16:40,5:08,11:22,1,"R. Brennan, J. Mola",16:04,1,"R. Brennan, J. Mola",2,,,,,
+2011,16-Jul,"Mexican Cut","Weather station",197,1,"Weather Station",10:17,15:18,5:01,10:11,1,"R. Brennan, Z. Gezon",14:10,1,"R. Brennan",2,,,,,
+2011,25-Jul,Tuttle,A,206,4,Veratrum,8:50,14:40,5:50,8:38,1,"R. Brennan, J. Mola",13:27,1,"R. Brennan",2,,,,,
+2011,25-Jul,Willey,A,206,4,Willow,10:15,16:00,5:45,9:55,1,"R. Brennan, J. Mola",14:45,1,"R. Brennan",2,,,,,
+2011,25-Jul,Davids,A,206,4,Dry,9:14,15:40,6:26,9:15,1,"R. Brennan, J. Mola",15:02,1,"R. Brennan, J. Mola",2,,,,,"J. Ogilvie: error in data entry? Originally recorded as occurring on 05/08/2011"
+2011,27-Jul,Copper,D,208,4,Willow,9:28,15:03,5:35,9:28,1,"R. Brennan, J. Mola",13:44,1,"R. Brennan",2,,,,,
+2011,27-Jul,Little,D,208,4,Veratrum,10:15,16:16,6:01,10:15,1,"R. Brennan, J. Mola",15:09,1,"R. Brennan",2,,,,,
+2011,27-Jul,Hill,D,208,4,Dry,11:07,17:23,6:16,11:08,1,"R. Brennan, J. Mola",16:20,1,"R. Brennan",2,,,,,
+2011,28-Jul,Almont,"Weather station",209,4,"Weather Station",10:28,16:19,5:51,10:28,1,"R. Brennan",15:32,1,"R. Brennan, KS",2,,,,,
+2011,29-Jul,"Kettle Ponds","Weather station",210,4,"Weather Station",8:59,14:22,5:23,8:52,1,"R. Brennan, J. Mola",13:46,1,"R. Brennan, J. Mola",2,,,,,
+2011,29-Jul,Snodgrass,"Weather station",210,4,"Weather Station",11:13,16:45,5:32,11:13,1,"R. Brennan, J. Mola",15:41,1,"R. Brennan, J. Mola",2,,,,,
+2011,01-Aug,"Mexican Cut","Weather station",213,2,"Weather Station",10:38,15:18,4:40,10:50,1,"R. Brennan, J. Mola",14:45,1,"R. Brennan, J. Mola",2,,,,,
+2011,03-Aug,Gothic,B,215,4,Willow,8:48,14:45,5:57,8:58,1,"R. Brennan, J. Mola",13:35,1,"R. Brennan",2,,,,,
+2011,03-Aug,Beaver,B,215,4,Veratrum,9:50,15:00,5:10,10:00,1,"R. Brennan, J. Mola",14:50,1,"R. Brennan",2,,,,,
+2011,03-Aug,Seans,B,215,4,Dry,11:25,17:29,6:04,11:30,1,"R. Brennan, J. Mola",16:23,1,"R. Brennan",2,,,,,
+2011,08-Aug,Hill,D,220,5,Dry,9:14,15:32,6:18,9:15,1,"R. Brennan",14:12,1,"R. Brennan",2,,,,,
+2011,08-Aug,Little,D,220,5,Veratrum,10:22,15:50,5:28,10:27,1,"R. Brennan",15:34,1,"R. Brennan",2,,,,,
+2011,08-Aug,Copper,D,220,4,Willow,11:34,17:35,6:01,11:37,1,"R. Brennan",16:52,1,"R. Brennan",2,,,,,
+2011,09-Aug,Almont,"Weather station",221,5,"Weather Station",10:30,16:10,5:40,10:31,1,"R. Brennan",14:59,1,"R. Brennan",2,,,,,
+2011,10-Aug,Snodgrass,"Weather station",222,5,"Weather Station",9:45,15:30,5:45,9:45,1,"R. Brennan",14:20,1,"R. Brennan",2,,,,,
+2011,10-Aug,"Kettle Ponds","Weather station",222,5,"Weather Station",11:45,17:30,5:45,11:45,1,"R. Brennan",16:23,1,"R. Brennan",2,,,,,
+2011,11-Aug,Gothic,B,223,5,Willow,8:58,14:25,5:27,8:58,1,"R. Brennan",13:22,1,"R. Brennan",2,,,,,
+2011,11-Aug,Beaver,B,223,5,Veratrum,10:01,15:30,5:29,10:01,1,"R. Brennan",14:27,1,"R. Brennan",2,,,,,
+2011,11-Aug,Seans,B,223,5,Dry,11:09,16:45,5:36,11:10,1,"R. Brennan",15:43,1,"R. Brennan",2,,,,,
+2011,12-Aug,Davids,A,224,5,Dry,8:42,14:25,5:43,8:44,1,"R. Brennan",13:15,1,"R. Brennan",2,,,,,
+2011,12-Aug,Tuttle,A,224,5,Veratrum,10:00,15:52,5:52,10:02,1,"R. Brennan",14:35,1,"R. Brennan",2,,,,,
+2011,12-Aug,Willey,A,224,5,Willow,11:06,17:05,5:59,11:07,1,"R. Brennan",15:57,1,"R. Brennan",2,,,,,
+2011,17-Aug,"Mexican Cut","Weather station",229,3,"Weather Station",10:48,15:42,4:54,10:50,1,"R. Brennan, J. Mola",15:05,1,"R. Brennan, J. Mola",2,,,,,
+2011,22-Aug,Willey,A,234,6,Willow,8:48,14:39,5:51,8:48,1,"R. Brennan",13:34,1,"R. Brennan",2,,,,,
+2011,22-Aug,Tuttle,A,234,6,Veratrum,10:01,15:58,5:57,10:01,1,"R. Brennan",14:43,1,"R. Brennan",2,,,,,
+2011,22-Aug,Davids,A,234,6,Dry,11:31,17:08,5:37,11:31,1,"R. Brennan",16:28,1,"R. Brennan, J. Mola",2,,,,,
+2011,23-Aug,Seans,B,235,6,Dry,8:46,14:19,5:33,8:47,1,"R. Brennan",13:19,1,"R. Brennan, J. Mola",2,,,,,
+2011,23-Aug,Gothic,B,235,6,Willow,10:15,15:20,5:05,10:16,1,"R. Brennan",14:32,1,"R. Brennan, J. Mola",2,,,,,
+2011,23-Aug,Beaver,B,235,6,Veratrum,11:29,16:08,4:39,11:29,1,"R. Brennan",15:25,1,"R. Brennan, J. Mola",2,,,,,
+2011,24-Aug,Copper,D,236,5,Willow,9:34,14:11,4:37,9:35,1,"R. Brennan",13:09,1,"R. Brennan",2,,,,,
+2011,24-Aug,Little,D,236,6,Veratrum,10:38,15:19,4:41,10:39,1,"R. Brennan",14:14,1,"R. Brennan",2,,,,,
+2011,24-Aug,Hill,D,236,6,Dry,11:47,16:30,4:43,11:48,1,"R. Brennan",15:21,1,"R. Brennan",2,,,,,
+2011,25-Aug,"Kettle Ponds","Weather station",237,6,"Weather Station",9:02,14:30,5:28,9:02,1,"R. Brennan",13:48,1,"R. Brennan, J. Mola",2,,,,,
+2011,25-Aug,Snodgrass,"Weather station",237,6,"Weather Station",11:20,16:01,4:41,11:21,1,"R. Brennan",15:50,0.5,"R. Brennan, J. Mola",1.5,,,,,
+2011,26-Aug,Almont,"Weather station",238,6,"Weather Station",9:58,15:27,5:29,9:59,1,"R. Brennan",14:34,1,"R. Brennan",2,,,,,
+2011,31-Aug,"Mexican Cut","Weather station",243,4,"Weather Station",10:18,14:25,4:07,10:21,1,"R. Brennan, C. Donohar",NA,0,NA,1,,,,,
+2011,07-Sep,Beaver,B,250,7,Veratrum,8:54,14:41,5:47,8:54,1,"R. Brennan",13:39,1,"R. Brennan",2,,,,,
+2011,07-Sep,Gothic,B,250,7,Willow,10:04,15:48,5:44,10:04,1,"R. Brennan",14:45,1,"R. Brennan",2,,,,,
+2011,07-Sep,Seans,B,250,7,Dry,11:20,17:01,5:41,11:20,1,"R. Brennan",15:59,1,"R. Brennan",2,,,,,
+2011,08-Sep,Hill,D,251,7,Dry,9:00,13:58,4:58,9:00,1,"R. Brennan",12:45,1,"R. Brennan",2,,,,,
+2011,08-Sep,Copper,D,251,7,Willow,10:06,15:11,5:05,10:07,1,"R. Brennan",14:04,1,"R. Brennan",2,,,,,
+2011,08-Sep,Little,D,251,7,Veratrum,11:15,16:20,5:05,11:15,1,"R. Brennan",15:15,1,"R. Brennan",2,,,,,
+2011,09-Sep,"Kettle Ponds","Weather station",252,7,"Weather Station",8:54,14:55,6:01,8:54,1,"R. Brennan",13:48,1,"R. Brennan",2,,,,,
+2011,09-Sep,Snodgrass,"Weather station",252,7,"Weather Station",11:10,16:50,5:40,11:10,1,"R. Brennan",15:45,1,"R. Brennan",2,,,,,
+2011,12-Sep,Almont,"Weather station",255,7,"Weather Station",9:58,16:05,6:07,10:00,1,"R. Brennan",15:00,1,"R. Brennan",2,,,,,
+2011,13-Sep,Davids,A,256,7,Dry,8:55,14:22,5:27,8:55,1,"R. Brennan",13:15,1,"R. Brennan",2,,,,,
+2011,13-Sep,Tuttle,A,256,7,Veratrum,10:12,15:33,5:21,10:12,1,"R. Brennan",14:30,1,"R. Brennan",2,,,,,
+2011,13-Sep,Willey,A,256,7,Willow,11:18,16:41,5:23,11:18,1,"R. Brennan",15:35,1,"R. Brennan",2,,,,,
+2011,14-Sep,"Mexican Cut","Weather station",257,5,"Weather Station",10:00,14:55,4:55,10:15,1,"R. Brennan, C. Donohar",14:15,1,"R. Brennan, C. Donohar",2,,,,,
+2012,17-Apr,Almont,"Weather station",108,1,"Weather Station",10:30,16:50,6:20,10:40,1,"A. Slominski",15:40,1,"A. Slominski",2,,,,,
+2012,30-Apr,Almont,"Weather station",121,2,"Weather Station",9:30,16:30,7:00,9:45,1,"A. Slominski",14:55,1,"A. Slominski",2,,,,,
+2012,01-May,Davids,A,122,1,Dry,11:20,17:20,6:00,11:30,1,"A. Slominski",15:50,1,"A. Slominski",2,,,,,
+2012,03-May,Beaver,B,124,1,Veratrum,8:30,14:30,6:00,8:35,1,"A. Slominski",12:30,1,"A. Slominski",2,,,,,
+2012,03-May,Gothic,B,124,1,Willow,9:50,15:45,5:55,9:52,1,"A. Slominski",14:35,1,"A. Slominski",2,,,,,
+2012,03-May,Seans,B,124,1,Dry,11:10,17:00,5:50,11:12,1,"A. Slominski",15:55,1,"A. Slominski",2,,,,,
+2012,05-May,"Kettle Ponds","Weather station",126,1,"Weather Station",9:00,15:30,6:30,9:30,1,"A. Slominski",14:00,1,"A. Slominski",2,,,,,
+2012,10-May,Hill,D,131,1,Dry,10:00,16:30,6:30,10:05,1,"A. Slominski",14:05,1,"A. Slominski",2,,,,,
+2012,10-May,Little,D,131,1,Veratrum,11:20,18:00,6:40,11:40,1,"A. Slominski",15:10,1,"A. Slominski",2,,,,,
+2012,10-May,Copper,D,131,1,Willow,11:30,18:30,7:00,13:00,1,"A. Slominski",16:35,1,"A. Slominski",2,,,,,
+2012,14-May,Davids,A,135,2,Dry,8:45,15:25,6:40,9:00,1,"A. Slominski",14:00,1,"A. Slominski",2,,,,,
+2012,14-May,Tuttle,A,135,1,Veratrum,10:20,17:00,6:40,10:50,1,"A. Slominski",15:45,1,"A. Slominski",2,,,,,
+2012,14-May,Willey,A,135,1,Willow,10:30,18:20,7:50,12:25,1,"A. Slominski",17:05,1,"A. Slominski",2,,,,,
+2012,15-May,Seans,B,136,2,Dry,8:15,14:35,6:20,8:45,1,"A. Slominski",13:10,1,"A. Slominski",2,,,,,
+2012,15-May,Gothic,B,136,2,Willow,10:20,16:00,5:40,10:30,1,"A. Slominski",14:55,1,"A. Slominski",2,,,,,
+2012,15-May,Beaver,B,136,2,Veratrum,10:10,17:10,7:00,11:45,1,"A. Slominski",16:05,1,"A. Slominski",2,,,,,
+2012,19-May,Almont,"Weather station",140,3,"Weather Station",8:30,14:30,6:00,9:00,1,"A. Slominski",13:00,1,"A. Slominski",2,,,,,
+2012,21-May,Hill,D,142,2,Dry,10:02,15:30,5:28,10:10,0.5,"R. Brennan",14:40,0.5,"R. Brennan",1,,,,,
+2012,21-May,Little,D,142,2,Veratrum,10:50,16:05,5:15,10:52,0.5,"R. Brennan",15:31,0.5,"R. Brennan",1,,,,,
+2012,21-May,Copper,D,142,2,Willow,11:40,16:45,5:05,11:42,0.5,"R. Brennan",16:08,0.5,"R. Brennan",1,,,,,
+2012,22-May,"Kettle Ponds","Weather station",143,2,"Weather Station",9:01,16:20,7:19,9:02,1,"R. Brennan",15:12,1,"R. Brennan",2,,,,,
+2012,25-May,Snodgrass,"Weather station",146,1,"Weather Station",10:20,15:20,5:00,9:02,1,"R. Brennan",14:12,1,"R. Brennan",2,,,,,
+2012,29-May,Davids,A,150,3,Dry,8:45,13:45,5:00,8:58,1,"R. Brennan, A. Slominski",13:05,1,"R. Brennan, A. Slominski",2,,,,,
+2012,29-May,Willey,A,150,2,Willow,10:22,15:52,5:30,10:34,1,"R. Brennan, A. Slominski",14:04,1,"R. Brennan, A. Slominski",2,,,,,
+2012,29-May,Tuttle,A,150,2,Veratrum,11:20,15:31,4:11,11:29,1,"R. Brennan, A. Slominski",14:40,1,"R. Brennan, A. Slominski",2,,,,,
+2012,30-May,Beaver,B,151,3,Veratrum,9:05,14:20,5:15,9:06,1,"R. Brennan, A. Slominski",12:52,1,"R. Brennan, A. Slominski",2,,,,,
+2012,30-May,Gothic,B,151,3,Willow,9:52,14:10,4:18,10:00,1,"R. Brennan, A. Slominski",13:27,1,"R. Brennan, A. Slominski",2,,,,,
+2012,30-May,Seans,B,151,3,Dry,11:00,15:30,4:30,11:10,1,"R. Brennan, A. Slominski",14:37,1,"R. Brennan, A. Slominski",2,,,,,
+2012,31-May,Almont,"Weather station",152,4,"Weather Station",10:00,16:23,6:23,10:02,1,"R. Brennan",15:15,1,"R. Brennan",2,,,,,
+2012,04-Jun,Hill,D,156,3,Dry,9:10,14:48,5:38,11:00,1,"R. Brennan, A. Slominski",14:05,1,"R. Brennan, A. Slominski",2,,,,,
+2012,04-Jun,Little,D,156,3,Veratrum,9:28,15:04,5:36,10:24,1,"R. Brennan, A. Slominski",13:30,1,"R. Brennan, A. Slominski",2,,,,,
+2012,04-Jun,Copper,D,156,3,Willow,9:45,14:52,5:07,9:47,1,"R. Brennan, A. Slominski",12:55,1,"R. Brennan, A. Slominski",2,,,,,
+2012,05-Jun,Snodgrass,"Weather station",157,2,"Weather Station",10:20,16:00,5:40,10:21,1,"R. Brennan",14:50,1,"R. Brennan",2,,,,,
+2012,06-Jun,"Kettle Ponds","Weather station",158,3,"Weather Station",9:40,16:00,6:20,9:42,1,"R. Brennan",14:45,1,"R. Brennan",2,,,,,
+2012,11-Jun,Tuttle,A,163,3,Veratrum,9:10,13:50,4:40,9:25,1,"R. Brennan, SME, SET",13:15,1,"R. Brennan, SME, Maddie",2,,,,,
+2012,11-Jun,Willey,A,163,3,Willow,10:00,15:05,5:05,10:15,1,"R. Brennan, SME, SET",14:25,1,"R. Brennan, SME, Maddie",2,,,,,
+2012,11-Jun,Davids,A,163,4,Dry,11:25,16:20,4:55,11:35,1,"R. Brennan, SME, SET",15:40,1,"R. Brennan, SME, Maddie",2,,,,,
+2012,13-Jun,Beaver,B,165,4,Veratrum,9:38,15:20,5:42,9:40,1,"R. Brennan, SME",14:05,1,"R. Brennan, SME",2,,,,,
+2012,13-Jun,Gothic,B,165,4,Willow,10:27,15:25,4:58,10:30,1,"R. Brennan, SME",14:40,1,"R. Brennan, SME",2,,,,,
+2012,13-Jun,Seans,B,165,4,Dry,11:20,16:40,5:20,11:30,1,"R. Brennan, SME",15:57,1,"R. Brennan, SME",2,,,,,
+2012,14-Jun,"Mexican Cut","Weather station",166,1,"Weather Station",10:45,15:05,4:20,10:50,1,"R. Brennan, L. Barbour",14:30,1,"R. Brennan, L. Barbour",2,,,,,
+2012,15-Jun,Almont,"Weather station",167,5,"Weather Station",10:35,16:30,5:55,10:36,1,"R. Brennan",15:20,1,"R. Brennan",2,,,,,
+2012,18-Jun,Copper,D,170,4,Willow,9:44,14:25,4:41,9:45,1,"R. Brennan, SET",13:45,1,"R. Brennan, SET",2,,,,,
+2012,18-Jun,Little,D,170,4,Veratrum,10:29,15:10,4:41,10:30,1,"R. Brennan, SET",14:30,1,"R. Brennan, SET",2,,,,,
+2012,18-Jun,Hill,D,170,4,Dry,11:21,15:55,4:34,11:22,1,"R. Brennan, SET",15:15,1,"R. Brennan, SET",2,,,,,
+2012,20-Jun,Snodgrass,"Weather station",172,3,"Weather Station",10:28,16:30,6:02,10:30,1,"R. Brennan, SET",15:30,1,"R. Brennan, SET",2,,,,,
+2012,21-Jun,1,Control,173,,Control,10:39,16:20,5:41,10:53,1,SET,15:26,1,"SET, Z. Gezon",2,,,,,
+2012,21-Jun,"Kettle Ponds","Weather station",173,4,"Weather Station",9:45,15:51,6:06,9:46,1,"R. Brennan, SME",15:10,1,"R. Brennan, SME",2,,,,,
+2012,25-Jun,2,Control,177,,Control,10:00,14:10,4:10,11:40,1,"SET, SME",13:30,1,"SET, SME",2,,,,,
+2012,25-Jun,Almont,"Weather station",177,6,"Weather Station",10:15,16:20,6:05,10:16,1,"R. Brennan",15:10,1,"R. Brennan",2,,,,,
+2012,26-Jun,Davids,A,178,5,Dry,9:24,14:12,4:48,9:25,1,"R. Brennan, SME",13:30,1,"R. Brennan, SME",2,,,,,
+2012,26-Jun,Willey,A,178,4,Willow,10:30,15:13,4:43,10:31,1,"R. Brennan, SME",14:40,1,"R. Brennan, SME",2,,,,,
+2012,26-Jun,Tuttle,A,178,4,Veratrum,11:20,15:55,4:35,11:21,1,"R. Brennan, SME",15:15,1,"R. Brennan, SME",2,,,,,
+2012,27-Jun,Seans,B,179,5,Dry,9:05,14:04,4:59,9:15,1,"R. Brennan, A. Ochs",13:22,1,"R. Brennan, A. Ochs",2,,,,,
+2012,27-Jun,Gothic,B,179,5,Willow,10:09,14:55,4:46,10:10,1,"R. Brennan, A. Ochs",14:15,1,"R. Brennan, A. Ochs",2,,,,,
+2012,27-Jun,Beaver,B,179,5,Veratrum,10:54,15:40,4:46,10:55,1,"R. Brennan, A. Ochs",15:00,1,"R. Brennan, A. Ochs",2,,,,,
+2012,29-Jun,"Mexican Cut","Weather station",181,2,"Weather Station",9:55,15:05,5:10,10:05,1,"R. Brennan, A. Slominski",14:27,1,"R. Brennan, A. Slominski",2,,,,,
+2012,02-Jul,Hill,D,184,5,Dry,9:40,15:45,6:05,9:42,1,"R. Brennan, A. Ochs",13:26,1,"R. Brennan, A. Ochs",2,,,,,
+2012,02-Jul,Little,D,184,5,Veratrum,10:31,15:35,5:04,10:32,1,"R. Brennan, A. Ochs",14:06,1,"R. Brennan, A. Ochs",2,,,,,
+2012,02-Jul,Copper,D,184,5,Willow,11:20,15:20,4:00,11:22,1,"R. Brennan, A. Ochs",14:40,1,"R. Brennan, A. Ochs",2,,,,,
+2012,03-Jul,"Lower Loop",Control,185,,Control,10:40,14:58,4:18,10:45,1,"SET, A. Slominski",14:09,1,"SET, A. Slominski",2,,,,,
+2012,03-Jul,Snodgrass,"Weather station",185,4,"Weather Station",9:57,15:45,5:48,9:58,1,"R. Brennan, A. Ochs",15:05,1,"R. Brennan, A. Ochs",2,,,,,
+2012,03-Jul,"Kettle Ponds","Weather station",185,5,"Weather Station",11:40,17:00,5:20,11:41,1,"R. Brennan, A. Ochs",13:30,1,"R. Brennan, A. Ochs",2,,,,,
+2012,09-Jul,Tuttle,A,191,5,Veratrum,9:09,14:05,4:56,9:10,1,"R. Brennan, A. Ochs",13:15,1,"R. Brennan, A. Ochs",2,,,,,
+2012,09-Jul,Willey,A,191,5,Willow,9:59,15:00,5:01,10:00,1,"R. Brennan, A. Ochs",14:15,1,"R. Brennan, A. Ochs",2,,,,,
+2012,09-Jul,Davids,A,191,6,Dry,11:08,16:05,4:57,11:09,1,"R. Brennan, A. Ochs",15:20,1,"R. Brennan, A. Ochs",2,,,,,
+2012,10-Jul,Beaver,B,192,6,Veratrum,9:04,14:20,5:16,9:05,1,"R. Brennan, A. Ochs",13:30,1,"R. Brennan, A. Ochs",2,,,,,
+2012,10-Jul,Gothic,B,192,6,Willow,9:52,15:10,5:18,9:53,1,"R. Brennan, A. Ochs",14:30,1,"R. Brennan, A. Ochs",2,,,,,
+2012,10-Jul,Seans,B,192,6,Dry,10:50,16:10,5:20,10:51,1,"R. Brennan, A. Ochs",15:25,1,"R. Brennan, A. Ochs",2,,,,,
+2012,10-Jul,Slate,Control,192,,Control,11:08,15:30,4:22,11:13,1,"SET, SME",14:46,1,"SET, SME",2,,,,,
+2012,11-Jul,"Mexican Cut","Weather station",193,3,"Weather Station",10:10,15:05,4:55,10:12,1,"R. Brennan, A. Ochs",14:08,1,"R. Brennan, A. Ochs",2,,,,,
+2012,12-Jul,Almont,"Weather station",194,7,"Weather Station",9:00,15:05,6:05,9:02,1,"R. Brennan",14:00,1,"R. Brennan",2,,,,,
+2012,17-Jul,"Washington Gulch 2",Control,199,,Control,10:15,14:38,4:23,10:16,1,"SET, A. Slominski",13:44,1,"SET, A. Slominski",2,,,,,
+2012,18-Jul,Copper,D,200,6,Willow,9:35,13:45,4:10,9:35,1,"R. Brennan, A. Ochs",13:03,1,"R. Brennan, A. Ochs",2,,,,,
+2012,18-Jul,Little,D,200,6,Veratrum,10:20,14:30,4:10,10:21,1,"R. Brennan, A. Ochs",13:50,1,"R. Brennan, A. Ochs",2,,,,,
+2012,18-Jul,Hill,D,200,6,Dry,11:05,15:20,4:15,11:10,1,"R. Brennan, A. Ochs",14:40,1,"R. Brennan, A. Ochs",2,,,,,
+2012,19-Jul,Snodgrass,"Weather station",201,5,"Weather Station",11:05,15:40,4:35,11:06,1,"R. Brennan, SME",NA,0,NA,1,,,,,
+2012,19-Jul,"Kettle Ponds","Weather station",201,6,"Weather Station",8:40,14:10,5:30,8:45,1,"R. Brennan",13:30,1,"R. Brennan, SME",2,,,,,
+2012,24-Jul,"Rosey Point",Control,206,,Control,9:54,14:33,4:39,9:56,1,"SET, SME",13:57,1,"SET, SME",2,,,,,
+2012,24-Jul,Davids,A,206,7,Dry,8:55,13:55,5:00,8:55,1,"R. Brennan, A. Slominski",13:15,1,"R. Brennan, A. Slominski",2,,,,,
+2012,24-Jul,Willey,A,206,6,Willow,10:05,14:55,4:50,10:05,1,"R. Brennan, A. Slominski",14:15,1,"R. Brennan, A. Slominski",2,,,,,
+2012,24-Jul,Tuttle,A,206,6,Veratrum,10:55,15:45,4:50,10:55,1,"R. Brennan, A. Slominski",15:05,1,"R. Brennan, A. Slominski",2,,,,,
+2012,25-Jul,Almont,"Weather station",207,,"Weather Station",8:55,15:15,6:20,8:55,1,"R. Brennan, P. Caradonna",14:30,1,"R. Brennan, P. Caradonna",2,,,,,
+2012,26-Jul,Beaver,B,208,7,Veratrum,9:05,14:05,5:00,9:05,1,"R. Brennan, SET",13:25,1,"R. Brennan, SET",2,,,,,
+2012,26-Jul,Gothic,B,208,7,Willow,9:50,14:50,5:00,9:52,1,"R. Brennan, SET",14:10,1,"R. Brennan, SET",2,,,,,
+2012,26-Jul,Seans,B,208,7,Dry,10:45,15:40,4:55,10:46,1,"R. Brennan, SET",15:05,1,"R. Brennan, SET",2,,,,,
+2012,27-Jul,"Mexican Cut","Weather station",209,,"Weather Station",10:27,15:37,5:10,10:29,1,"R. Brennan, SME",15:00,1,"R. Brennan, SME",2,,,,,
+2012,31-Jul,Hill,D,213,7,Dry,9:05,13:55,4:50,9:10,1,"R. Brennan, A. Ochs",13:15,1,"R. Brennan, A. Ochs",2,,,,,
+2012,31-Jul,Little,D,213,7,Veratrum,10:00,14:42,4:42,10:02,1,"R. Brennan, A. Ochs",14:00,1,"R. Brennan, A. Ochs",2,,,,,
+2012,31-Jul,Copper,D,213,7,Willow,11:05,15:25,4:20,11:05,1,"R. Brennan, A. Ochs",14:45,1,"R. Brennan, A. Ochs",2,,,,,
+2012,01-Aug,Snodgrass,"Weather station",214,,"Weather Station",9:10,15:04,5:54,9:15,1,"R. Brennan, SME",14:20,1,"R. Brennan, SME",2,,,,,
+2012,01-Aug,"Kettle Ponds","Weather station",214,,"Weather Station",11:00,16:50,5:50,11:02,1,"R. Brennan, SME",16:13,1,"R. Brennan, SME",2,,,,,
+2012,06-Aug,"Avery Parking Lot",Control,219,,Control,9:10,14:55,5:45,10:40,1,"A. Slominski, SME, A. Ochs",14:25,1,"A. Slominski, SME, A. Ochs",2,,,,,
+2012,06-Aug,"Marmot Meadow",Control,219,,Control,9:25,15:30,6:05,10:12,1,"A. Slominski, SME, A. Ochs",15:05,1,"A. Slominski, SME, A. Ochs",2,,,,,
+2012,06-Aug,"Avery 3",Control,219,,Control,9:40,15:50,6:10,9:42,1,"A. Slominski, SME, A. Ochs",NA,0,NA,1,,,,,
+2012,07-Aug,"Copper Ipo",Control,220,,Control,9:24,14:13,4:49,9:29,1,"SME, A. Ochs",13:35,1,"SME, A. Ochs",2,,,,,
+2012,07-Aug,"Copper Creek 2",Control,220,,Control,10:28,15:07,4:39,10:31,1,"SME, A. Ochs",14:25,1,"SME, A. Ochs",2,,,,,
+2012,08-Aug,Tuttle,A,221,7,Veratrum,9:00,14:15,5:15,9:00,1,"R. Brennan, A. Ochs",13:35,1,"R. Brennan, A. Ochs",2,,,,,
+2012,08-Aug,Willey,A,221,7,Willow,9:45,15:00,5:15,9:45,1,"R. Brennan, A. Ochs",14:20,1,"R. Brennan, A. Ochs",2,,,,,
+2012,08-Aug,Davids,A,221,8,Dry,11:00,16:00,5:00,11:00,1,"R. Brennan, A. Ochs",15:20,1,"R. Brennan, A. Ochs",2,,,,,
+2012,09-Aug,Seans,B,222,8,Dry,9:08,14:10,5:02,9:09,1,"R. Brennan, A. Ochs",13:30,1,"R. Brennan, A. Ochs",2,,,,,
+2012,09-Aug,Gothic,B,222,8,Willow,10:00,15:05,5:05,10:00,1,"R. Brennan, A. Ochs",14:25,1,"R. Brennan, A. Ochs",2,,,,,
+2012,09-Aug,Beaver,B,222,8,Veratrum,10:48,15:45,4:57,10:50,1,"R. Brennan, A. Ochs",15:10,1,"R. Brennan, A. Ochs",2,,,,,
+2012,10-Aug,"Mexican Cut","Weather station",223,,"Weather Station",10:05,14:50,4:45,10:06,1,"R. Brennan, SME",14:10,1,"R. Brennan, SME",2,,,,,
+2012,14-Aug,Hill,D,227,8,Dry,9:30,14:20,4:50,9:31,1,"R. Brennan, SME",13:40,1,"R. Brennan, SME",2,,,,,
+2012,14-Aug,Little,D,227,8,Veratrum,10:20,15:00,4:40,10:21,1,"R. Brennan, SME",14:25,1,"R. Brennan, SME",2,,,,,
+2012,14-Aug,Copper,D,227,8,Willow,11:10,15:40,4:30,11:11,1,"R. Brennan, SME",15:03,1,"R. Brennan, SME",2,,,,,
+2012,17-Aug,Snodgrass,"Weather station",230,,"Weather Station",10:25,15:15,4:50,10:30,1,"R. Brennan, SME",14:40,0.5,"R. Brennan",1.5,,,,,
+2012,17-Aug,"Kettle Ponds","Weather station",230,,"Weather Station",12:50,16:45,3:55,13:00,1,"R. Brennan, SME",16:10,0.5,"R. Brennan",1.5,,,,,
+2012,20-Aug,Davids,A,233,9,Dry,9:15,13:40,4:25,9:25,1,"R. Brennan, R. Irwin",NA,0,NA,1,,,,,
+2012,20-Aug,Willey,A,233,8,Willow,10:40,14:00,3:20,10:45,1,"R. Irwin",NA,0,NA,1,,,,,
+2012,20-Aug,Tuttle,A,233,8,Veratrum,11:05,14:20,3:15,11:10,1,"R. Brennan, R. Irwin",NA,0,NA,1,,,,,
+2012,21-Aug,"Mexican Cut","Weather station",234,,"Weather Station",10:00,15:30,5:30,10:05,1,"R. Brennan",14:15,1,"R. Brennan",2,,,,,
+2012,23-Aug,Almont,"Weather station",236,,"Weather Station",10:30,16:15,5:45,10:35,1,"R. Brennan",15:10,1,"R. Brennan",2,,,,,
+2012,27-Aug,Beaver,B,240,,Veratrum,9:35,14:25,4:50,9:35,1,"R. Brennan, DC",13:45,1,"R. Brennan, DC",2,,,,,
+2012,27-Aug,Gothic,B,240,,Willow,10:25,15:20,4:55,10:25,1,"R. Brennan, DC",14:40,1,"R. Brennan, DC",2,,,,,
+2012,27-Aug,Seans,B,240,,Dry,11:20,16:30,5:10,11:20,1,"R. Brennan, DC",15:45,1,"R. Brennan, DC",2,,,,,
+2013,05-May,Almont,"Weather station",125,1,"Weather Station",9:55,14:30,4:35,9:55,0.5,"Z. Gezon",13:50,0.5,"Z. Gezon",1,,,,,
+2013,18-May,Almont,"Weather station",138,2,"Weather Station",10:27,14:48,4:21,10:27,1,"Z. Gezon",13:11,1,"Z. Gezon",2,,,,,
+2013,04-Jun,Tuttle,A,155,1,Veratrum,8:25,14:44,6:19,8:26,1,"Z. Gezon, J. Andicoechea, N. Hass",14:00,1,"Z. Gezon, J. Andicoechea",2,,,,,
+2013,04-Jun,Willey,A,155,1,Willow,9:18,15:37,6:19,9:18,1,"Z. Gezon, J. Andicoechea, N. Hass",14:48,1,"Z. Gezon, J. Andicoechea",2,,,,,
+2013,04-Jun,Davids,A,155,1,Dry,10:25,16:35,6:10,10:26,1,"Z. Gezon, J. Andicoechea, N. Hass",15:52,1,"Z. Gezon, J. Andicoechea",2,,,,,
+2013,05-Jun,Almont,"Weather station",156,3,"Weather Station",11:07,15:50,4:43,11:08,1,"Z. Gezon, J. Andicoechea",15:00,1,"Z. Gezon, J. Andicoechea",2,,,,,
+2013,10-Jun,"Kettle Ponds","Weather station",161,1,"Weather Station",8:52,15:30,6:38,8:55,1,"J. Andicoechea, A. Ochs",14:53,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,11-Jun,Snodgrass,"Weather station",162,1,"Weather Station",10:30,14:55,4:25,10:55,1,"J. Andicoechea, A. Ochs",13:30,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,12-Jun,Hill,D,163,1,Dry,8:47,15:46,6:59,9:14,1,"J. Andicoechea, A. Ochs",15:14,1,"R. Shearer, J. Andicoechea, A. Ochs",2,,,,,
+2013,12-Jun,Copper,D,163,1,Willow,9:50,16:26,6:36,10:05,1,"J. Andicoechea, A. Ochs",15:36,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,12-Jun,Little,D,163,1,Veratrum,10:40,16:51,6:11,10:49,1,"J. Andicoechea, A. Ochs",16:35,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,13-Jun,Beaver,B,164,1,Veratrum,8:36,14:25,5:49,8:56,1,"A. Ochs, J. Andicoechea, R. Shearer",13:58,1,"A. Ochs, J. Andicoechea, R. Shearer",2,,,,,
+2013,13-Jun,Gothic,B,164,1,Willow,9:28,15:01,5:33,9:53,1,"A. Ochs, J. Andicoechea, R. Shearer",14:34,1,"A. Ochs, J. Andicoechea, R. Shearer",2,,,,,
+2013,13-Jun,Seans,B,164,1,Dry,10:31,16:00,5:29,11:03,1,"A. Ochs, J. Andicoechea, R. Shearer",15:35,1,"A. Ochs, J. Andicoechea, R. Shearer",2,,,,,
+2013,17-Jun,Tuttle,A,168,2,Veratrum,8:20,13:53,5:33,8:27,1,"J. Andicoechea, A. Ochs",13:22,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,17-Jun,Willey,A,168,2,Willow,8:59,14:05,5:06,9:07,1,"J. Andicoechea, A. Ochs",12:48,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,17-Jun,Davids,A,168,2,Dry,9:57,15:05,5:08,9:57,1,"J. Andicoechea, A. Ochs",14:30,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,18-Jun,Almont,"Weather station",169,4,"Weather Station",9:19,15:35,6:16,9:30,1,"J. Andicoechea, A. Ochs",14:30,1,"A. Ochs",2,,,,,
+2013,21-Jun,"Mexican Cut","Weather station",172,1,"Weather Station",9:50,16:12,6:22,9:53,1,"R. Shearer, J. Andicoechea, Z. Gezon, M. Combs",15:02,1,"J. Andicoechea",2,,,,,
+2013,24-Jun,Snodgrass,"Weather station",175,2,"Weather Station",9:06,15:37,6:31,9:25,1,"J. Andicoechea",14:49,1,"J. Andicoechea",2,,,,,
+2013,24-Jun,"Kettle Ponds","Weather station",175,2,"Weather Station",9:00,15:28,6:28,9:10,1,"A. Ochs, R. Shearer",14:20,1,"A. Ochs, R. Shearer",2,,,,,
+2013,25-Jun,Beaver,B,176,2,Veratrum,8:37,14:15,5:38,8:47,1,"A. Ochs, J. Andicoechea",13:04,1,"A. Ochs, J. Andicoechea",2,,,,,
+2013,25-Jun,Gothic,B,176,2,Willow,9:34,14:08,4:34,9:41,1,"A. Ochs, J. Andicoechea",13:45,1,"A. Ochs, J. Andicoechea",2,,,,,
+2013,25-Jun,Seans,B,176,2,Dry,10:39,15:49,5:10,10:48,1,"A. Ochs, J. Andicoechea",14:45,1,"A. Ochs, J. Andicoechea",2,,,,,
+2013,27-Jun,Hill,D,178,2,Dry,8:40,15:54,7:14,11:28,1,"A. Ochs",12:45,1,"A. Ochs",2,,,,,
+2013,27-Jun,Little,D,178,2,Veratrum,9:00,15:40,6:40,10:27,1,"A. Ochs",13:45,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,27-Jun,Copper,D,178,2,Willow,9:15,15:30,6:15,9:25,1,"A. Ochs",14:50,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,01-Jul,Tuttle,A,182,3,Veratrum,8:11,14:35,6:24,8:26,1,"C. Phillips, A. Ochs, J. Andicoechea",13:35,1,"C. Phillips, A. Ochs, J. Andicoechea",2,,,,,
+2013,01-Jul,Willey,A,182,3,Willow,8:54,14:45,5:51,9:13,1,"C. Phillips, A. Ochs, J. Andicoechea",12:32,1,"C. Phillips, A. Ochs, J. Andicoechea",2,,,,,
+2013,01-Jul,Davids,A,182,3,Dry,9:51,15:55,6:04,10:00,1,"C. Phillips, A. Ochs, J. Andicoechea",14:55,1,"C. Phillips, A. Ochs, J. Andicoechea",2,,,,,
+2013,02-Jul,"Mexican Cut","Weather station",183,2,"Weather Station",9:07,14:35,5:28,9:18,1,"C. Phillips, A. Ochs, J. Andicoechea",14:08,1,"C. Phillips, A. Ochs, J. Andicoechea",2,,,,,
+2013,05-Jul,Almont,"Weather station",186,5,"Weather Station",9:36,15:22,5:46,9:57,1,"J. Andicoechea",14:01,1,"J. Andicoechea",2,,,,,
+2013,15-Jul,"Kettle Ponds","Weather station",196,3,"Weather Station",9:32,13:45,4:13,9:48,1,"J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because it was drizzling (and eventually thundersorming)"
+2013,16-Jul,Snodgrass,"Weather station",197,3,"Weather Station",9:48,12:55,3:07,10:05,1,"J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,19-Jul,Beaver,B,200,3,Veratrum,10:30,13:28,2:58,10:55,1,"R. Irwin, J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,19-Jul,Gothic,B,200,3,Willow,9:52,13:09,3:17,11:40,1,"R. Irwin, J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,19-Jul,Seans,B,200,3,Dry,8:18,13:00,4:42,8:43,1,"J. Andicoechea",12:48,0.3,"R. Irwin",1.3,,,,,
+2013,22-Jul,Hill,D,203,3,Dry,8:40,14:30,5:50,11:13,1,"A. Ochs",12:45,1,"A. Ochs, J. Andicoechea",2,,,,,
+2013,22-Jul,Little,D,203,3,Veratrum,8:53,14:50,5:57,10:12,1,"A. Ochs",13:17,1,"A. Ochs, J. Andicoechea",2,,,,,
+2013,22-Jul,Copper,D,203,3,Willow,9:03,15:10,6:07,9:10,1,"A. Ochs",13:50,1,"A. Ochs, J. Andicoechea",2,,,,,
+2013,23-Jul,Tuttle,A,204,4,Veratrum,8:19,14:12,5:53,8:20,1,"A. Ochs",13:33,1,"A. Ochs, J. Andicoechea",2,,,,,
+2013,23-Jul,Willey,A,204,4,Willow,9:26,14:53,5:27,9:26,1,"A. Ochs",14:14,1,"A. Ochs, J. Andicoechea",2,,,,,
+2013,23-Jul,Davids,A,204,4,Dry,10:35,15:58,5:23,10:44,1,"A. Ochs, J. Andicoechea",15:10,1,"A. Ochs, J. Andicoechea",2,,,,,
+2013,24-Jul,Almont,"Weather station",205,6,"Weather Station",9:03,14:00,4:57,9:10,1,"A. Ochs",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,26-Jul,"Mexican Cut","Weather station",207,3,"Weather Station",9:28,14:02,4:34,9:55,1,"J. Andicoechea, M. Combs",12:38,1,"J. Andicoechea, M. Combs",2,,,,,
+2013,31-Jul,Beaver,B,212,4,Veratrum,8:20,12:58,4:38,8:35,1,"A. Ochs",12:32,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,31-Jul,Gothic,B,212,4,Willow,9:41,13:45,4:04,9:54,0.5,"A. Ochs",13:12,1,"J. Andicoechea, A. Ochs",1.5,,,,,
+2013,31-Jul,Seans,B,212,4,Dry,10:45,14:48,4:03,10:56,1,"J. Andicoechea, A. Ochs",14:05,1,"J. Andicoechea, A. Ochs",2,,,,,
+2013,02-Aug,Snodgrass,"Weather station",214,4,"Weather Station",9:02,15:54,6:52,10:05,1,"J. Andicoechea",14:36,1,"J. Andicoechea",2,,,,,
+2013,05-Aug,Tuttle,A,217,5,Veratrum,8:18,12:35,4:17,8:28,1,"A. Ochs, J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,05-Aug,Willey,A,217,5,Willow,9:00,12:45,3:45,9:08,1,"A. Ochs, J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,05-Aug,Davids,A,217,5,Dry,9:55,12:46,2:51,10:04,1,"A. Ochs, J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,06-Aug,Almont,"Weather station",218,7,"Weather Station",9:38,14:34,4:56,9:15,1,"A. Ochs, J. Andicoechea",14:11,0.67,"J. Andicoechea, A. Ochs",1.67,,,,,
+2013,14-Aug,Copper,D,226,4,Willow,9:15,13:45,4:30,10:07,1,"G. Pardee, J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,14-Aug,Little,D,226,4,Veratrum,9:34,13:23,3:49,11:00,1,"G. Pardee, J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,14-Aug,Hill,D,226,4,Dry,9:45,13:45,4:00,11:36,1,"G. Pardee, J. Andicoechea",12:41,1,"G. Pardee, J. Andicoechea",2,,,,,"25 bowls -- missing two yellow, two white and one blue"
+2013,15-Aug,"Mexican Cut","Weather station",227,4,"Weather Station",11:08,13:50,2:42,11:41,1,"R. Irwin, G. Pardee",13:15,1,"R. Irwin, G. Pardee",2,,,,,"Intermittent rain"
+2013,16-Aug,Seans,B,228,5,Dry,8:39,15:01,6:22,8:45,1,"G. Pardee, J. Andicoechea",14:28,0.5,"J. Andicoechea",1.5,,,,,
+2013,16-Aug,Gothic,B,228,5,Willow,9:29,15:52,6:23,9:39,1,"G. Pardee, J. Andicoechea",15:19,0.5,"J. Andicoechea",1.5,,,,,
+2013,16-Aug,Beaver,B,228,5,Veratrum,10:11,16:42,6:31,10:19,1,"G. Pardee, J. Andicoechea",16:04,0.5,"J. Andicoechea",1.5,,,,,
+2013,18-Aug,Snodgrass,"Weather station",230,5,"Weather Station",9:57,12:48,2:51,10:15,1,"J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2013,19-Aug,Almont,"Weather station",231,8,"Weather Station",10:45,15:30,4:45,11:30,1,"R. Irwin",14:30,1,"R. Irwin",2,,,,,"28 bowls -- missing one yellow and one white"
+2013,19-Aug,Tuttle,A,231,6,Veratrum,9:55,13:55,4:00,10:02,1,"G. Pardee, J. Andicoechea",13:35,1,"G. Pardee, J. Andicoechea",2,,,,,
+2013,19-Aug,Willey,A,231,6,Willow,10:35,14:40,4:05,10:42,1,"G. Pardee, J. Andicoechea",14:46,0.25,"G. Pardee, J. Andicoechea",1.25,,,,,"Rainstorms approaching"
+2013,19-Aug,Davids,A,231,6,Dry,11:30,15:05,3:35,11:45,1,"G. Pardee, J. Andicoechea",NA,0,NA,1,,,,,"Afternoon netting not carried out because of approaching thunderstorm"
+2014,02-Jun,Almont,"Weather station",153,1,"Weather Station",9:05,15:10,6:05,9:48,1,"J. Andicoechea, E. Graber",14:33,1,"J. Andicoechea, E. Graber",2,,,,,
+2014,03-Jun,Davids,A,154,1,Dry,9:35,14:55,5:20,9:51,1,"A. Ochs, J. Andicoechea, E. Graber",14:20,1,"A. Ochs, J. Andicoechea, E. Graber",2,,,,,
+2014,03-Jun,Willey,A,154,1,Willow,8:53,14:05,5:12,8:59,1,"A. Ochs, J. Andicoechea, E. Graber",13:40,1,"A. Ochs, J. Andicoechea, E. Graber",2,,,,,
+2014,03-Jun,Tuttle,A,154,1,Veratrum,8:15,13:30,5:15,8:25,1,"A. Ochs, J. Andicoechea, E. Graber",13:06,1,"A. Ochs, J. Andicoechea, E. Graber",2,,,,,
+2014,04-Jun,Snodgrass,"Weather station",155,1,"Weather Station",9:41,15:20,5:39,9:42,1,"E. Graber, A. Ochs",14:33,1,"E. Graber, A. Ochs",2,,,,,
+2014,04-Jun,"Kettle Ponds","Weather station",155,1,"Weather Station",9:02,14:46,5:44,9:27,1,"J. Andicoechea",13:15,1,"J. Andicoechea",2,,,,,
+2014,05-Jun,Seans,B,156,1,Dry,8:32,13:42,5:10,8:40,1,"A. Ochs, J. Andicoechea, E. Graber",13:20,1,"A. Ochs, J. Andicoechea, E. Graber",2,,,,,
+2014,05-Jun,Beaver,B,156,0,Veratrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,"Not sampled because of river"
+2014,05-Jun,Gothic,B,156,0,Willow,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,"Not sampled because of river"
+2014,06-Jun,Hill,D,157,1,Dry,8:32,14:35,6:03,8:45,1,"A. Ochs, J. Andicoechea, E. Graber",13:06,1,"J. Andicoechea",2,,,,,
+2014,06-Jun,Copper,D,157,1,Willow,9:14,15:02,5:48,9:20,1,"A. Ochs, J. Andicoechea, E. Graber",12:00,1,"J. Andicoechea",2,,,,,
+2014,06-Jun,Little,D,157,0,Veratrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,"Not sampled because of snow"
+2014,13-Jun,Davids,A,164,2,Dry,10:25,16:10,5:45,10:27,1,"G. Paton, E. Graber",16:19,1,"G. Paton, E. Graber",2,,,,,
+2014,13-Jun,Willey,A,164,2,Willow,8:45,15:10,6:25,8:45,1,"G. Paton, E. Graber",14:34,1,"A. Oestmann, E. Graber, A. Ochs",2,,,,,
+2014,13-Jun,Tuttle,A,164,2,Veratrum,9:27,15:39,6:12,9:28,1,"G. Paton, E. Graber",15:13,1,"G. Paton, E. Graber",2,,,,,
+2014,13-Jun,Almont,"Weather station",164,2,"Weather Station",9:02,14:46,5:44,9:40,1,"A. Ochs",14:05,1,"A. Ochs",2,,,,,
+2014,16-Jun,Snodgrass,"Weather station",167,2,"Weather Station",9:10,14:40,5:30,9:12,1,"G. Paton, E. Graber, A. Ochs",14:12,1,"G. Paton, E. Graber, A. Ochs",2,,,,,
+2014,16-Jun,"Kettle Ponds","Weather station",167,2,"Weather Station",11:00,16:30,5:30,11:03,1,"A. Ochs, G. Paton, E. Graber",15:45,1,"E. Graber, G. Paton",2,,,,,
+2014,17-Jun,Seans,B,168,2,Dry,8:35,14:19,5:44,8:30,1,"G. Paton, A. Oestmann, E. Graber, A. Ochs",13:48,1,"G. Paton, A. Oestmann, E. Graber, A. Ochs",2,,,,,
+2014,17-Jun,Beaver,B,168,1,Veratrum,9:27,15:07,5:40,9:15,1,"G. Paton, A. Oestmann",14:36,1,"G. Paton, A. Oestmann",2,,,,,
+2014,17-Jun,Gothic,B,168,1,Willow,10:05,15:38,5:33,9:55,1,"G. Paton, A. Oestmann",15:11,1,"G. Paton, A. Oestmann",2,,,,,
+2014,18-Jun,Hill,D,169,2,Dry,8:53,13:34,4:41,11:35,1,"A. Ochs, E. Graber",NA,0,NA,1,,,,,"Rain in PM"
+2014,18-Jun,Copper,D,169,2,Willow,9:23,13:52,4:29,10:04,1,"A. Ochs, E. Graber",12:41,1,"A. Ochs, E. Graber",2,,,,,
+2014,18-Jun,Little,D,169,1,Veratrum,9:08,13:36,4:28,10:50,1,"A. Ochs, E. Graber",13:15,1,"A. Ochs, E. Graber",2,,,,,
+2014,26-Jun,Almont,"Weather station",177,3,"Weather Station",9:08,15:05,5:57,9:35,1,"A. Ochs",14:00,1,"A. Ochs",2,,,,,
+2014,30-Jun,Willey,A,181,3,Willow,8:25,14:45,6:20,8:27,1,"S. White, A. Oestmann",13:50,1,"S. White, A. Oestmann",2,,,,,
+2014,30-Jun,Tuttle,A,181,3,Veratrum,9:20,15:30,6:10,9:10,1,"S. White, A. Oestmann",14:50,1,"E. Graber, S. White",2,,,,,
+2014,30-Jun,Davids,A,181,3,Dry,10:07,16:20,6:13,10:02,1,"A. Oestmann, S. White",16:00,1,"S. White, A. Oestmann",2,,,,,
+2014,01-Jul,"Kettle Ponds","Weather station",182,3,"Weather Station",11:06,17:03,5:57,11:00,1,"E. Graber, A. Ochs, S. White",16:26,1,"E. Graber, A. Ochs, S. White",2,,,,,
+2014,01-Jul,Snodgrass,"Weather station",182,3,"Weather Station",9:25,15:09,5:44,9:15,1,"S. White, A. Ochs",14:06,1,"E. Graber, S. White, A. Ochs",2,,,,,
+2014,02-Jul,Seans,B,183,3,Dry,8:20,14:30,6:10,8:15,1,"S. White, A. Oestmann",14:01,1,"E. Graber, A. Oestmann, S. White",2,,,,,
+2014,02-Jul,Gothic,B,183,2,Willow,10:02,16:15,6:13,10:04,1,"S. White, A. Oestmann",15:45,1,"E. Graber, S. White",2,,,,,
+2014,02-Jul,Beaver,B,183,2,Veratrum,9:24,15:30,6:06,9:13,1,"S. White, A. Oestmann",15:00,1,"S. White, A. Oestmann",2,,,,,
+2014,03-Jul,Hill,D,184,3,Dry,9:02,15:15,6:13,9:00,1,"A. Oestmann, S. White",NA,0,NA,1,,,,,"Rain in PM"
+2014,03-Jul,Little,D,184,2,Veratrum,9:45,14:53,5:08,9:43,1,"A. Oestmann, S. White",NA,0,NA,1,,,,,"Rain in PM"
+2014,03-Jul,Copper,D,184,3,Willow,10:20,14:30,4:10,10:20,1,"A. Oestmann, S. White",NA,0,NA,1,,,,,"Rain in PM"
+2014,11-Jul,"Mexican Cut","Weather station",192,1,"Weather Station",10:40,12:00,1:20,10:31,1,"A. Oestmann",NA,0,NA,1,,,,,"Rain in PM"
+2014,13-Jul,Willey,A,194,4,Willow,8:44,14:58,6:14,8:35,1,"A. Oestmann",13:15,1,"A. Oestmann, E. Graber",2,,,,,
+2014,13-Jul,Davids,A,194,4,Dry,9:35,16:00,6:25,10:15,1,"A. Oestmann, E. Graber",NA,0,NA,1,,,,,"Rain in PM"
+2014,13-Jul,Tuttle,A,194,4,Veratrum,9:00,15:10,6:10,9:37,1,"A. Oestmann",15:00,0.75,"E. Graber",1.75,,,,,"Rain in PM"
+2014,14-Jul,Snodgrass,"Weather station",195,4,"Weather Station",9:20,15:30,6:10,9:20,1,"S. White, E. Graber",14:45,1,"S. White, E. Graber",2,,,,,
+2014,15-Jul,Gothic,B,196,3,Willow,10:10,15:45,5:35,10:10,1,"S. White",NA,0,NA,1,,,,,"Rain in PM"
+2014,15-Jul,Seans,B,196,4,Dry,8:35,14:35,6:00,8:25,1,"S. White, A. Oestmann",13:58,1,"S. White, A. Oestmann, E. Graber",2,,,,,
+2014,15-Jul,Beaver,B,196,3,Veratrum,9:50,15:25,5:35,9:25,1,"S. White",15:11,1,"S. White, E. Graber",2,,,,,
+2014,16-Jul,Copper,D,197,4,Willow,9:50,16:00,6:10,9:45,1,"A. Oestmann, E. Graber",NA,0,NA,1,,,,,"Rain in PM"
+2014,16-Jul,Little,D,197,3,Veratrum,9:15,15:45,6:30,10:45,1,"E. Graber, A. Oestmann",NA,0,NA,1,,,,,"Rain in PM"
+2014,16-Jul,Hill,D,197,4,Dry,9:00,15:25,6:25,8:48,1,"A. Oestmann",14:15,1,"A. Oestmann",2,,,,,
+2014,17-Jul,"Kettle Ponds","Weather station",198,4,"Weather Station",8:45,14:55,6:10,8:45,1,"E. Graber",15:20,1,"E. Graber",2,,,,,
+2014,18-Jul,Almont,"Weather station",199,4,"Weather Station",9:20,15:30,6:10,9:20,1,"A. Ochs",14:30,1,"A. Ochs",2,,,,,
+2014,26-Jul,"Mexican Cut","Weather station",207,2,"Weather Station",9:30,14:40,5:10,9:30,1,"E. Graber",NA,0,NA,1,,,,,"Rain in PM"
+2014,28-Jul,Snodgrass,"Weather station",209,5,"Weather Station",9:30,15:10,5:40,9:30,1,"E. Graber",14:08,0.5,"E. Graber",1.5,,,,,"Rain in PM"
+2014,30-Jul,"Kettle Ponds","Weather station",211,5,"Weather Station",8:45,14:45,6:00,8:45,1,"E. Graber",13:50,1,"E. Graber",2,,,,,
+2014,31-Jul,Seans,B,212,5,Dry,8:30,15:00,6:30,8:30,1,"E. Graber, A. Oestmann",14:00,1,"E. Graber, A. Oestmann",2,,,,,
+2014,31-Jul,Gothic,B,212,4,Willow,10:25,16:40,6:15,11:35,1,"E. Graber, A. Oestmann",16:40,1,"E. Graber, A. Oestmann",2,,,,,
+2014,31-Jul,Beaver,B,212,4,Veratrum,10:15,16:16,6:01,10:07,1,"E. Graber, A. Oestmann",15:25,1,"E. Graber, A. Oestmann",2,,,,,
+2014,06-Aug,Little,D,218,4,Veratrum,9:15,16:35,7:20,10:27,1,"E. Graber, A. Ochs",14:38,1,"E. Graber, A. Ochs",2,,,,,
+2014,06-Aug,Hill,D,218,5,Dry,9:07,16:06,6:59,9:00,1,"E. Graber, A. Ochs",15:11,1,"E. Graber, A. Ochs",2,,,,,
+2014,06-Aug,Copper,D,218,5,Willow,9:30,16:55,7:25,11:40,1,"E. Graber, A. Ochs",14:00,1,"E. Graber, A. Ochs",2,,,,,
+2014,07-Aug,Snodgrass,"Weather station",219,6,"Weather Station",9:15,15:24,6:09,9:15,1,"E. Graber",14:20,1,"E. Graber",2,,,,,
+2014,07-Aug,Almont,"Weather station",219,5,"Weather Station",8:33,14:25,5:52,8:50,1,"A. Ochs",13:06,1,"A. Ochs",2,,,,,
+2014,08-Aug,Tuttle,A,220,5,Veratrum,9:10,14:45,5:35,9:02,1,"A. Ochs, E. Graber",14:07,1,"A. Ochs, E. Graber",2,,,,,
+2014,08-Aug,Willey,A,220,5,Willow,8:30,14:04,5:34,8:25,1,"A. Ochs, E. Graber",13:15,1,"A. Ochs, E. Graber",2,,,,,
+2014,08-Aug,Davids,A,220,5,Dry,10:13,15:50,5:37,10:07,1,"A. Ochs, E. Graber",15:09,1,"A. Ochs, E. Graber",2,,,,,
+2014,11-Aug,Seans,B,223,6,Dry,9:38,16:00,6:22,9:38,0.5,"E. Graber",14:50,0.5,"E. Graber",1,,,,,
+2014,11-Aug,Beaver,B,223,5,Veratrum,10:35,16:40,6:05,11:40,0.5,"E. Graber",17:50,0.5,"E. Graber",1,,,,,
+2014,11-Aug,Gothic,B,223,5,Willow,10:55,17:15,6:20,10:55,0.5,"E. Graber",17:15,0.5,"E. Graber",1,,,,,
+2014,13-Aug,"Mexican Cut","Weather station",225,3,"Weather Station",9:45,15:20,5:35,9:45,1,"E. Graber",14:00,1,"E. Graber",2,,,,,
+2015,29-Apr,Almont,"Weather station",119,1,"Weather Station",9:45,15:30,5:45,10:30,1,"S. Griffin, G. Pardee",14:36,1,"S. Griffin, G. Pardee",2,,,,,
+2015,11-May,Almont,"Weather station",131,2,"Weather Station",9:45,15:45,6:00,11:00,1,"S. Griffin",14:00,1,"S. Griffin",2,,,,,
+2015,12-May,"Almont Triangle","Elevation transect",132,1,"Elevation transect",9:00,15:00,6:00,10:47,1,"S. Griffin",13:26,1,"S. Griffin",2,,,,,
+2015,18-May,CDOT,"Elevation transect",138,1,"Elevation transect",9:40,16:45,7:05,10:00,1,"S. Griffin",14:24,1,"S. Griffin",2,,,,,
+2015,18-May,"Upper Almont","Elevation transect",138,1,"Elevation transect",8:50,10:45,25:55,12:04,1,"S. Griffin",NA,0,NA,1,,,,,"Thunderstorms prevented second netting session and pickup of bowls. Bowls were collected next day (5/19/2015)."
+2015,20-May,Davids,A,140,1,Dry,8:37,16:45,8:08,12:04,1,"S. Griffin",16:11,1,"S. Griffin, G. Pardee",2,,,,,
+2015,20-May,Tuttle,A,140,1,Veratrum,9:10,17:20,8:10,10:34,1,"S. Griffin",14:47,1,"S. Griffin",2,,,,,
+2015,20-May,Willey,A,140,1,Willow,8:55,17:05,8:10,10:00,1,"S. Griffin, G. Pardee",13:40,1,"S. Griffin",2,,,,,
+2015,26-May,Beaver,B,146,1,Veratrum,9:12,15:45,6:33,9:40,1,"S. Griffin",14:04,1,"S. Griffin, G. Pardee",2,,,,,
+2015,26-May,Gothic,B,146,1,Willow,8:46,15:22,6:36,10:45,1,"S. Griffin",14:49,1,"S. Griffin, G. Pardee",2,,,,,
+2015,26-May,Seans,B,146,1,Dry,8:27,16:18,7:51,11:58,0.57,"S. Griffin",15:40,0.73,"S. Griffin, G. Pardee",1.3,,,,,"Rain throughout day, meaning that sampling periods could not be completed"
+2015,27-May,"Upper Almont","Elevation transect",147,2,"Elevation transect",9:17,14:01,4:44,9:43,1,"S. Griffin",NA,0,NA,1,,,,,"Rained in the PM, so had to collect traps early and not sample second period"
+2015,27-May,Almont,"Weather station",147,3,"Elevation transect",8:37,14:40,6:03,11:17,0.67,"S. Griffin",NA,0,NA,0.67,,,,,"Rained, so could not finish first sampling period or any of second sample period"
+2015,29-May,"Almont Triangle","Elevation transect",149,2,"Elevation transect",8:57,16:21,7:24,9:38,1,"S. Griffin",13:13,1,"S. Griffin",2,,,,,
+2015,29-May,CDOT,"Elevation transect",149,2,"Elevation transect",8:34,15:48,7:14,11:06,1,"S. Griffin",14:38,1,"S. Griffin",2,,,,,
+2015,02-Jun,Copper,D,153,1,Willow,9:16,17:26,8:10,11:38,1,"S. Griffin",15:03,1,"S. Griffin",2,,,,,
+2015,02-Jun,Hill,D,153,1,Dry,8:55,17:10,8:15,12:48,1,"S. Griffin",16:08,1,"S. Griffin",2,,,,,
+2015,02-Jun,Little,D,153,1,Veratrum,9:32,17:40,8:08,10:23,1,"S. Griffin",13:52,1,"S. Griffin",2,,,,,"Had to set up transect, so started sampling late"
+2015,03-Jun,Rustlers,"Elevation transect",154,1,"Elevation transect",10:32,15:30,4:58,11:03,1,"S. Griffin",13:40,1,"S. Griffin",2,,,,,
+2015,04-Jun,Davids,A,155,2,Dry,9:10,18:22,9:12,9:30,1,"S. Griffin",14:07,1,"S. Griffin",2,,,,,
+2015,04-Jun,Tuttle,A,155,2,Veratrum,8:48,17:40,8:52,12:30,1,"S. Griffin",16:37,1,"S. Griffin",2,,,,,
+2015,04-Jun,Willey,A,155,2,Willow,8:35,17:55,9:20,11:10,1,"S. Griffin",15:28,1,"S. Griffin",2,,,,,
+2015,08-Jun,Almont,"Weather station",159,4,"Weather Station",8:30,16:33,8:03,11:32,1,"S. Griffin",15:12,1,"S. Griffin",2,,,,,
+2015,08-Jun,"Upper Almont","Elevation transect",159,3,"Elevation transect",9:20,17:29,8:09,10:04,1,"S. Griffin",13:23,1,"S. Griffin",2,,,,,
+2015,09-Jun,Beaver,B,160,2,Veratrum,9:00,17:04,8:04,11:11,1,"S. Griffin",15:20,1,"S. Griffin",2,,,,,
+2015,09-Jun,Gothic,B,160,2,Willow,9:15,17:33,8:18,9:45,1,"S. Griffin",13:08,1,"S. Griffin",2,,,,,
+2015,09-Jun,Seans,B,160,2,Dry,8:45,17:39,8:54,12:30,1,"S. Griffin",16:30,1,"G. Pardee",2,,,,,
+2015,15-Jun,Copper,D,166,2,Willow,9:00,17:46,8:46,9:30,1,"S. Griffin",14:12,1,"S. Griffin",2,,,,,
+2015,15-Jun,Little,D,166,2,Veratrum,8:43,18:02,9:19,10:45,1,"S. Griffin",15:29,1,"S. Griffin",2,,,,,
+2015,15-Jun,Hill,D,166,2,Dry,8:26,17:32,9:06,12:33,1,"S. Griffin",16:45,1,"S. Griffin",2,,,,,
+2015,17-Jun,Rustlers,"Elevation transect",168,2,"Elevation transect",7:40,15:00,7:20,11:32,1,"S. Griffin, R. Billingsley",13:57,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,18-Jun,Davids,A,169,3,Dry,9:10,17:21,8:11,9:50,1,"S. Griffin, R. Billingsley",14:04,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,18-Jun,Willey,A,169,3,Willow,8:10,16:50,8:40,11:08,1,"S. Griffin, R. Billingsley",15:17,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,18-Jun,Tuttle,A,169,3,Veratrum,8:30,16:36,8:06,11:57,1,"S. Griffin, R. Billingsley",15:53,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,19-Jun,CDOT,"Elevation transect",170,3,"Elevation transect",8:32,15:00,6:28,10:38,1,"S. Griffin, R. Billingsley",14:10,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,24-Jun,Beaver,B,175,3,Veratrum,8:52,16:20,7:28,10:15,1,"S. Griffin, K. Mauerman",14:42,1,"S. Griffin, K. Mauerman",2,,,,,
+2015,24-Jun,Gothic,B,175,3,Willow,8:40,16:09,7:29,11:07,1,"S. Griffin, K. Mauerman",15:36,1,"S. Griffin, K. Mauerman",2,,,,,
+2015,24-Jun,Seans,B,175,3,Dry,8:17,16:43,8:26,12:13,1,"S. Griffin, K. Mauerman",NA,0,NA,1,,,,,
+2015,25-Jun,Almont,"Weather station",176,5,"Weather Station",9:15,18:17,9:02,9:42,1,"S. Griffin, R. Billingsley",14:22,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,25-Jun,Lypps,"Elevation transect",176,1,"Elevation transect",8:04,17:39,9:35,11:53,1,"S. Griffin, R. Billingsley",15:55,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,25-Jun,"Almont Curve","Elevation transect",176,1,"Elevation transect",8:43,18:04,9:21,10:50,1,"S. Griffin, R. Billingsley",15:04,0.72,"S. Griffin, R. Billingsley",1.72,,,,,"Rain started when Sean had 10 minutes left and Rachel had 7 minutes left"
+2015,30-Jun,Elko,"Elevation transect",181,1,"Elevation transect",8:12,16:06,7:54,12:15,1,"S. Griffin, E. Graber",16:01,1,"S. Griffin, E. Graber",2,,,,,
+2015,30-Jun,"Mexican Cut","Weather station",181,1,"Weather Station",9:15,15:05,5:50,10:40,1,"S. Griffin, E. Graber",14:37,1,"S. Griffin, E. Graber",2,,,,,
+2015,01-Jul,CDOT,"Elevation transect",182,4,"Elevation transect",9:00,14:37,5:37,10:17,1,"S. Griffin",13:37,0.7,"S. Griffin",1.7,,,,,
+2015,02-Jul,Little,D,183,3,Veratrum,9:28,13:50,4:22,10:14,1,"R. Jones, S. Griffin",14:03,1,"S. Griffin, R. Billingsley, R. Jones",2,,,,,
+2015,02-Jul,Hill,D,183,3,Dry,9:03,13:55,4:52,11:15,1,"S. Griffin, R. Billingsley",14:38,0.37,"R. Jones, E. Graber",1.37,,,,,
+2015,02-Jul,Copper,D,183,3,Willow,9:50,13:50,4:00,10:10,1,"R. Billingsley, E. Graber",12:53,1,"R. Billingsley, E. Graber",2,,,,,
+2015,03-Jul,Rustlers,"Elevation transect",184,3,"Elevation transect",9:05,14:35,5:30,9:21,1,"E. Graber",13:05,1,"E. Graber",2,,,,,
+2015,06-Jul,Almont,"Weather station",187,6,"Weather Station",9:17,13:58,4:41,9:44,1,"S. Griffin",12:56,1,"S. Griffin",2,,,,,
+2015,06-Jul,"Almont Curve","Elevation transect",187,2,"Elevation transect",8:52,14:25,5:33,11:06,1,"S. Griffin",NA,0,NA,1,,,,,
+2015,13-Jul,Davids,A,194,4,Dry,9:47,14:39,4:52,9:25,1,"S. Griffin, R. Billingsley",14:52,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,13-Jul,Willey,A,194,4,Willow,8:23,13:49,5:26,10:35,1,"S. Griffin, R. Billingsley",NA,0,NA,1,,,,,
+2015,13-Jul,Tuttle,A,194,4,Veratrum,8:10,13:27,5:17,11:43,1,"S. Griffin, R. Billingsley",NA,0,NA,1,,,,,
+2015,14-Jul,Gothic,B,195,4,Willow,9:06,14:10,5:04,11:51,1,"S. Griffin, R. Billingsley",NA,0,NA,1,,,,,
+2015,14-Jul,Seans,B,195,4,Dry,8:13,15:29,7:16,13:11,1,"S. Griffin, R. Billingsley",NA,0,NA,1,,,,,
+2015,14-Jul,Beaver,B,195,4,Veratrum,8:46,14:21,5:35,10:39,1,"S. Griffin, R. Billingsley",14:30,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,15-Jul,Copper,D,196,4,Willow,9:30,16:47,7:17,9:52,1,"S. Griffin, R. Billingsley",14:19,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,15-Jul,Hill,D,196,4,Dry,8:55,16:36,7:41,11:45,1,"S. Griffin, R. Billingsley",15:50,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,15-Jul,Little,D,196,4,Veratrum,9:13,16:45,7:32,10:43,1,"S. Griffin, R. Billingsley",15:01,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,16-Jul,Rustlers,"Elevation transect",197,4,"Elevation transect",9:30,15:55,6:25,9:55,1,"E. Graber",14:45,1,"E. Graber",2,,,,,
+2015,16-Jul,Lypps,"Elevation transect",197,2,"Elevation transect",8:45,15:36,6:51,9:43,1,"S. Griffin, R. Billingsley",13:44,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,16-Jul,CDOT,"Elevation transect",197,5,"Elevation transect",8:28,15:20,6:52,10:34,1,"S. Griffin, R. Billingsley",14:33,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,17-Jul,"Mexican Cut","Weather station",198,2,"Weather Station",11:16,14:50,3:34,11:30,1,"S. Griffin, R. Billingsley",14:15,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,17-Jul,Elko,"Elevation transect",198,2,"Elevation transect",8:35,16:46,8:11,9:34,1,"S. Griffin, R. Billingsley",16:13,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,24-Jul,Almont,"Weather station",205,7,"Weather Station",9:26,14:14,4:48,9:55,1,"S. Griffin, R. Irwin",13:33,1,"S. Griffin, R. Irwin",2,,,,,"PM session was cloudy and a little rainy"
+2015,24-Jul,"Almont Curve","Elevation transect",205,3,"Elevation transect",8:53,14:47,5:54,11:38,1,"S. Griffin, R. Irwin",NA,0,NA,1,,,,,"Rainy, so did not sample second period"
+2015,27-Jul,Tuttle,A,208,5,Veratrum,8:52,15:20,6:28,10:25,1,"S. Griffin, R. Billingsley",14:33,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,27-Jul,Willey,A,208,5,Willow,8:35,15:34,6:59,9:32,1,"S. Griffin, R. Billingsley",13:34,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,27-Jul,Davids,A,208,5,Dry,8:12,16:36,8:24,11:39,1,"S. Griffin, R. Billingsley",16:04,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,28-Jul,Seans,B,209,5,Dry,8:11,17:10,8:59,12:25,1,"S. Griffin, R. Billingsley",16:33,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,28-Jul,Beaver,B,209,5,Veratrum,8:38,15:54,7:16,10:47,1,"S. Griffin, R. Billingsley",15:13,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,28-Jul,Gothic,B,209,5,Willow,8:55,15:51,6:56,9:51,1,"S. Griffin, R. Billingsley",14:26,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,29-Jul,Copper,D,210,5,Willow,9:10,15:05,5:55,10:00,1,"R. Billingsley",13:30,1,"R. Billingsley",2,,,,,
+2015,29-Jul,Hill,D,210,5,Dry,8:42,15:02,6:20,11:32,1,"R. Billingsley",14:20,1,"S. Griffin, R. Dalton",2,,,,,
+2015,29-Jul,Little,D,210,5,Veratrum,8:58,15:25,6:27,11:06,1,"S. Griffin, R. Dalton",13:25,1,"S. Griffin, R. Dalton",2,,,,,
+2015,30-Jul,CDOT,"Elevation transect",211,6,"Elevation transect",9:05,15:15,6:10,9:31,1,"R. Irwin, R. Billingsley",13:13,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,30-Jul,Lypps,"Elevation transect",211,3,"Elevation transect",8:43,14:50,6:07,10:37,1,"R. Irwin, R. Billingsley",14:07,1,"S. Griffin, R. Billingsley",2,,,,,
+2015,31-Jul,"Mexican Cut","Weather station",212,3,"Weather Station",10:44,13:15,2:31,10:53,1,"S. Griffin, R. Billingsley",NA,0,NA,1,,,,,
+2015,31-Jul,Elko,"Elevation transect",212,3,"Elevation transect",8:52,14:15,5:23,9:05,1,"S. Griffin, R. Billingsley",NA,0,NA,1,,,,,
+2015,06-Aug,Rustlers,"Elevation transect",218,5,"Elevation transect",9:20,15:39,6:19,9:36,1,"S. Griffin",13:06,1,"S. Griffin",2,,,,,
+2015,07-Aug,Tuttle,A,219,6,Veratrum,8:39,13:23,4:44,10:24,1,"R. Billingsley, L. Howe-Kerr",NA,0,NA,1,,,,,
+2015,07-Aug,Willey,A,219,6,Willow,8:15,13:10,4:55,11:05,1,"R. Billingsley, L. Howe-Kerr",NA,0,NA,1,,,,,
+2015,07-Aug,Davids,A,219,6,Dry,9:04,13:44,4:40,9:14,1,"S. Griffin, R. Billingsley, L. Howe-Kerr",NA,0,NA,1,,,,,"Sean did 8.5 minutes, Rachel did 29, Lauren did 22.5"
+2015,08-Aug,Almont,"Weather station",220,8,"Weather Station",9:04,14:33,5:29,10:03,1,"S. Griffin",13:55,0.55,"S. Griffin",1.55,,,,,
+2015,08-Aug,"Almont Curve","Elevation transect",220,4,"Elevation transect",8:35,14:56,6:21,11:40,1,"S. Griffin",NA,0,NA,1,,,,,
+2015,10-Aug,Beaver,B,222,6,Veratrum,8:38,14:46,6:08,10:00,1,"S. Griffin, R. Billingsley, L. Howe-Kerr",13:53,1,"S. Griffin, R. Billingsley, L. Howe-Kerr",2,,,,,"for first session Sean did 25, Lauren did 15, Rachel did 20"
+2015,10-Aug,Seans,B,222,6,Dry,8:04,16:37,8:33,11:14,1,"R. Billingsley, L. Howe-Kerr",15:15,1,"S. Griffin, R. Billingsley",2,,,,,"for pm netting Rachel did 40 min, sean did 20"
+2015,10-Aug,Gothic,B,222,6,Willow,8:53,14:46,5:53,9:20,1,"L. Howe-Kerr, R. Billingsley",13:11,1,"S. Griffin, R. Billingsley, L. Howe-Kerr",2,,,,,
+2015,12-Aug,CDOT,"Elevation transect",224,7,"Elevation transect",9:15,15:13,5:58,9:15,1,"R. Billingsley, G. Pardee",13:53,1,"S. Griffin, G. Pardee",2,,,,,
+2015,12-Aug,Lypps,"Elevation transect",224,4,"Elevation transect",8:51,14:45,5:54,10:24,1,"R. Billingsley, G. Pardee",14:04,1,"R. Billingsley, G. Trujillo",2,,,,,
+2015,13-Aug,Hill,D,225,6,Dry,8:55,14:53,5:58,10:13,1,"E. Graber",13:10,1,"E. Graber",2,,,,,
+2015,13-Aug,Little,D,225,6,Veratrum,9:17,15:08,5:51,10:07,1,"S. Griffin",13:04,1,"S. Griffin",2,,,,,
+2015,13-Aug,Copper,D,225,6,Willow,9:36,15:25,5:49,10:09,1,"G. Pardee",12:58,1,"G. Pardee",2,,,,,
+2015,14-Aug,Elko,"Elevation transect",226,4,"Elevation transect",8:50,15:37,6:47,9:30,1,"S. Griffin, G. Pardee",14:40,1,"G. Pardee",2,,,,,
+2015,14-Aug,"Mexican Cut","Weather station",226,4,"Weather Station",11:01,14:48,3:47,11:12,1,"S. Griffin, G. Pardee",13:03,1,"S. Griffin, G. Pardee",2,,,,,
+2015,28-Aug,Tuttle,A,240,7,Veratrum,8:12,17:50,9:38,11:52,1,"S. Griffin",16:38,1,"S. Griffin",2,,,,,
+2015,28-Aug,Willey,A,240,7,Willow,8:32,18:07,9:35,10:40,1,"S. Griffin",15:28,1,"S. Griffin",2,,,,,
+2015,28-Aug,Davids,A,240,7,Dry,9:00,18:30,9:30,9:20,1,"S. Griffin",14:02,1,"S. Griffin",2,,,,,
+2015,29-Aug,Seans,B,241,7,Dry,8:30,16:56,8:26,12:21,1,"S. Griffin",16:18,1,"S. Griffin, R. Jones",2,,,,,
+2015,29-Aug,Gothic,B,241,7,Willow,9:22,15:39,6:17,9:50,1,"S. Griffin",14:04,1,"S. Griffin, R. Jones",2,,,,,
+2015,29-Aug,Beaver,B,241,7,Veratrum,8:58,15:22,6:24,10:56,1,"S. Griffin",14:45,1,"S. Griffin, R. Jones",2,,,,,
+2015,30-Aug,Copper,D,242,7,Willow,9:29,16:43,7:14,9:54,1,"S. Griffin",13:42,1,"S. Griffin, K. Brennan",2,,,,,"Sean did 50 minutes, Kelsey did 10"
+2015,30-Aug,Little,D,242,7,Veratrum,9:11,16:58,7:47,11:12,1,"S. Griffin",14:44,1,"S. Griffin, K. Brennan",2,,,,,
+2015,30-Aug,Hill,D,242,7,Dry,8:52,16:18,7:26,12:28,1,"S. Griffin",15:26,1,"S. Griffin, K. Brennan",2,,,,,
+2016,04-May,Almont,"Weather station",125,1,"Weather station",9:52,15:50,5:58,9:55,1,"G. Pardee",14:51,1,"G. Pardee, S. Griffin",2,,,,,
+2016,04-May,"Almont Curve","Elevation transect",125,1,"Elevation transect",9:16,15:52,6:36,11:23,1,"G. Pardee, S. Griffin",16:19,1,"G. Pardee, S. Griffin",2,,,,,
+2016,05-May,Lypps,"Elevation transect",126,1,"Elevation transect",9:30,16:07,6:37,9:44,1,"G. Pardee, S. Griffin",14:00,1,"G. Pardee, S. Griffin",2,,,,,
+2016,05-May,CDOT,"Elevation transect",126,1,"Elevation transect",9:00,15:35,6:35,10:55,1,"G. Pardee, S. Griffin",15:02,1,"G. Pardee, S. Griffin",2,,,,,
+2016,21-May,Almont,"Weather station",142,2,"Weather station",9:32,17:16,7:44,10:04,1,"S. Griffin",14:12,1,"S. Griffin",2,,,,,
+2016,21-May,"Almont Curve","Elevation transect",142,2,"Elevation transect",9:12,16:43,7:31,11:26,1,"S. Griffin",15:38,1,"S. Griffin",2,,,,,
+2016,22-May,Lypps,"Elevation transect",143,2,"Elevation transect",9:41,17:12,7:31,10:11,1,"S. Griffin",14:03,1,"S. Griffin",2,,,,,
+2016,22-May,CDOT,"Elevation transect",143,2,"Elevation transect",9:08,16:32,7:24,11:43,1,"S. Griffin",15:28,1,"S. Griffin",2,,,,,
+2016,24-May,Willey,A,145,1,Willow,9:15,16:18,7:03,10:18,1,"G. Pardee, S. Griffin",13:57,1,"G. Pardee, S. Griffin",2,,,,,
+2016,24-May,Davids,A,145,1,Dry,8:30,15:47,7:17,11:14,1,"G. Pardee, S. Griffin",15:12,1,"G. Pardee, S. Griffin",2,,,,,
+2016,24-May,Tuttle,A,145,1,Veratrum,9:26,16:27,7:01,9:38,1,"G. Pardee, S. Griffin",13:16,1,"G. Pardee, S. Griffin",2,,,,,
+2016,29-May,Rustlers,"Elevation transect",150,1,"Elevation transect",9:40,14:23,4:43,10:34,1,"S. Griffin",13:15,1,"S. Griffin",2,,,,,"Packed up early to escape oncoming storms"
+2016,02-Jun,Seans,B,154,1,Dry,8:22,17:00,8:38,12:07,1,"S. Griffin",NA,NA,NA,1,,,,,"Didn't do last period of sampling because it was too late (5:00)"
+2016,02-Jun,Gothic,B,154,1,Willow,9:08,16:22,7:14,9:38,1,"S. Griffin",13:58,1,"S. Griffin",2,,,,,
+2016,02-Jun,Beaver,B,154,1,Veratrum,8:47,16:14,7:27,10:44,1,"S. Griffin",15:11,1,"S. Griffin",2,,,,,
+2016,03-Jun,Almont,"Weather station",155,3,"Weather station",9:12,16:22,7:10,9:51,1,"S. Griffin",13:24,1,"S. Griffin",2,,,,,
+2016,03-Jun,"Almont Curve","Elevation transect",155,3,"Elevation transect",8:30,15:48,7:18,11:21,1,"S. Griffin",14:45,1,"S. Griffin",2,,,,,
+2016,06-Jun,Lypps,"Elevation transect",158,3,"Elevation transect",8:00,12:20,4:20,11:01,1,"S. Griffin",15:50,1,"S. Griffin",2,,,,,"Storm rolled in, so I picked up the bowls early. Storm passed, so I was able to do pm netting"
+2016,06-Jun,CDOT,"Elevation transect",158,3,"Elevation transect",8:36,11:46,3:10,9:10,1,"S. Griffin",14:36,1,"S. Griffin",2,,,,,"Storm rolled in, so I picked up the bowls early. Storm passed, so I was able to do pm netting"
+2016,07-Jun,Copper,D,159,1,Willow,8:50,16:32,7:42,9:20,1,"S. Griffin, I. Jensen",13:29,1,"S. Griffin, I. Jensen",2,,,,,
+2016,07-Jun,Little,D,159,1,Veratrum,9:36,16:15,6:39,10:03,1,"S. Griffin, I. Jensen",14:16,1,"S. Griffin, I. Jensen",2,,,,,
+2016,07-Jun,Hill,D,159,1,Dry,8:18,15:57,7:39,11:08,1,"S. Griffin, I. Jensen",15:12,1,"S. Griffin, I. Jensen",2,,,,,
+2016,08-Jun,Rustlers,"Elevation transect",160,2,"Elevation transect",8:30,13:00,4:30,10:17,1,"S. Griffin, C. Ranken",12:00,1,"S. Griffin, C. Ranken",2,,,,,
+2016,09-Jun,Willey,A,161,2,Willow,8:25,15:04,6:39,10:37,1,"S. Griffin, C. Ranken, S. Spalding",13:23,1,"S. Griffin, C. Ranken, S. Spalding",2,,,,,
+2016,09-Jun,Davids,A,161,2,Dry,7:44,14:37,6:53,11:20,1,"S. Griffin, C. Ranken, S. Spalding",14:10,1,"S. Griffin, C. Ranken, S. Spalding",2,,,,,
+2016,09-Jun,Tuttle,A,161,2,Veratrum,8:40,15:20,6:40,10:02,1,"S. Griffin, C. Ranken, S. Spalding",12:50,1,"S. Griffin, C. Ranken, S. Spalding",2,,,,,
+2016,16-Jun,Seans,B,168,2,Dry,7:53,16:01,8:08,11:34,1,"S. Griffin, C. Ranken, S. Cook",15:30,1,"S. Griffin, C. Ranken, S. Cook",2,,,,,
+2016,16-Jun,Gothic,B,168,2,Willow,8:40,15:00,6:20,9:34,1,"S. Griffin, C. Ranken, S. Cook",13:30,1,"S. Griffin, C. Ranken, S. Cook",2,,,,,
+2016,16-Jun,Beaver,B,168,2,Veratrum,8:25,15:45,7:20,10:35,1,"S. Griffin, C. Ranken, S. Cook",14:10,1,"S. Griffin, C. Ranken, S. Cook",2,,,,,
+2016,20-Jun,Almont,"Weather station",172,4,"Weather station",9:30,16:29,6:59,10:09,1,"S. Griffin, M. Stemkovski",14:19,1,"S. Griffin, M. Stemkovski",2,,,,,
+2016,20-Jun,"Almont Curve","Elevation transect",172,4,"Elevation transect",9:00,15:58,6:58,11:20,1,"S. Griffin, M. Stemkovski",15:17,1,"S. Griffin, M. Stemkovski",2,,,,,
+2016,21-Jun,Copper,D,173,2,Willow,9:20,16:53,7:33,10:18,1,"S. Griffin, M. Stemkovski, S. Cook",14:15,1,"S. Griffin, M. Stemkovski, S. Cook",2,,,,,
+2016,21-Jun,Little,D,173,2,Veratrum,9:04,16:36,7:32,11:24,1,"S. Griffin, M. Stemkovski, S. Cook",15:04,1,"S. Griffin, M. Stemkovski, S. Cook",2,,,,,
+2016,21-Jun,Hill,D,173,2,Dry,8:46,16:10,7:24,12:22,1,"S. Griffin, M. Stemkovski, S. Cook",15:42,1,"S. Griffin, M. Stemkovski, S. Cook",2,,,,,
+2016,22-Jun,Lypps,"Elevation transect",174,4,"Elevation transect",9:00,14:19,5:19,11:12,1,"S. Griffin, M. Stemkovski",14:07,0.216666,"S. Griffin, M. Stemkovski",1.216666,,,,,"Storm rolled in, so Sean only sampled 6 min, Michael 7 min"
+2016,22-Jun,CDOT,"Elevation transect",174,4,"Elevation transect",9:25,15:06,5:41,10:22,1,"S. Griffin, M. Stemkovski",13:22,1,"S. Griffin, M. Stemkovski",2,,,,,
+2016,23-Jun,Willey,A,175,3,Willow,9:12,12:20,3:08,10:38,1,"S. Griffin, C. Ranken, S. Cook",13:53,1,"S. Griffin, C. Ranken, S. Cook, M. Stemkovski",2,,,,,"Storms came in midday, so we picked up traps. Storms cleared up an hour later, so we did all PM sampling"
+2016,23-Jun,Davids,A,175,3,Dry,8:45,12:00,3:15,11:32,1,"M. Stemkovski, C. Ranken, S. Cook",14:45,1,"S. Griffin, C. Ranken, S. Cook, M. Stemkovski",2,,,,,"Storms came in midday, so we picked up traps. Storms cleared up an hour later, so we did all PM sampling"
+2016,23-Jun,Tuttle,A,175,3,Veratrum,9:26,12:28,3:02,10:03,1,"S. Griffin, C. Ranken, S. Cook",13:21,1,"S. Griffin, C. Ranken, S. Cook, M. Stemkovski",2,,,,,"Storms came in midday, so we picked up traps. Storms cleared up an hour later, so we did all PM sampling"
+2016,27-Jun,Seans,B,179,3,Dry,8:05,15:38,7:33,11:30,1,"S. Griffin, C. Ranken, M. Stemkovski",15:11,1,"S. Griffin, C. Ranken, M. Stemkovski",2,,,,,
+2016,27-Jun,Gothic,B,179,3,Willow,8:42,14:30,5:48,10:10,1,"S. Griffin, C. Ranken, M. Stemkovski",13:47,1,"S. Griffin, C. Ranken, M. Stemkovski",2,,,,,
+2016,27-Jun,Beaver,B,179,3,Veratrum,8:55,14:50,5:55,9:34,1,"S. Griffin, C. Ranken, M. Stemkovski",13:09,1,"S. Griffin, C. Ranken, M. Stemkovski",2,,,,,
+2016,28-Jun,Rustlers,"Elevation transect",180,3,"Elevation transect",8:45,14:55,6:10,9:55,1,"S. Griffin",13:33,1,"S. Griffin",2,,,,,
+2016,05-Jul,Almont,"Weather station",187,5,"Weather station",9:05,14:57,5:52,9:43,1,"S. Griffin, S. Cook",12:51,1,"S. Griffin, S. Cook",2,,,,,
+2016,05-Jul,"Almont Curve","Elevation transect",187,5,"Elevation transect",8:40,14:30,5:50,10:46,1,"S. Griffin, S. Cook",14:30,1,"S. Griffin, S. Cook",2,,,,,
+2016,07-Jul,"Mexican Cut","Weather station",189,1,"Weather station",10:28,14:00,3:32,10:38,1,"G. Pardee, I. Jensen",1:12,1,"S. Griffin, S. Cook",2,,,,,
+2016,07-Jul,Elko,"Elevation transect",189,1,"Elevation transect",8:52,14:45,5:53,9:50,1,"S. Griffin, S. Cook",15:30,1,"S. Griffin, S. Cook",2,,,,,
+2016,08-Jul,Lypps,"Elevation transect",190,5,"Elevation transect",9:13,15:52,6:39,9:55,1,"S. Griffin",12:55,1,"S. Griffin",2,,,,,
+2016,08-Jul,CDOT,"Elevation transect",190,5,"Elevation transect",8:20,15:24,7:04,11:18,1,"S. Griffin",14:17,1,"S. Griffin",2,,,,,
+2016,11-Jul,Copper,D,193,3,Willow,9:19,15:46,6:27,9:57,1,"S. Griffin, S. Cook, C. Ranken",13:19,1,"S. Griffin, S. Cook, C. Ranken",2,,,,,
+2016,11-Jul,Little,D,193,3,Veratrum,9:04,15:36,6:32,10:36,1,"S. Griffin, S. Cook, C. Ranken",13:50,1,"S. Griffin, S. Cook, C. Ranken",2,,,,,
+2016,11-Jul,Hill,D,193,3,Dry,8:46,15:13,6:27,11:09,1,"S. Griffin, S. Cook, C. Ranken",14:35,1,"S. Griffin, S. Cook, C. Ranken",2,,,,,
+2016,12-Jul,Willey,A,194,4,Willow,8:17,15:22,7:05,10:03,1,"S. Griffin, S. Cook, C. Ranken",13:39,1,"S. Griffin, S. Cook, C. Ranken",2,,,,,
+2016,12-Jul,Davids,A,194,4,Dry,7:42,14:58,7:16,11:12,1,"S. Griffin, S. Cook, C. Ranken",14:27,1,"S. Griffin, S. Cook, C. Ranken",2,,,,,
+2016,12-Jul,Tuttle,A,194,4,Veratrum,8:37,15:34,6:57,9:17,1,"S. Griffin, S. Cook, C. Ranken",12:54,1,"S. Griffin, S. Cook, C. Ranken",2,,,,,
+2016,14-Jul,Seans,B,196,4,Dry,8:20,16:46,8:26,12:00,1,"S. Griffin, S. Cook",16:07,1,"S. Griffin, S. Cook",2,,,,,
+2016,14-Jul,Gothic,B,196,4,Willow,8:38,15:31,6:53,11:06,1,"S. Griffin, S. Cook",14:44,1,"S. Griffin, S. Cook",2,,,,,
+2016,14-Jul,Beaver,B,196,4,Veratrum,8:55,15:46,6:51,9:31,1,"S. Griffin, S. Cook",13:43,1,"S. Griffin, S. Cook",2,,,,,
+2016,15-Jul,Rustlers,"Elevation transect",197,4,"Elevation transect",8:55,15:00,6:05,9:36,1,"S. Griffin, S. Cook",14:04,1,"S. Griffin, S. Cook",2,,,,,
+2016,18-Jul,Almont,"Weather station",200,6,"Weather station",9:18,13:22,4:04,9:39,1,"S. Griffin",12:52,0.433333,"S. Griffin",1.433333,,,,,"Started raining, had to pack up early"
+2016,18-Jul,"Almont Curve","Elevation transect",200,6,"Elevation transect",8:50,13:47,4:57,11:09,1,"S. Griffin",NA,0,NA,1,,,,,"Started raining, had to pack up early"
+2016,21-Jul,CDOT,"Elevation transect",203,6,"Elevation transect",8:52,12:00,3:08,11:10,1,"S. Griffin, M. Stemkovski",NA,0,NA,1,,,,,
+2016,21-Jul,Lypps,"Elevation transect",203,6,"Elevation transect",9:15,12:42,3:27,10:00,1,"S. Griffin, M. Stemkovski",NA,0,NA,1,,,,,
+2016,22-Jul,"Mexican Cut","Weather station",204,2,"Weather station",11:02,14:00,2:58,11:11,1,"S. Griffin, M. Stemkovski",NA,NA,NA,1,,,,,"Forgot to write down end time, so this is has estimated end time"
+2016,22-Jul,Elko,"Elevation transect",204,2,"Elevation transect",8:55,15:30,6:35,9:40,1,"S. Griffin, M. Stemkovski",NA,NA,NA,1,,,,,"Forgot to write down end time, so this is has estimated end time"
+2016,25-Jul,Willey,A,207,5,Willow,8:45,13:12,4:27,10:59,1,"S. Griffin, M. Stemkovski, S. Cook",NA,NA,NA,1,,,,,
+2016,25-Jul,Davids,A,207,5,Dry,8:03,12:49,4:46,11:36,1,"S. Griffin, M. Stemkovski, S. Cook",NA,NA,NA,1,,,,,
+2016,25-Jul,Tuttle,A,207,5,Veratrum,9:00,13:39,4:39,9:41,1,"S. Griffin, M. Stemkovski, S. Cook",NA,NA,NA,1,,,,,
+2016,26-Jul,Seans,B,208,5,Dry,8:20,12:03,3:43,11:35,1,"S. Griffin, M. Stemkovski, S. Cook",NA,NA,NA,1,,,,,
+2016,26-Jul,Gothic,B,208,5,Willow,8:45,12:24,3:39,10:36,1,"S. Griffin, M. Stemkovski, S. Cook",NA,NA,NA,1,,,,,
+2016,26-Jul,Beaver,B,208,5,Veratrum,8:58,12:49,3:51,9:33,1,"S. Griffin, M. Stemkovski, S. Cook",NA,NA,NA,1,,,,,
+2016,27-Jul,Copper,D,209,4,Willow,9:27,15:55,6:28,10:03,1,"S. Griffin, M. Stemkovski, S. Cook",13:28,1,"S. Griffin, M. Stemkovski, S. Cook",2,,,,,
+2016,27-Jul,Little,D,209,4,Veratrum,9:02,15:43,6:41,10:47,1,"S. Griffin, M. Stemkovski, S. Cook",14:04,1,"S. Griffin, M. Stemkovski, S. Cook",2,,,,,
+2016,27-Jul,Hill,D,209,4,Dry,8:46,15:29,6:43,11:35,1,"S. Griffin, M. Stemkovski, S. Cook",14:55,1,"S. Griffin, M. Stemkovski, S. Cook",2,,,,,
+2016,28-Jul,Rustlers,"Elevation transect",210,5,"Elevation transect",8:55,15:00,6:05,9:45,1,"S. Griffin, G. Pardee",14:16,1,"G. Pardee, I. Jensen",2,,,,,
+2016,01-Aug,Almont,"Weather station",214,7,"Weather station",9:06,14:23,5:17,9:30,1,"S. Griffin, S. Cook",12:15,1,"S. Griffin, S. Cook",2,,,,,"One blue missing"
+2016,01-Aug,"Almont Curve","Elevation transect",214,7,"Elevation transect",8:47,14:00,5:13,10:41,1,"S. Griffin, S. Cook",13:11,1,"S. Griffin, S. Cook",2,,,,,
+2016,02-Aug,CDOT,"Elevation transect",215,7,"Elevation transect",8:48,15:24,6:36,11:11,1,"S. Griffin, S. Cook",14:30,1,"S. Griffin, S. Cook",2,,,,,
+2016,02-Aug,Lypps,"Elevation transect",215,7,"Elevation transect",9:07,15:55,6:48,9:30,1,"S. Griffin, S. Cook",13:05,1,"S. Griffin, S. Cook",2,,,,,
+2016,08-Aug,Elko,"Elevation transect",221,3,"Elevation transect",10:30,15:55,5:25,10:50,1,"M. Stemkovski, S. Cook",15:13,1,"M. Stemkovski, S. Cook",2,,,,,
+2016,08-Aug,"Mexican Cut","Elevation transect",221,3,"Elevation transect",11:30,12:54,1:24,11:47,1,"S. Griffin, S. Cook",NA,NA,NA,1,,,,,"stormy in the afternoon"
+2016,09-Aug,Davids,A,222,6,Dry,NA,NA,0:00,12:14,1,"M. Stemkovski, S. Cook",NA,NA,NA,1,,,,,"Bowls got hailed out repeated trapping on 8/12/2016"
+2016,09-Aug,Willey,A,222,6,Willow,NA,NA,0:00,11:09,1,"M. Stemkovski, S. Cook",NA,NA,NA,1,,,,,"Bowls got hailed out repeated trapping on 8/12/2016"
+2016,09-Aug,Tuttle,A,222,6,Willow,9:35,15:00,5:25,9:45,1,"M. Stemkovski, S. Cook",14:17,0.59,"M. Stemkovski, S. Cook",1.59,,,,,"Ended early because of hail storm"
+2016,10-Aug,Gothic,B,223,6,Willow,11:45,15:55,4:10,NA,0,NA,14:03,1,"M. Stemkovski, S. Cook",1,,,,,
+2016,10-Aug,Seans,B,223,6,Dry,11:30,15:27,3:57,NA,0,NA,15:08,0.166666,"M. Stemkovski, S. Cook",0.166666,,,,,"Stopped early because of hail"
+2016,10-Aug,Beaver,B,223,6,Willow,12:00,16:15,4:15,NA,0,NA,12:31,1,"M. Stemkovski, S. Cook",1,,,,,
+2016,11-Aug,Hill,D,224,5,Dry,8:45,15:50,7:05,11:53,1,"M. Stemkovski, S. Cook",15:12,1,"M. Stemkovski, S. Cook",2,,,,,
+2016,11-Aug,Little,D,224,5,Willow,8:56,16:05,7:09,10:31,1,"M. Stemkovski, S. Cook",14:07,1,"M. Stemkovski, S. Cook",2,,,,,
+2016,11-Aug,Copper,D,224,5,Willow,9:10,16:20,7:10,9:37,1,"M. Stemkovski, S. Cook",13:20,1,"M. Stemkovski, S. Cook",2,,,,,
+2016,12-Aug,Willey,A,225,6,Willow,9:25,16:21,6:56,NA,0,NA,14:21,1,"M. Stemkovski",1,,,,,"Resampling because of earlier hail"
+2016,12-Aug,Davids,A,225,6,Dry,9:00,15:50,6:50,NA,0,NA,12:16,1,"M. Stemkovski",1,,,,,"Resampling because of earlier hail"
+2016,15-Aug,Rustlers,"Elevation transect",228,6,"Elevation transect",9:25,15:03,5:38,9:44,1,"M. Stemkovski",13:00,1,"M. Stemkovski",2,,,,,
+2016,18-Aug,Lypps,"Elevation transect",231,8,"Elevation transect",9:28,12:25,2:57,10:01,1,"M. Stemkovski, S. Spalding",NA,0,NA,1,,,,,"stormy in the afternoon"
+2016,18-Aug,CDOT,"Elevation transect",231,8,"Elevation transect",9:00,12:03,3:03,10:59,1,"M. Stemkovski, S. Spalding",NA,0,NA,1,,,,,"stormy in the afternoon"
+2016,19-Aug,"Almont Curve","Elevation transect",232,8,"Elevation transect",9:30,14:20,4:50,10:55,1,"M. Stemkovski, S. Spalding",13:47,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,19-Aug,Almont,"Weather station",232,8,"Weather station",9:58,15:02,5:04,10:05,1,"M. Stemkovski, S. Spalding",12:56,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,22-Aug,Davids,A,235,7,Dry,8:13,12:45,4:32,11:01,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"stormy in the afternoon"
+2016,22-Aug,Willey,A,235,7,Willow,8:43,13:10,4:27,10:01,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"stormy in the afternoon"
+2016,22-Aug,Tuttle,A,235,7,Willow,9:00,13:21,4:21,9:14,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"stormy in the afternoon"
+2016,24-Aug,Beaver,B,237,7,Willow,9:45,15:24,5:39,9:58,1,"M. Stemkovski, S. Spalding",13:24,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,24-Aug,Gothic,B,237,7,Willow,9:20,15:11,5:51,10:45,1,"M. Stemkovski, S. Spalding",14:04,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,24-Aug,Seans,B,237,7,Dry,8:40,14:55,6:15,11:31,1,"M. Stemkovski, S. Spalding",14:44,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,25-Aug,Copper,D,238,6,Willow,10:11,12:50,2:39,10:25,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"stormy in the afternoon"
+2016,25-Aug,Little,D,238,6,Willow,9:54,12:41,2:47,11:12,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"stormy in the afternoon"
+2016,25-Aug,Hill,D,238,6,Dry,9:40,12:31,2:51,11:59,1,"M. Stemkovski, K. Brennan",12:00,0.7,"M. Stemkovski, K. Brennan",1.7,,,,,"stormy in the afternoon"
+2016,26-Aug,Rustlers,"Elevation transect",239,7,"Elevation transect",9:32,13:31,3:59,9:38,1,"M. Stemkovski",12:20,1,"M. Stemkovski",2,,,,,
+2016,30-Aug,Lypps,"Elevation transect",243,9,"Elevation transect",9:20,13:25,4:05,9:46,1,"M. Stemkovski, S. Spalding",12:34,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,30-Aug,CDOT,"Elevation transect",243,9,"Elevation transect",9:00,14:25,5:25,10:58,1,"M. Stemkovski, S. Spalding",13:49,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,31-Aug,"Almont Curve","Elevation transect",244,9,"Elevation transect",9:35,14:59,5:24,10:59,1,"M. Stemkovski, K. Brennan",14:18,1,"M. Stemkovski, K. Brennan",2,,,,,
+2016,31-Aug,Almont,"Elevation transect",244,9,"Elevation transect",9:55,14:00,4:05,10:07,1,"M. Stemkovski, K. Brennan",13:09,1,"M. Stemkovski, K. Brennan",2,,,,,
+2016,01-Sep,Elko,"Elevation transect",245,4,"Elevation transect",9:30,15:19,5:49,9:38,1,"M. Stemkovski, S. Spalding",14:38,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,01-Sep,"Mexican Cut","Elevation transect",245,4,"Elevation transect",11:12,13:39,2:27,11:12,1,"M. Stemkovski, S. Spalding",13:00,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,06-Sep,Willey,A,250,8,Willow,8:50,14:20,5:30,9:50,1,"M. Stemkovski, K. Brennan, S. Spalding",12:33,1,"M. Stemkovski, K. Brennan, S. Spalding",2,,,,,
+2016,06-Sep,Davids,A,250,8,Dry,8:05,13:52,5:47,10:33,1,"M. Stemkovski, K. Brennan, S. Spalding",13:18,1,"M. Stemkovski, K. Brennan, S. Spalding",2,,,,,
+2016,06-Sep,Tuttle,A,250,8,Willow,9:05,14:33,5:28,9:21,1,"M. Stemkovski, K. Brennan, S. Spalding",12:06,1,"M. Stemkovski, K. Brennan, S. Spalding",2,,,,,
+2016,07-Sep,Gothic,B,251,8,Willow,9:40,13:17,3:37,10:46,1,"M. Stemkovski, S. Spalding",12:45,1,"M. Stemkovski, S. Spalding",2,,,,,
+2016,07-Sep,Beaver,B,251,8,Willow,10:00,13:35,3:35,10:10,1,"M. Stemkovski, S. Spalding",10:10,1,"M. Stemkovski, S. Spalding",2,,,,,
+2017,24-May,"Almont Curve","Elevation Transect",144,1,"Elevation Transect",8:42,16:00,7:18,11:30,1,"M. Stemkovski, J. Fitzgerald",15:20,1,"M. Stemkovski, J. Fitzgerald",2,,,,,
+2017,24-May,Almont,"Weather station",144,1,"Weather station",9:22,14:55,5:33,10:20,1,"M. Stemkovski, J. Fitzgerald",13:40,1,"M. Stemkovski, J. Fitzgerald",2,,,,,
+2017,26-May,CDOT,"Elevation Transect",146,1,"Elevation Transect",8:35,14:55,6:20,11:09,1,"M. Stemkovski, J. Fitzgerald",14:17,1,"M. Stemkovski, J. Fitzgerald",2,,,,,
+2017,26-May,Lypps,"Elevation Transect",146,1,"Elevation Transect",9:31,15:16,5:45,10:13,1,"M. Stemkovski, J. Fitzgerald",13:00,1,"M. Stemkovski, J. Fitzgerald",2,,,,,
+2017,30-May,Davids,A,150,1,Dry,8:35,15:40,7:05,11:43,1,"M. Stemkovski, J. Fitzgerald",14:53,1,"M. Stemkovski, J. Fitzgerald",2,,,,,
+2017,30-May,Willey,A,150,1,Willow,9:10,16:05,6:55,10:30,1,"M. Stemkovski, J. Fitzgerald",13:57,1,"M. Stemkovski, J. Fitzgerald",2,,,,,
+2017,30-May,Tuttle,A,150,1,Veratrum,9:25,16:15,6:50,9:47,1,"M. Stemkovski, J. Fitzgerald",13:22,1,"M. Stemkovski, J. Fitzgerald",2,,,,,
+2017,02-Jun,Almont,"Weather station",153,2,"Weather station",9:28,14:15,4:47,11:04,1,"M. Stemkovski, J. Fitzgerald",NA,0,NA,1,,,,,"Didnt do PM sampling because of rain"
+2017,02-Jun,"Almont Curve","Elevation Transect",153,2,"Elevation Transect",9:56,13:56,4:00,10:01,1,"M. Stemkovski, J. Fitzgerald",13:04,1,"M. Stemkovski, J. Fitzgerald",2,,,,,"Didnt do PM sampling because of rain"
+2017,05-Jun,CDOT,"Elevation Transect",156,2,"Elevation Transect",8:58,14:02,5:04,11:02,1,"M. Stemkovski, K. Brennan",13:30,1,"M. Stemkovski, K. Brennan, R. Irwin",2,,,,,
+2017,05-Jun,Lypps,"Elevation Transect",156,2,"Elevation Transect",NA,NA,NA,10:03,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"Bowls got hailed out in the PM"
+2017,06-Jun,Lypps,"Elevation Transect",157,2,"Elevation Transect",9:53,12:20,2:27,10:13,1,"M. Stemkovski",NA,0,NA,1,,,,,"Hail prevented PM sampling"
+2017,07-Jun,Seans,B,158,,Dry,9:09,15:11,6:02,9:56,1,"M. Stemkovski",14:01,1,"M. Stemkovski",2,,,,,
+2017,08-Jun,Gothic,B,159,,Veratrum,9:35,14:20,4:45,10:35,1,"M. Stemkovski, K. Brennan",13:43,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,08-Jun,Beaver,B,159,,Willow,9:48,14:30,4:42,9:55,1,"M. Stemkovski, K. Brennan",13:00,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,09-Jun,Hill,D,160,,Dry,9:45,14:19,4:34,9:50,1,"M. Stemkovski",13:00,1,"M. Stemkovski",2,,,,,
+2017,12-Jun,Davids,A,163,,Dry,8:30,15:03,6:33,11:03,1,"M. Stemkovski, K. Brennan",14:27,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,12-Jun,Willey,A,163,,Willow,8:55,14:05,5:10,10:01,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"Didnt do PM sampling because of extreme wind"
+2017,12-Jun,Tuttle,A,163,,Veratrum,9:15,13:35,4:20,9:23,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"Didnt do PM sampling because of extreme wind"
+2017,14-Jun,Rustlers,"Elevation Transect",165,,"Elevation Transect",9:55,15:13,5:18,10:51,1,"M. Stemkovski",13:51,1,"M. Stemkovski",2,,,,,
+2017,15-Jun,Copper,D,166,,Willow,9:11,14:31,5:20,9:34,1,"M. Stemkovski, K. Brennan",12:39,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,15-Jun,Little,D,166,,Veratrum,9:01,14:44,5:43,10:15,1,"M. Stemkovski, K. Brennan",13:21,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,16-Jun,"Almont Curve","Elevation Transect",167,,"Elevation Transect",9:11,14:24,5:13,11:07,1,"M. Stemkovski, K. Brennan, H. Rocha",13:43,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,16-Jun,Almont,"Weather station",167,,"Weather station",9:39,15:02,5:23,9:52,1,"M. Stemkovski, K. Brennan, H. Rocha",13:00,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,19-Jun,CDOT,"Elevation Transect",170,,"Elevation Transect",8:50,14:25,5:35,11:00,1,"K. Brennan, H. Rocha, D. Drouilhet",13:55,1,"K. Brennan, H. Rocha, D. Drouilhet",2,,,,,
+2017,19-Jun,Lypps,"Elevation Transect",170,,"Elevation Transect",9:20,14:48,5:28,9:35,1,"K. Brennan, H. Rocha, D. Drouilhet",13:10,1,"K. Brennan, H. Rocha, D. Drouilhet",2,,,,,
+2017,21-Jun,Gothic,B,172,,Willow,10:18,15:05,4:47,10:25,1,"M. Stemkovski, K. Brennan",13:30,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,21-Jun,Beaver,B,172,,Veratrum,10:02,14:54,4:52,11:18,1,"M. Stemkovski, K. Brennan",14:13,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,22-Jun,Seans,B,173,,Dry,9:25,15:10,5:45,9:36,1,"M. Stemkovski",13:54,1,"M. Stemkovski",2,,,,,
+2017,23-Jun,Hill,D,174,,Dry,9:03,15:37,6:34,11:01,1,"M. Stemkovski, K. Brennan, H. Rocha, R. Irwin",15:11,1,"M. Stemkovski, K. Brennan, H. Rocha, R. Irwin",2,,,,,
+2017,23-Jun,Little,D,174,,Veratrum,9:25,15:49,6:24,10:20,1,"M. Stemkovski, K. Brennan, H. Rocha, R. Irwin",14:31,1,"M. Stemkovski, K. Brennan, H. Rocha, R. Irwin",2,,,,,
+2017,23-Jun,Copper,D,174,,Willow,9:40,15:58,6:18,9:48,1,"M. Stemkovski, K. Brennan, H. Rocha",13:47,1,"M. Stemkovski, K. Brennan, H. Rocha, R. Irwin",2,,,,,
+2017,27-Jun,Elko,"Elevation Transect",178,,"Elevation Transect",10:25,15:20,4:55,10:33,1,"M. Stemkovski",14:05,1,"M. Stemkovski",2,,,,,
+2017,28-Jun,Willey,A,179,,Willow,8:50,16:33,7:43,10:28,1,"M. Stemkovski, K. Brennan",14:33,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,28-Jun,Davids,A,179,,Dry,8:30,16:12,7:42,11:41,1,"M. Stemkovski, K. Brennan",15:30,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,28-Jun,Tuttle,A,179,,Veratrum,9:05,16:45,7:40,9:43,1,"M. Stemkovski, K. Brennan",13:27,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,29-Jun,Rustlers,"Elevation Transect",180,,"Elevation Transect",9:58,14:55,4:57,10:07,1,"M. Stemkovski, R. Irwin",13:27,1,"M. Stemkovski",2,,,,,
+2017,30-Jun,Almont,"Weather station",181,,"Weather station",9:30,14:03,4:33,9:40,1,"M. Stemkovski, K. Brennan, H. Rocha",12:22,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,30-Jun,"Almont Curve","Elevation Transect",181,,"Elevation Transect",9:32,13:35,4:03,10:29,1,"M. Stemkovski, K. Brennan, H. Rocha",13:06,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,03-Jul,Lypps,"Elevation Transect",184,,"Elevation Transect",9:09,14:40,5:31,9:56,1,"M. Stemkovski, K. Brennan",12:36,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,03-Jul,CDOT,"Elevation Transect",184,,"Elevation Transect",8:55,14:17,5:22,10:49,1,"M. Stemkovski, K. Brennan",13:32,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,06-Jul,Hill,D,187,,Dry,8:55,12:04,3:09,11:09,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,06-Jul,Little,D,187,,Veratrum,9:05,12:06,3:01,10:15,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,06-Jul,Copper,D,187,,Willow,9:20,12:17,2:57,9:27,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,07-Jul,Gothic,B,188,,Willow,8:55,13:52,4:57,9:42,1,"M. Stemkovski, H. Rocha, R. Irwin",12:21,1,"M. Stemkovski, H. Rocha, R. Irwin",2,,,,,
+2017,07-Jul,Beaver,B,188,,Veratrum,9:10,13:35,4:25,10:42,1,"M. Stemkovski, H. Rocha, R. Irwin",12:55,1,"M. Stemkovski, H. Rocha, R. Irwin",2,,,,,
+2017,07-Jul,Seans,B,188,,Dry,8:40,14:10,5:30,9:30,1,"K. Brennan",12:55,1,"K. Brennan",2,,,,,
+2017,10-Jul,Elko,"Elevation Transect",191,,"Elevation Transect",9:52,15:51,5:59,10:01,1,"M. Stemkovski, K. Brennan, H. Rocha",15:27,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,10-Jul,"Mexican Cut","Weather station",191,,"Weather station",11:42,14:07,2:25,11:48,1,"M. Stemkovski, K. Brennan, H. Rocha",13:39,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,12-Jul,Davids,A,193,,Dry,8:25,13:00,4:35,12:10,1,"M. Stemkovski, K. Brennan, H. Rocha",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,12-Jul,Willey,A,193,,Willow,8:40,11:35,2:55,10:30,1,"M. Stemkovski, K. Brennan, H. Rocha",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,12-Jul,Tuttle,A,193,,Veratrum,9:05,11:46,2:41,9:35,1,"M. Stemkovski, K. Brennan, H. Rocha",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,13-Jul,Rustlers,"Elevation Transect",194,,"Elevation Transect",9:11,12:15,3:04,9:20,1,"M. Stemkovski",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,14-Jul,Almont,"Weather station",195,,"Weather station",9:55,13:15,3:20,10:05,1,"M. Stemkovski, H. Rocha, R. Irwin",12:43,1,"M. Stemkovski, H. Rocha, R. Irwin",2,,,,,
+2017,14-Jul,"Almont Curve","Elevation Transect",195,,"Elevation Transect",9:25,13:41,4:16,10:57,1,"M. Stemkovski, H. Rocha, R. Irwin",13:38,0.58,"M. Stemkovski, H. Rocha, R. Irwin",1.58,,,,,
+2017,17-Jul,Hill,D,198,,Dry,9:02,15:21,6:19,11:38,1,"M. Stemkovski, K. Brennan, H. Rocha",14:53,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,"KB did 26 mins, MS & HR did 17 mins each in PM"
+2017,17-Jul,Little,D,198,,Veratrum,9:15,15:37,6:22,10:35,1,"M. Stemkovski, K. Brennan, H. Rocha",14:06,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,17-Jul,Copper,D,198,,Willow,9:37,15:48,6:11,9:51,1,"M. Stemkovski, K. Brennan, H. Rocha",13:28,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,19-Jul,Gothic,B,200,,Willow,8:51,13:00,4:09,9:54,1,"M. Stemkovski, K. Brennan, H. Rocha",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,19-Jul,Beaver,B,200,,Veratrum,9:05,12:53,3:48,9:11,1,"M. Stemkovski, K. Brennan, H. Rocha",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,19-Jul,Seans,B,200,,Dry,8:35,13:15,4:40,10:35,1,"M. Stemkovski, K. Brennan, H. Rocha",NA,0,NA,1,,,,,"Ended early because of thunderstorm"
+2017,20-Jul,Lypps,"Elevation Transect",201,,"Elevation Transect",9:40,14:40,5:00,9:47,1,"M. Stemkovski, H. Rocha, R. Irwin",13:06,1,"M. Stemkovski, H. Rocha, R. Irwin",2,,,,,
+2017,20-Jul,CDOT,"Elevation Transect",201,,"Elevation Transect",9:15,15:05,5:50,10:54,1,"M. Stemkovski, H. Rocha, R. Irwin",13:52,1,"M. Stemkovski, H. Rocha, R. Irwin",2,,,,,
+2017,27-Jul,Rustlers,"Elevation Transect",208,,"Elevation Transect",9:45,15:15,5:30,9:52,1,"M. Stemkovski",13:39,1,"M. Stemkovski",2,,,,,
+2017,27-Jul,Tuttle,A,208,,Veratrum,9:00,17:10,8:10,9:10,1,"K. Brennan, H. Rocha, R. Irwin",13:00,1,"K. Brennan, H. Rocha, R. Irwin",2,,,,,"Missing 2 yellow bowls"
+2017,27-Jul,Willey,A,208,,Willow,8:40,17:05,8:25,10:15,1,"K. Brennan, H. Rocha, R. Irwin",14:30,1,"K. Brennan, H. Rocha, R. Irwin",2,,,,,"Missing 1 yellow bowl"
+2017,27-Jul,Davids,A,208,,Dry,8:50,16:35,7:45,11:25,1,"K. Brennan, H. Rocha, R. Irwin",15:52,1,"K. Brennan, H. Rocha, R. Irwin",2,,,,,"Missing 2 white bowls"
+2017,28-Jul,"Almont Curve","Elevation Transect",209,,"Elevation Transect",9:10,13:40,4:30,10:30,1,"M. Stemkovski, K. Brennan",13:00,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,28-Jul,Almont,"Weather station",209,,"Weather station",9:42,12:45,3:03,9:42,1,"M. Stemkovski, K. Brennan",12:00,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,01-Aug,Lypps,"Elevation Transect",213,,"Elevation Transect",9:25,16:01,6:36,9:30,1,"M. Stemkovski, K. Brennan",12:43,1,"M. Stemkovski, K. Brennan",2,,,,,"Missing 2 blue bowls"
+2017,01-Aug,CDOT,"Elevation Transect",213,,"Elevation Transect",9:02,14:40,5:38,10:39,1,"M. Stemkovski, K. Brennan",13:42,1,"M. Stemkovski, K. Brennan",2,,,,,"Missing 2 blue bowls"
+2017,02-Aug,Copper,D,214,,Willow,9:40,13:30,3:50,9:50,1,"M. Stemkovski, K. Brennan, H. Rocha",NA,0,NA,1,,,,,
+2017,02-Aug,Hill,D,214,,Dry,9:10,13:30,4:20,11:24,1,"M. Stemkovski, K. Brennan, H. Rocha",NA,0,NA,1,,,,,
+2017,02-Aug,Little,D,214,,Veratrum,9:25,13:30,4:05,10:34,1,"M. Stemkovski, K. Brennan, H. Rocha",NA,0,NA,1,,,,,
+2017,03-Aug,Beaver,B,215,,Veratrum,12:50,17:02,4:12,NA,0,NA,13:26,1,"M. Stemkovski, K. Brennan, R. Irwin",1,,,,,
+2017,03-Aug,Seans,B,215,,Dry,12:15,16:40,4:25,NA,0,NA,15:25,1,"M. Stemkovski, K. Brennan, R. Irwin",1,,,,,
+2017,03-Aug,Gothic,B,215,,Willow,12:40,16:55,4:15,NA,0,NA,14:21,1,"M. Stemkovski, K. Brennan, R. Irwin",1,,,,,
+2017,04-Aug,"Mexican Cut","Weather station",216,,"Weather station",11:35,13:25,1:50,11:41,1,"M. Stemkovski, H. Rocha, R. Irwin",13:50,1,"H. Rocha, R. Irwin",2,,,,,
+2017,04-Aug,Elko,"Elevation Transect",216,,"Elevation Transect",9:38,16:07,6:29,9:45,1,"M. Stemkovski, H. Rocha",14:19,1,"M. Stemkovski, H. Rocha",2,,,,,"MS did 44 mins, HR and REI did 8 mins each in PM"
+2017,09-Aug,Rustlers,"Elevation Transect",221,,"Elevation Transect",9:40,15:25,5:45,9:50,1,"M. Stemkovski",13:41,1,"M. Stemkovski",2,,,,,
+2017,10-Aug,Tuttle,A,222,,Veratrum,9:25,15:02,5:37,9:28,1,"M. Stemkovski, K. Brennan, H. Rocha",13:08,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,10-Aug,Davids,A,222,,Dry,8:40,15:55,7:15,11:05,1,"M. Stemkovski, H. Rocha",15:02,1,"M. Stemkovski, H. Rocha",2,,,,,
+2017,10-Aug,Willey,A,222,,Willow,9:10,14:40,5:30,10:14,1,"M. Stemkovski, K. Brennan, H. Rocha",13:59,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,11-Aug,Almont,"Weather station",223,,"Weather station",9:30,12:52,3:22,9:37,1,"M. Stemkovski, H. Rocha",12:29,0.5,"M. Stemkovski, H. Rocha",1.5,,,,,
+2017,11-Aug,"Almont Curve","Elevation Transect",223,,"Elevation Transect",9:05,13:50,4:45,10:27,1,"M. Stemkovski, H. Rocha",13:10,1,"M. Stemkovski, H. Rocha",2,,,,,
+2017,15-Aug,Elko,"Elevation Transect",227,,"Elevation Transect",9:03,16:40,7:37,9:07,1,"M. Stemkovski, H. Rocha, D. Jacobsmeyer",15:33,1,"M. Stemkovski, H. Rocha, D. Jacobsmeyer",2,,,,,
+2017,15-Aug,"Mexican Cut","Weather station",227,,"Weather station",10:45,14:19,3:34,10:51,1,"M. Stemkovski, H. Rocha, D. Jacobsmeyer",13:36,1,"M. Stemkovski, H. Rocha, D. Jacobsmeyer",2,,,,,
+2017,16-Aug,Seans,B,228,,Dry,8:25,15:24,6:59,10:20,1,"M. Stemkovski, K. Brennan, H. Rocha",14:20,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,16-Aug,Gothic,B,228,,Willow,8:50,15:48,6:58,9:47,1,"M. Stemkovski, K. Brennan, H. Rocha",13:16,1,"M. Stemkovski, K. Brennan",2,,,,,"KB did 35 mins, MS did 25 mins in PM"
+2017,16-Aug,Beaver,B,228,,Veratrum,9:06,15:58,6:52,9:06,1,"M. Stemkovski, K. Brennan, H. Rocha",12:11,1,"M. Stemkovski, K. Brennan, H. Rocha",2,,,,,
+2017,17-Aug,Lypps,"Elevation Transect",229,,"Elevation Transect",10:25,15:12,4:47,10:30,1,"M. Stemkovski, K. Brennan",13:04,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,17-Aug,CDOT,"Elevation Transect",229,,"Elevation Transect",10:05,14:55,4:50,11:28,1,"M. Stemkovski, K. Brennan",14:08,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,18-Aug,Little,D,230,,Veratrum,9:25,15:19,5:54,10:34,1,"M. Stemkovski, K. Brennan, C. Urbanowicz",13:48,1,"M. Stemkovski, K. Brennan, C. Urbanowicz, R. Irwin",2,,,,,
+2017,18-Aug,Copper,D,230,,Willow,9:42,15:26,5:44,9:52,1,"M. Stemkovski, K. Brennan, C. Urbanowicz",13:10,1,"K. Brennan, C. Urbanowicz, R. Irwin",2,,,,,
+2017,18-Aug,Hill,D,230,,Dry,09:18,15:10,5:52,11:38,1,"M. Stemkovski, K. Brennan, C. Urbanowicz, R. Irwin",14:38,1,"M. Stemkovski, K. Brennan, C. Urbanowicz",2,,,,,
+2017,22-Aug,Willey,A,234,,Willow,09:20,15:50,6:30,10:44,1,"M. Stemkovski, K. Brennan",15:00,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,22-Aug,Tuttle,A,234,,Veratrum,09:30,15:45,6:15,9:39,1,"M. Stemkovski, K. Brennan",13:58,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,22-Aug,Davids,A,234,,Dry,09:00,16:26,7:26,11:57,1,"M. Stemkovski, K. Brennan",NA,0,NA,1,,,,,"too cold to sample in PM"
+2017,23-Aug,Rustlers,"Elevation Transect",235,,"Elevation Transect",09:35,15:45,6:10,9:42,1,"M. Stemkovski",13:32,1,"M. Stemkovski",2,,,,,
+2017,24-Aug,"Almont Curve","Elevation Transect",236,,"Elevation Transect",09:55,16:53,6:58,11:54,1,"M. Stemkovski",15:47,1,"M. Stemkovski",2,,,,,
+2017,24-Aug,Almont,"Weather station",236,,"Weather station",10:20,15:20,5:00,10:30,1,"M. Stemkovski",14:14,1,"M. Stemkovski",2,,,,,
+2017,28-Aug,Elko,"Elevation Transect",240,,"Elevation Transect",09:01,15:07,6:06,9:04,1,"M. Stemkovski, K. Brennan",14:20,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,28-Aug,"Mexican Cut","Weather station",240,,"Weather station",10:31,13:28,2:57,10:37,1,"M. Stemkovski, K. Brennan",12:41,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,29-Aug,Lypps,"Elevation Transect",241,,"Elevation Transect",10:00,15:35,5:35,10:07,1,"M. Stemkovski",13:53,1,"M. Stemkovski",2,,,,,
+2017,29-Aug,CDOT,"Elevation Transect",241,,"Elevation Transect",09:30,17:13,7:43,11:32,1,"M. Stemkovski",15:53,1,"M. Stemkovski",2,,,,,
+2017,30-Aug,Beaver,B,242,,Veratrum,09:06,13:54,4:48,09:12,1,"M. Stemkovski, K. Brennan",NA,0,"M. Stemkovski, K. Brennan",1,,,,,
+2017,30-Aug,Gothic,B,242,,Willow,08:52,13:45,4:53,09:49,1,"M. Stemkovski, K. Brennan",NA,0,"M. Stemkovski, K. Brennan",1,,,,,
+2017,30-Aug,Seans,B,242,,Dry,08:40,13:30,4:50,10:29,1,"M. Stemkovski, K. Brennan",13:11,0.22,"M. Stemkovski, K. Brennan",1.22,,,,,"Ended early because of rain"
+2017,31-Aug,Copper,D,243,,Willow,09:25,15:10,5:45,09:30,1,"M. Stemkovski, K. Brennan",12:49,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,31-Aug,Little,D,243,,Veratrum,09:15,14:55,5:40,10:18,1,"M. Stemkovski, K. Brennan",13:29,1,"M. Stemkovski, K. Brennan",2,,,,,
+2017,31-Aug,Hill,D,243,,Dry,09:05,14:45,5:40,11:08,1,"M. Stemkovski, K. Brennan",14:10,1,"M. Stemkovski, K. Brennan",2,,,,,
+2018,14-May,Almont,"Weather station",134,1,"Weather station",9:25,16:55,7:30,9:34,1,"M. Stemkovski",13:09,1,"M. Stemkovski",2,,,,,
+2018,14-May,"Almont Curve","Elevation transect",134,1,"Elevation transect",8:55,16:15,7:20,11:08,1,"M. Stemkovski",14:37,1,"M. Stemkovski",2,,,,,
+2018,15-May,CDOT,"Elevation transect",135,1,"Elevation transect",8:10,15:55,7:45,10:54,1,"M. Stemkovski",14:29,1,"M. Stemkovski",2,,,,,
+2018,15-May,Lypps,"Elevation transect",135,1,"Elevation transect",8:40,16:20,7:40,9:20,1,"M. Stemkovski",12:49,1,"M. Stemkovski",2,,,,,
+2018,16-May,Davids,A,136,1,Dry,8:55,15:05,6:10,9:56,1,"M. Stemkovski",12:49,1,"M. Stemkovski",2,,,,,
+2018,17-May,Willey,A,137,1,Willow,9:00,15:35,6:35,10:45,0.6,"M. Stemkovski",13:05,1,"M. Stemkovski",1.6,,,,,
+2018,17-May,Tuttle,A,137,1,Veratrum,9:10,15:52,6:42,11:25,0.72,"M. Stemkovski",14:22,1,"M. Stemkovski",1.72,,,,,
+2018,21-May,Seans,B,141,1,Dry,10:05,14:55,4:50,10:13,1,"M. Stemkovski",13:50,1,"M. Stemkovski",2,,,,,
+2018,22-May,Copper,D,142,1,Willow,9:20,13:36,4:16,9:43,1,"M. Stemkovski, R. Dalton",NA,0,NA,1,,,,,
+2018,22-May,Little,D,142,1,Veratrum,9:02,12:35,3:33,10:24,1,"M. Stemkovski, R. Dalton",NA,0,NA,1,,,,,
+2018,22-May,Hill,D,142,1,Dry,8:47,13:20,4:33,11:09,1,"M. Stemkovski, R. Dalton",NA,0,NA,1,,,,,
+2018,23-May,Beaver,B,143,1,Veratrum,9:25,15:40,6:15,9:53,1,"M. Stemkovski",12:56,1,"M. Stemkovski",2,,,,,
+2018,23-May,Gothic,B,143,1,Willow,9:10,15:45,6:35,11:01,1,"M. Stemkovski",14:15,1,"M. Stemkovski",2,,,,,
+2018,24-May,Rustlers,"Elevation transect",144,1,"Elevation transect",10:25,14:35,4:10,10:39,1,"M. Stemkovski",13:28,1,"M. Stemkovski",2,,,,,
+2018,28-May,"Almont Curve","Elevation transect",148,2,"Elevation transect",9:10,15:12,6:02,11:05,1,"M. Stemkovski",13:55,1,"M. Stemkovski",2,,,,,
+2018,28-May,Almont,"Weather station",148,2,"Weather station",9:35,13:25,3:50,9:45,1,"M. Stemkovski",12:52,1,"M. Stemkovski",2,,,,,
+2018,29-May,CDOT,"Elevation transect",149,2,"Elevation transect",9:10,16:10,7:00,11:02,1,"M. Stemkovski, I. Breckheimer",15:02,1,"M. Stemkovski",2,,,,,
+2018,29-May,Lypps,"Elevation transect",149,2,"Elevation transect",9:35,16:39,7:04,10:01,1,"M. Stemkovski, I. Breckheimer",13:30,1,"M. Stemkovski",2,,,,,
+2018,30-May,Davids,A,150,2,Dry,9:40,14:35,4:55,9:50,1,"M. Stemkovski",13:18,1,"M. Stemkovski",2,,,,,
+2018,31-May,Tuttle,A,151,2,Veratrum,9:45,16:20,6:35,10:00,1,"M. Stemkovski",13:30,1,"M. Stemkovski",2,,,,,
+2018,31-May,Willey,A,151,2,Willow,9:32,16:30,6:58,11:18,1,"M. Stemkovski",14:40,1,"M. Stemkovski",2,,,,,
+2018,01-Jun,Elko,"Elevation transect",152,1,"Elevation transect",10:40,12:02,1:22,10:55,1,"M. Stemkovski",NA,0,NA,1,,,,,
+2018,04-Jun,Rustlers,"Elevation transect",155,2,"Elevation transect",9:30,14:00,4:30,9:50,1,"M. Stemkovski",12:22,1,"M. Stemkovski",2,,,,,
+2018,06-Jun,Little,D,157,2,Veratrum,10:15,14:45,4:30,10:25,1,"M. Stemkovski",13:07,1,"M. Stemkovski",2,,,,,
+2018,07-Jun,Hill,D,158,2,Dry,10:22,17:00,6:38,10:32,1,"M. Stemkovski",14:29,1,"M. Stemkovski",2,,,,,
+2018,07-Jun,Copper,D,158,2,Willow,9:55,16:42,6:47,11:55,1,"M. Stemkovski",15:30,1,"M. Stemkovski",2,,,,,
+2018,08-Jun,Seans,B,159,2,Dry,10:05,14:56,4:51,10:20,1,"M. Stemkovski",13:33,1,"M. Stemkovski",2,,,,,
+2018,11-Jun,"Almont Curve","Elevation transect",162,3,"Elevation transect",10:10,16:30,6:20,12:08,1,"M. Stemkovski",15:28,1,"M. Stemkovski",2,,,,,
+2018,11-Jun,Almont,"Weather station",162,3,"Weather station",10:40,17:05,6:25,10:51,1,"M. Stemkovski",14:38,0.12,"M. Stemkovski",1.12,,,,,
+2018,12-Jun,Beaver,B,163,2,Veratrum,9:13,15:25,6:12,10:13,1,"M. Stemkovski, M. Turnley, L. Naslund",13:36,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,12-Jun,Gothic,B,163,2,Willow,9:00,15:10,6:10,10:56,1,"M. Stemkovski, M. Turnley, L. Naslund",14:24,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,13-Jun,CDOT,"Elevation transect",164,3,"Elevation transect",9:05,14:00,4:55,10:38,1,"M. Stemkovski, M. Turnley, L. Naslund",13:19,1,"M. Stemkovski, M. Turnley, L. Naslund",2,,,,,
+2018,13-Jun,Lypps,"Elevation transect",164,3,"Elevation transect",9:22,13:55,4:33,9:46,1,"M. Stemkovski, M. Turnley, L. Naslund",12:37,1,"M. Stemkovski, M. Turnley, L. Naslund",2,,,,,
+2018,14-Jun,Tuttle,A,165,3,Veratrum,9:35,16:00,6:25,9:47,1,"M. Stemkovski, L. Naslund, R. Irwin",13:31,1,"M. Stemkovski, R. Irwin",2,,,,,
+2018,14-Jun,Willey,A,165,3,Willow,9:25,16:10,6:45,10:48,1,"M. Stemkovski, L. Naslund, R. Irwin",14:25,1,"M. Stemkovski, R. Irwin",2,,,,,
+2018,14-Jun,Davids,A,165,3,Dry,8:35,15:47,7:12,11:43,1,"M. Stemkovski, L. Naslund, R. Irwin",15:16,1,"M. Stemkovski, R. Irwin",2,,,,,
+2018,15-Jun,Elko,"Elevation transect",166,2,"Elevation transect",NA,NA,NA,9:34,1,"M. Stemkovski, M. Turnley, L. Naslund",NA,0,NA,1,,,,,
+2018,18-Jun,"Mexican Cut","Weather station",169,1,"Weather station",10:25,13:00,2:35,10:35,1,"M. Stemkovski, M. Turnley, L. Naslund",12:26,1,"M. Stemkovski, M. Turnley, L. Naslund",2,,,,,
+2018,18-Jun,Elko,"Elevation transect",169,2,"Elevation transect",9:20,15:10,5:50,NA,0,NA,14:21,1,"M. Stemkovski, M. Turnley, L. Naslund",1,,,,,
+2018,19-Jun,Rustlers,"Elevation transect",170,3,"Elevation transect",10:30,15:05,4:35,10:45,1,"M. Stemkovski",13:36,1,"M. Stemkovski",2,,,,,
+2018,20-Jun,Beaver,B,171,3,Veratrum,9:25,15:30,6:05,9:31,1,"M. Stemkovski, M. Turnley",13:43,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,20-Jun,Gothic,B,171,3,Willow,9:15,15:30,6:15,10:18,1,"M. Stemkovski, M. Turnley",14:38,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,20-Jun,Seans,B,171,3,Dry,8:55,15:50,6:55,11:15,1,"M. Stemkovski, M. Turnley",15:59,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,21-Jun,Copper,D,172,3,Willow,9:50,16:25,6:35,10:05,1,"M. Stemkovski, M. Turnley, R. Irwin",14:00,1,"M. Stemkovski, M. Turnley, R. Irwin",2,,,,,
+2018,21-Jun,Little,D,172,3,Veratrum,9:38,16:10,6:32,10:42,1,"M. Stemkovski, M. Turnley, R. Irwin",14:35,1,"M. Stemkovski, M. Turnley, R. Irwin",2,,,,,
+2018,21-Jun,Hill,D,172,3,Dry,9:25,16:00,6:35,11:24,1,"M. Stemkovski, M. Turnley, R. Irwin",15:15,1,"M. Stemkovski, M. Turnley, R. Irwin",2,,,,,
+2018,26-Jun,Tuttle,A,177,4,Veratrum,9:17,17:20,8:03,9:25,1,"M. Stemkovski, L. Naslund, R. Irwin",13:12,1,"M. Stemkovski, L. Naslund, R. Irwin",2,,,,,
+2018,26-Jun,Willey,A,177,4,Willow,9:05,17:00,7:55,10:07,1,"M. Stemkovski, L. Naslund, R. Irwin",14:47,1,"M. Stemkovski, L. Naslund, R. Irwin",2,,,,,
+2018,26-Jun,Davids,A,177,4,Dry,8:25,16:38,8:13,11:02,1,"M. Stemkovski, L. Naslund, R. Irwin",15:39,1,"M. Stemkovski, L. Naslund, R. Irwin",2,,,,,
+2018,27-Jun,CDOT,"Elevation transect",178,4,"Elevation transect",9:25,13:55,4:30,10:47,1,"M. Stemkovski, L. Naslund, M. Turnley",13:27,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,27-Jun,Lypps,"Elevation transect",178,4,"Elevation transect",9:50,14:15,4:25,10:05,1,"M. Stemkovski, L. Naslund, M. Turnley",12:37,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,28-Jun,"Almont Curve","Elevation transect",179,4,"Elevation transect",9:20,15:00,5:40,11:00,1,"M. Stemkovski, R. Dalton",12:35,1,"M. Stemkovski, R. Dalton",2,,,,,
+2018,28-Jun,Almont,"Weather station",179,4,"Weather station",9:55,14:35,4:40,10:11,1,"M. Stemkovski, R. Dalton",13:58,1,"M. Stemkovski, R. Dalton",2,,,,,
+2018,02-Jul,"Mexican Cut","Weather station",183,2,"Weather station",11:15,15:30,4:15,11:20,1,"M. Stemkovski, L. Naslund, M. Turnley",14:40,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,02-Jul,Elko,"Elevation transect",183,3,"Elevation transect",9:43,16:50,7:07,9:47,1,"M. Stemkovski, L. Naslund, M. Turnley",16:28,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,03-Jul,Beaver,B,184,4,Veratrum,9:25,15:32,6:07,9:37,1,"M. Stemkovski, M. Turnley, R. Irwin",13:53,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,03-Jul,Gothic,B,184,4,Willow,9:15,15:45,6:30,10:23,1,"M. Stemkovski, M. Turnley, R. Irwin",13:12,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,03-Jul,Seans,B,184,4,Dry,9:00,16:00,7:00,11:10,1,"M. Stemkovski, M. Turnley, R. Irwin",NA,0,NA,1,,,,,
+2018,05-Jul,Rustlers,"Elevation transect",186,4,"Elevation transect",9:10,12:05,2:55,9:30,1,"M. Stemkovski",NA,0,NA,1,,,,,
+2018,06-Jul,Copper,D,187,4,Willow,10:00,16:30,6:30,10:10,1,"M. Stemkovski, L. Naslund, M. Turnley",13:42,1,"M. Stemkovski, M. Turnley, R. Irwin",2,,,,,
+2018,06-Jul,Little,D,187,4,Veratrum,9:45,16:30,6:45,10:49,1,"M. Stemkovski, L. Naslund, M. Turnley",14:16,1,"M. Stemkovski, M. Turnley, R. Irwin",2,,,,,
+2018,06-Jul,Hill,D,187,4,Dry,9:35,16:40,7:05,11:36,1,"M. Stemkovski, L. Naslund, M. Turnley",15:06,1,"M. Stemkovski, M. Turnley, R. Irwin",2,,,,,
+2018,10-Jul,Tuttle,A,191,5,Veratrum,9:40,14:40,5:00,9:50,1,"M. Stemkovski, L. Naslund, M. Turnley",13:38,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,10-Jul,Davids,A,191,5,Dry,8:55,15:20,6:25,11:25,1,"M. Stemkovski, L. Naslund, M. Turnley",NA,0,NA,1,,,,,
+2018,10-Jul,Willey,A,191,5,Willow,9:30,14:40,5:10,10:32,1,"M. Stemkovski, L. Naslund, M. Turnley",12:59,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,11-Jul,"Almont Curve","Elevation transect",192,5,"Elevation transect",10:00,13:25,3:25,12:00,1,"M. Stemkovski",NA,0,NA,1,,,,,
+2018,11-Jul,Almont,"Weather station",192,5,"Weather station",10:40,13:49,3:09,10:50,0.666666,"M. Stemkovski",NA,0,NA,0.666666,,,,,
+2018,13-Jul,Lypps,"Elevation transect",194,5,"Elevation transect",9:35,13:25,3:50,9:42,1,"M. Stemkovski, R. Irwin",12:32,1,"M. Stemkovski, R. Irwin",2,,,,,
+2018,13-Jul,CDOT,"Elevation transect",194,5,"Elevation transect",9:15,13:50,4:35,10:46,1,"M. Stemkovski, R. Irwin",14:00,1,"M. Stemkovski, R. Irwin",2,,,,,
+2018,16-Jul,Seans,B,197,5,Dry,8:55,16:30,7:35,11:41,1,"M. Stemkovski, L. Naslund, M. Turnley",15:43,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,16-Jul,Gothic,B,197,5,Willow,9:15,16:53,7:38,10:33,1,"M. Stemkovski, L. Naslund",14:31,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,16-Jul,Beaver,B,197,5,Veratrum,9:27,17:03,7:36,9:39,1,"M. Stemkovski, L. Naslund",13:55,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,17-Jul,"Mexican Cut","Weather station",198,3,"Weather station",11:39,13:55,2:16,11:39,1,"M. Stemkovski, R. Irwin , M. Turnley, D. Carley",13:21,1,"M. Turnley, R. Irwin, D. Carley",2,,,,,
+2018,17-Jul,"North Elko","Elevation transect",198,1,"Elevation transect",9:55,14:20,4:25,10:02,1,"M. Stemkovski, R. Irwin , M. Turnley, D. Carley",NA,0,NA,1,,,,,
+2018,18-Jul,Rustlers,"Elevation transect",199,5,"Elevation transect",9:55,16:40,6:45,10:05,1,"M. Stemkovski",14:38,1,"M. Stemkovski",2,,,,,
+2018,19-Jul,Copper,D,200,5,Willow,10:07,15:37,5:30,10:15,1,"M. Stemkovski, L. Naslund, M. Turnley",10:15,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,19-Jul,Little,D,200,5,Veratrum,9:48,15:35,5:47,10:50,1,"M. Stemkovski, L. Naslund, M. Turnley, R. Irwin",13:57,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,19-Jul,Hill,D,200,5,Dry,9:25,16:25,7:00,11:46,1,"M. Stemkovski, L. Naslund, M. Turnley, R. Irwin",14:47,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,23-Jul,Tuttle,A,204,6,Veratrum,9:35,16:10,6:35,9:45,1,"M. Stemkovski, L. Naslund, M. Turnley",13:42,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,23-Jul,Willey,A,204,6,Willow,9:15,16:00,6:45,10:18,1,"M. Stemkovski, L. Naslund, M. Turnley",12:47,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,23-Jul,Davids,A,204,6,Dry,8:50,15:35,6:45,11:08,1,"M. Stemkovski, L. Naslund, M. Turnley",15:35,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,24-Jul,Almont,"Weather station",205,6,"Weather station",9:45,15:55,6:10,10:04,1,"R. Irwin",13:03,1,"R. Irwin",2,,,,,
+2018,24-Jul,"Almont Curve","Elevation transect",205,6,"Elevation transect",9:20,15:25,6:05,11:25,1,"R. Irwin",14:22,1,"R. Irwin",2,,,,,
+2018,26-Jul,Lypps,"Elevation transect",207,6,"Elevation transect",9:42,13:48,4:06,9:45,1,"R. Irwin",13:20,0.3,"R. Irwin",1.3,,,,,
+2018,26-Jul,CDOT,"Elevation transect",207,6,"Elevation transect",9:15,15:30,6:15,11:15,1,"R. Irwin",14:12,1,"R. Irwin",2,,,,,
+2018,30-Jul,"Mexican Cut","Weather station",211,4,"Weather station",11:05,14:05,3:00,11:15,1,"M. Stemkovski, M. Turnley",13:16,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,30-Jul,"North Elko","Elevation transect",211,2,"Elevation transect",10:15,15:42,5:27,10:25,1,"M. Turnley",14:49,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,31-Jul,Rustlers,"Elevation transect",212,6,"Elevation transect",10:10,15:30,5:20,10:20,1,"R. Irwin",13:20,1,"R. Irwin",2,,,,,
+2018,01-Aug,Beaver,B,213,6,Veratrum,9:40,14:18,4:38,9:45,1,"M. Stemkovski, L. Naslund, M. Turnley",13:04,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,01-Aug,Gothic,B,213,6,Willow,9:25,14:12,4:47,10:19,1,"M. Stemkovski, L. Naslund, M. Turnley",13:45,0.783333,"M. Stemkovski, L. Naslund, M. Turnley",1.783333,,,,,
+2018,01-Aug,Seans,B,213,6,Dry,9:00,14:40,5:40,11:10,1,"M. Stemkovski, L. Naslund, M. Turnley",NA,0,NA,1,,,,,
+2018,02-Aug,Copper,D,214,6,Willow,9:51,14:40,4:49,10:09,1,"M. Stemkovski, L. Naslund, R. Irwin",12:49,1,"M. Stemkovski, L. Naslund, R. Irwin",2,,,,,
+2018,02-Aug,Little,D,214,6,Veratrum,9:40,14:40,5:00,10:48,1,"M. Stemkovski, L. Naslund, R. Irwin",13:27,1,"M. Stemkovski, L. Naslund, R. Irwin",2,,,,,
+2018,02-Aug,Hill,D,214,6,Dry,9:25,14:40,5:15,11:25,1,"M. Stemkovski, L. Naslund, R. Irwin",14:17,1,"M. Stemkovski, L. Naslund, R. Irwin",2,,,,,
+2018,06-Aug,Tuttle,A,218,7,Veratrum,9:40,16:16,6:36,9:47,1,"M. Stemkovski, M. Turnley",12:58,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,06-Aug,Willey,A,218,7,Willow,9:30,16:06,6:36,10:34,1,"M. Stemkovski, M. Turnley",13:51,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,06-Aug,Davids,A,218,7,Dry,9:05,15:42,6:37,11:27,1,"M. Stemkovski, M. Turnley",14:50,1,"M. Stemkovski, M. Turnley",2,,,,,
+2018,07-Aug,CDOT,"Elevation transect",219,7,"Elevation transect",9:00,15:47,6:47,11:05,1,"R. Irwin",14:40,1,"R. Irwin",2,,,,,
+2018,07-Aug,Lypps,"Elevation transect",219,7,"Elevation transect",9:30,16:05,6:35,9:40,1,"R. Irwin",13:10,1,"R. Irwin",2,,,,,
+2018,08-Aug,Almont,"Weather station",220,7,"Weather station",10:30,15:42,5:12,10:42,0.5,"M. Stemkovski",15:04,0.5,"M. Stemkovski",1,,,,,
+2018,08-Aug,"Almont Curve","Elevation transect",220,7,"Elevation transect",9:55,16:07,6:12,11:47,1,"M. Stemkovski",13:55,1,"M. Stemkovski",2,,,,,
+2018,13-Aug,Rustlers,"Elevation transect",225,7,"Elevation transect",10:28,15:13,4:45,10:38,1,"M. Stemkovski",13:30,1,"M. Stemkovski",2,,,,,
+2018,14-Aug,Beaver,B,226,7,Veratrum,9:42,15:45,6:03,9:50,1,"M. Stemkovski, L. Naslund, M. Turnley",13:04,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,14-Aug,Gothic,B,226,7,Willow,9:30,15:32,6:02,10:18,1,"M. Stemkovski, L. Naslund, M. Turnley",13:41,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,14-Aug,Seans,B,226,7,Dry,9:12,15:15,6:03,11:03,1,"M. Stemkovski, L. Naslund, M. Turnley",14:24,1,"M. Stemkovski, L. Naslund, M. Turnley",2,,,,,
+2018,16-Aug,"Mexican Cut","Weather station",228,5,"Weather station",11:20,12:38,1:18,11:26,1,"M. Stemkovski, R. Dalton",NA,0,NA,1,,,,,
+2018,16-Aug,"North Elko","Elevation transect",228,3,"Elevation transect",9:35,13:30,3:55,9:45,1,"M. Stemkovski, R. Dalton",13:10,0.4,"M. Stemkovski, R. Dalton",1.4,,,,,
+2018,17-Aug,Copper,D,229,7,Willow,10:05,14:24,4:19,10:10,1,"R. Irwin, L. Naslund",12:56,1,"R. Irwin, L. Naslund",2,,,,,
+2018,17-Aug,Little,D,229,7,Veratrum,9:45,14:23,4:38,10:53,1,"R. Irwin, L. Naslund",13:28,1,"R. Irwin, L. Naslund, M. Stemkovski",2,,,,,
+2018,17-Aug,Hill,D,229,7,Dry,9:18,14:20,5:02,11:37,1,"R. Irwin, L. Naslund, M. Stemkovski",13:59,0.7,"R. Irwin, L. Naslund, M. Stemkovski",1.7,,,,,
+2018,20-Aug,Davids,A,232,8,Dry,8:35,15:53,7:18,11:18,1,"R. Irwin, L. Naslund, M. Stemkovski",15:11,1,"R. Irwin, L. Naslund, M. Stemkovski",2,,,,,
+2018,20-Aug,Willey,A,232,8,Willow,9:30,16:30,7:00,10:26,1,"R. Irwin, L. Naslund, M. Stemkovski",14:06,1,"M. Stemkovski, L. Naslund",2,,,,,
+2018,20-Aug,Tuttle,A,232,8,Veratrum,9:43,16:45,7:02,9:48,1,"R. Irwin, L. Naslund, M. Stemkovski",13:02,1,"M. Stemkovski, L. Naslund",2,,,,,
+2018,21-Aug,Seans,B,233,8,Dry,9:41,13:50,4:09,9:50,1,"L. Naslund",12:50,0.45,"L. Naslund",1.45,,,,,
+2018,21-Aug,Rustlers,"Elevation transect",233,8,"Elevation transect",10:07,11:29,1:22,10:28,0.35,"M. Stemkovski",13:40,0.266666,"M. Stemkovski",0.616666,,,,,
+2018,21-Aug,"North Elko","Elevation transect",233,4,"Elevation transect",10:00,14:02,4:02,10:15,1,"R. Irwin",12:15,1,"R. Irwin",2,,,,,
+2019,27-May,Almont,"Weather Station",147,1,"Weather Station",10:50,16:05,5:15,11:02,1,"R. Dalton, R. Dickson, A. Woolman",14:08,1,"R. Dalton, R. Dickson, A. Woolman",2,,,,,"Morning cloudy; chilly and windy but no rain"
+2019,27-May,"Almont Curve","Elevational Transect",147,1,"Elevational Transect",10:15,16:40,6:25,12:00,1,"R. Dalton, R. Dickson, A. Woolman",13:15,1,"R. Dalton, R. Dickson, A. Woolman",2,,,,,
+2019,31-May,Almont,"Weather Station",151,2,"Weather Station",10:45,16:57,6:12,10:50,1,"R. Dickson",15:30,1,"R. Dickson",2,,,,,"Saw B. appositus but didn't net; saw lassioglossums on Arielanchier alimifolia and Erigeron but didn't net; solitaries visiting Phlox hoodii but none netted A.M. sunny; slight breeze. PM partly cloudy; slight breeze"
+2019,31-May,"Almont Curve","Elevational Transect",151,2,"Elevational Transect",10:10,17:30,7:20,12:30,1,"R. Dickson",13:55,1,"R. Dickson",2,,,,,"Partly cloudy; tiny sprinkles a couple of times, more clouds in P.M.; Saw B. appositus visiting a blue flag; also a B. huntii nest searching with no landing on flowers (in the PM)"
+2019,02-Jun,CDOT,"Elevational Transect",153,1,"Elevational Transect",9:50,14:30,4:40,9:55,1,"R. Dickson",NA,0,NA,1,,,,,"Arrived to pick up bowls in lightning/rain storm - waited it out to get bowls for safety; were probaby in rain for about 15 mins AM sunny and warm with a little wind"
+2019,02-Jun,Lypps,"Elevational Transect",153,1,"Elevational Transect",9:20,13:45,4:25,11:22,1,"R. Dickson",NA,0,"R. Dickson",1,,,,,"Warm and sunny in A.M.; 30 mins in it got a little cloudy and some wind but bees still out; picked up bowls because of storm; no PM sampling because of storm"
+2019,06-Jun,Seans,B,157,1,Dry,9:15,16:30,7:15,10:00,1,"R. Dickson",13:10,1,"R. Dickson",2,,,,,"AM Warm sunny clear; Claytonia wasn't all the way open during first 30 min of survey; PM warm sunny slight breeze clear"
+2019,08-Jun,Davids,A,159,1,Dry,9:30,16:30,7:00,11:15,1,"R. Dickson",14:20,1,"R. Dickson",2,,,,,"AM: Sunny and clear; slight breeze; a little more wind in the PM"
+2019,10-Jun,Tuttle,A,161,1,Veratrum,11:18,17:05,5:47,11:25,1,"R. Dickson, R. Irwin",13:42,1,"R. Dickson, R. Irwin",2,,,,,"AM breezy and sunny; PM slightly windy"
+2019,10-Jun,Willey,A,161,1,Willow,10:00,16:40,6:40,12:49,1,"R. Dickson, R. Irwin",15:08,1,"R. Dickson, R. Irwin",2,,,,,
+2019,11-Jun,Rustlers,"Elevational Transect",162,1,"Elevational Transect",11:00,14:20,3:20,11:20,1,"R. Dickson, R. Irwin",13:03,1,"R. Dickson",2,,,,,"AM windy and sunny; PM windy and sunny RGD and REI split evenly in AM; RGD only in PM"
+2019,12-Jun,Beaver,B,163,1,Veratrum,10:50,15:40,4:50,13:10,1,"R. Dickson, R. Irwin",14:40,0.53,"R. Irwin",1.53,,,,,"Slightly windy in the AM"
+2019,12-Jun,Gothic,B,163,1,Willow,11:50,15:30,3:40,11:58,1,"R. Dickson, R. Irwin",14:38,0.5,"R. Dickson",1.5,,,,,"AM slightly windy; PM slight breeze"
+2019,14-Jun,Almont,"Weather Station",165,3,"Weather Station",9:50,16:30,6:40,10:05,1,"R. Dickson, H. Benkoski",15:10,1,"R. Dickson, H. Benkoski",2,,,,,"AM sunny and warm, slight breeze; PM windy, sunny, partly cloudy"
+2019,14-Jun,"Almont Curve","Elevational Transect",165,3,"Elevational Transect",9:10,17:30,8:20,11:20,1,"R. Dickson, H. Benkoski",13:45,1,"R. Dickson, H. Benkoski",2,,,,,"AM sunny and warm; PM some wind and clouds; sunny and warm"
+2019,19-Jun,Copper,D,170,1,Willow,10:27,15:15,4:48,10:36,1,"R. Irwin",13:15,1,"H. Benkoski",2,,,,,"9 bowls in snow; no bees in snow bowls; 60% of site in snow due to avalanche; tried to follow transects; PM windy with some clouds"
+2019,19-Jun,Hill,D,170,1,Dry,9:55,15:55,6:00,10:38,1,"H. Benkoski",13:00,1,"R. Dickson",2,,,,,"1/4 of site transect has snow; 1 white bowl blew away during sampling (no bees recovered); windy in PM with some clouds"
+2019,19-Jun,Little,D,170,1,Veratrum,10:09,15:30,5:21,10:40,1,"R. Dickson",13:01,1,"R. Irwin",2,,,,,"8 bowls in snow; no bees went into snow bowls; 90% of site in snow; shifted transect to take into acount non-avalanche affected area; PM was windy with some clouds"
+2019,20-Jun,"Ipo Dry 1","Single Sample",171,1,Dry,9:30,14:50,5:20,11:05,1,"R. Irwin, N. Taylor, H. Benkoski",14:00,1,"R. Irwin, N. Taylor, H. Benkoski",2,,,,,
+2019,20-Jun,"Ipo Wet 1","Single Sample",171,1,Wet,10:00,13:50,3:50,10:20,1,"R. Irwin, N. Taylor, H. Benkoski",13:00,1,"R. Irwin, N. Taylor, H. Benkoski",2,,,,,"2 bowls in the snow."
+2019,24-Jun,CDOT,"Elevational Transect",175,2,"Elevational Transect",10:08,16:40,6:32,10:15,1,"R. Dickson, H. Benkoski",14:05,1,"R. Dickson, H. Benkoski",2,,,,,"AM had 40 min of cool and windy, 20 min of warmer and less windy when sampling resumed- sampled from 10:15-10:37 and then again from 11:10-11:20 for an hour total of sampling.; PM windy, part clouds, warm"
+2019,24-Jun,Lypps,"Elevational Transect",175,2,"Elevational Transect",9:30,16:10,6:40,11:40,1,"R. Dickson, H. Benkoski",15:00,1,"R. Dickson, H. Benkoski",2,,,,,"AM chilly windy sunny"
+2019,25-Jun,Seans,B,176,2,Dry,9:50,16:05,6:15,10:00,1,"R. Dickson",14:25,1,"R. Dickson",2,,,,,"Sunny calm; still some shade over plot in AM"
+2019,26-Jun,Davids,A,177,2,Dry,9:40,17:30,7:50,9:50,1,"R. Dickson, H. Benkoski",13:48,1,"R. Dickson, H. Benkoski",2,,,,,"AM sunny with little breeze; PM sunny with wind"
+2019,26-Jun,Tuttle,A,177,2,Veratrum,8:55,17:47,8:52,11:55,1,"R. Dickson, H. Benkoski",15:55,1,"R. Dickson, H. Benkoski",2,,,,,"AM windy sunny got very windy half way through; PM windy sunny"
+2019,26-Jun,Willey,A,177,2,Willow,9:05,17:28,8:23,10:55,1,"R. Dickson, H. Benkoski",15:15,1,"R. Dickson, H. Benkoski",2,,,,,"AM windy and sunny; PM a little windy and sunny"
+2019,27-Jun,Beaver,B,178,2,Veratrum,10:08,15:50,5:42,12:05,1,"R. Dickson, R. Irwin",13:50,1,"R. Dickson, R. Irwin",2,,,,,
+2019,27-Jun,Gothic,B,178,2,Willow,10:25,15:45,5:20,10:58,1,"R. Dickson, R. Irwin",14:45,1,"R. Dickson, R. Irwin",2,,,,,
+2019,27-Jun,"GR Bus Turn","Single Sample",178,1,Veratrum,10:05,14:45,4:40,10:15,1,"H. Benkoski, A. Martin",12:50,1,"H. Benkoski",2,,,,,"part of the site very wet and muddy."
+2019,28-Jun,Marriage,"Single Sample",179,1,Dry,9:55,15:44,5:49,10:00,1,"H. Benkoski",13:40,1,"H. Benkoski",2,,,,,
+2019,28-Jun,Rustlers,"Elevational Transect",179,2,"Elevational Transect",10:15,15:20,5:05,10:35,1,"R. Dickson",13:20,1,"R. Dickson",2,,,,,"AM slightly windy sunny and warm; PM slightly windy sunny and warm"
+2019,01-Jul,Almont,"Weather Station",182,4,"Weather Station",10:17,15:50,5:33,10:20,1,"R. Dickson, R. Irwin",14:27,1,"R. Dickson, R. Irwin",2,,,,,
+2019,01-Jul,"Almont Curve","Elevational Transect",182,4,"Elevational Transect",9:45,16:15,6:30,11:25,1,"R. Dickson, R. Irwin",13:15,1,"R. Dickson, R. Irwin",2,,,,,
+2019,02-Jul,"WG 1D","Single Sample",183,1,Dry,9:35,15:25,5:50,9:40,1,"H. Benkoski",13:25,1,"R. Irwin, H. Benkoski",2,,,,,
+2019,02-Jul,"WG 1W","Single Sample",183,1,Veratrum,10:45,15:15,4:30,11:00,1,"R. Irwin, H. Benkoski",14:15,1,"R. Irwin, H. Benkoski",2,,,,,
+2019,03-Jul,Copper,D,184,2,Willow,11:25,16:25,5:00,11:35,1,"R. Dickson",14:10,1,"R. Irwin",2,,,,,
+2019,03-Jul,Hill,D,184,2,Dry,10:00,15:30,5:30,11:36,1,"R. Irwin",14:00,1,"H. Benkoski",2,,,,,"Missing 1 yellow, 1 blue bowl blew over"
+2019,03-Jul,Little,D,184,2,Veratrum,10:40,16:05,5:25,11:35,1,"H. Benkoski",14:12,1,"R. Dickson",2,,,,,
+2019,05-Jul,CDOT,"Elevational Transect",186,3,"Elevational Transect",9:55,16:35,6:40,10:02,1,"R. Dickson, H. Benkoski",14:15,1,"R. Dickson, H. Benkoski",2,,,,,"AM sunny breeze warm; PM warm sunny windy; 1 yellow bowl missing when collected"
+2019,05-Jul,Lypps,"Elevational Transect",186,3,"Elevational Transect",9:30,16:15,6:45,11:06,1,"R. Dickson, H. Benkoski",15:17,1,"R. Dickson, H. Benkoski",2,,,,,"AM sunny warm, breeze; PM partly cloudy breezy warm; 16 bowls placed (1 extra white); PM Hunter did 37 min and Rachel 23"
+2019,08-Jul,"Slate D","Single Sample",189,1,Dry,10:50,15:41,4:51,11:50,0.6,"R. Irwin, H. Benkoski",13:25,1,"R. Irwin, H. Benkoski",1.6,,,,,
+2019,08-Jul,"Slate W","Single Sample",189,1,Veratrum,10:20,15:30,5:10,10:50,1,"R. Irwin, H. Benkoski",14:30,1,"R. Irwin, H. Benkoski",2,,,,,"2 blue bowls + 1 white bowl knocked over"
+2019,09-Jul,Rustlers,"Elevational Transect",190,3,"Elevational Transect",10:15,15:50,5:35,10:35,1,"R. Dickson",14:00,1,"R. Dickson",2,,,,,"AM sunny warm breeze; PM windy sunny warm"
+2019,10-Jul,Beaver,B,191,3,Veratrum,10:00,15:25,5:25,11:20,1,"R. Dickson, R. Irwin",13:58,1,"R. Dickson",2,,,,,
+2019,10-Jul,Gothic,B,191,3,Willow,10:15,15:15,5:00,10:17,1,"R. Dickson, R. Irwin",13:55,1,"R. Dickson, R. Irwin",2,,,,,"One white bowl broken (no water)"
+2019,10-Jul,Seans,B,191,3,Dry,9:45,15:21,5:36,10:25,1,"H. Benkoski",14:10,1,"H. Benkoski, A. Martin",2,,,,,"Some nesting activity present"
+2019,12-Jul,Davids,A,193,3,Dry,10:10,15:15,5:05,10:45,1,"R. Dickson",13:25,1,"R. Dickson",2,,,,,"AM sunny and calm some wind and clouds toward end; PM off and on cloudy and a little windy; bees left when it was cloudy"
+2019,12-Jul,Tuttle,A,193,3,Veratrum,9:20,15:00,5:40,9:30,1,"H. Benkoski",13:15,1,"R. Irwin, H. Benkoski",2,,,,,"Mix sun/clouds in PM storm coming in"
+2019,12-Jul,Willey,A,193,3,Willow,9:02,15:15,6:13,11:05,1,"R. Irwin, H. Benkoski",14:15,1,"R. Irwin, H. Benkoski",2,,,,,"PM cloudy humid then got sunny"
+2019,15-Jul,"WG 2D","Single Sample",196,1,Dry,10:15,15:08,4:53,10:20,1,"R. Irwin, H. Benkoski",14:30,1,"R. Irwin, H. Benkoski",2,,,,,
+2019,15-Jul,"WG 2W","Single Sample",196,1,Veratrum,10:02,15:15,5:13,11:06,1,"R. Irwin, H. Benkoski",13:35,1,"R. Irwin, H. Benkoski",2,,,,,
+2019,16-Jul,Copper,D,197,3,Willow,10:15,15:50,5:35,11:25,1,"H. Benkoski",14:30,1,"R. Dickson",2,,,,,"PM partly cloudy; some wind"
+2019,16-Jul,Hill,D,197,3,Dry,9:45,15:25,5:40,10:25,1,"R. Irwin",13:00,1,"H. Benkoski",2,,,,,"PM windy; found 1 white bowl from last time; 7/3"
+2019,16-Jul,Little,D,197,3,Veratrum,10:00,15:22,5:22,10:30,1,"R. Dickson",14:25,1,"R. Irwin, H. Benkoski",2,,,,,"AM some clouds windy toward end; PM windy and partly cloudy"
+2019,17-Jul,"Mexican Cut","Weather Station",198,1,"Weather Station",12:15,14:40,2:25,12:17,1,"R. Dickson, R. Irwin",14:00,1,"R. Dickson, R. Irwin",2,,,,,
+2019,17-Jul,"North Elko","Elevational Transect",198,1,"Elevational Transect",10:25,16:10,5:45,10:35,1,"R. Dickson, R. Irwin",15:35,1,"R. Dickson, R. Irwin",2,,,,,"AM windy"
+2019,18-Jul,Almont,"Weather Station",199,5,"Weather Station",10:20,15:20,5:00,10:42,1,"R. Dickson, H. Benkoski, H. Liang",13:27,1,"R. Dickson, H. Benkoski, H. Liang",2,,,,,"PM RGD 10 min; HL 25 min; HTB 25 min"
+2019,18-Jul,"Almont Curve","Elevational Transect",199,5,"Elevational Transect",9:50,15:20,5:30,11:45,1,"R. Dickson, H. Benkoski, H. Liang",14:25,1,"H. Benkoski, H. Liang",2,,,,,"AM RGD 16 min; HL 20 min; HTB 24 min"
+2019,19-Jul,CDOT,"Elevational Transect",200,4,"Elevational Transect",9:50,17:05,7:15,NA,0,NA,12:55,1,"R. Dickson",1,,,,,"Only time for one netting period"
+2019,19-Jul,Lypps,"Elevational Transect",200,4,"Elevational Transect",10:20,16:40,6:20,10:25,1,"R. Dickson",NA,0,NA,1,,,,,"AM sunny, calm, warm; only time for one netting session"
+2019,22-Jul,Beaver,B,203,4,Veratrum,10:15,13:23,3:08,10:24,1,"R. Dickson, R. Irwin",NA,0,NA,1,,,,,"Sun to clouds/storm; 1 yellow bowl and 1 white bowl tipped over; bowls picked up because of emerging storm"
+2019,22-Jul,Gothic,B,203,4,Willow,10:00,13:25,3:25,11:30,1,"R. Dickson, R. Irwin",NA,0,NA,1,,,,,"Storm rolled in; picked up bowls early and no afternoon sample"
+2019,22-Jul,Seans,B,203,4,Dry,10:10,13:25,3:15,10:18,1,"H. Benkoski",13:50,0.5,"H. Benkoski",1.5,,,,,"Picked up bowls early b/c of thunder and rain; storm passed so added 30 min sample before storm hit"
+2019,23-Jul,"Lower Loop 1D","Single Sample",204,1,Dry,9:55,14:55,5:00,11:10,1,"R. Irwin, H. Benkoski",14:19,0.833333,"R. Irwin, H. Benkoski",1.83,,,,,"Entire hillside filled with solitary bee nesting aggregation! Crazy #s of bees. May not be comparable to other site :("
+2019,23-Jul,"Lower Loop 1W","Single Sample",204,1,Veratrum,10:15,15:10,4:55,10:22,1,"R. Irwin, H. Benkoski",13:25,1,"R. Irwin, H. Benkoski",2,,,,,
+2019,24-Jul,Rustlers,"Elevational Transect",205,4,"Elevational Transect",9:50,15:30,5:40,9:55,1,"R. Dickson",13:05,1,"R. Dickson",2,,,,,"AM windy and partly cloudy; PM windy partly cloudy; lots of flies made worse at catching bees"
+2019,26-Jul,Davids,A,207,4,Dry,10:25,12:15,1:50,10:30,1,"R. Dickson",NA,0,NA,1,,,,,"Partly cloudy breezey; storms were rolling in especially the last 20-30 min"
+2019,26-Jul,Tuttle,A,207,4,Veratrum,10:30,12:00,1:30,10:40,0.62,"H. Benkoski",NA,0,NA,0.62,,,,,"Cloudy and cool with storms"
+2019,26-Jul,Willey,A,207,4,Willow,10:10,11:56,1:46,10:42,0.77,"R. Irwin",NA,0,NA,0.77,,,,,"Cloudy and cool with storms"
+2019,29-Jul,Copper,D,210,4,Willow,11:00,16:25,5:25,11:00,1,"R. Irwin, H. Benkoski",14:30,0.5,"R. Dickson",1.5,,,,,"AM wind partly cloudy; PM wind partly cloudy; AM REI 50 min; HTB 10 min"
+2019,29-Jul,Hill,D,210,4,Dry,10:20,16:00,5:40,10:27,1,"R. Dickson",14:40,1,"H. Benkoski",2,,,,,"AM wind, part cloudy; PM windy"
+2019,29-Jul,Little,D,210,4,Veratrum,10:05,16:20,6:15,10:10,1,"H. Benkoski",14:40,0.483333,"R. Irwin",1.48,,,,,"AM some clouds and wind; PM wind; partly cloudy"
+2019,31-Jul,Almont,"Weather Station",212,6,"Weather Station",10:10,15:15,5:05,10:20,1,"R. Dickson",14:45,0.25,"R. Dickson",1.25,,,,,"AM slightly windy; PM storm rolled in"
+2019,31-Jul,"Almont Curve","Elevational Transect",212,6,"Elevational Transect",9:40,15:45,6:05,12:00,1,"R. Dickson",NA,0,NA,1,,,,,"AM slightly windy; storm prevented PM sampling- collected bees at 14:00 in case of storm; only 1 more bee at second collection at 15:45"
+2019,02-Aug,CDOT,"Elevational Transect",214,5,"Elevational Transect",9:30,16:20,6:50,11:23,1,"R. Dickson, H. Benkoski",15:25,0.75,"R. Dickson, H. Benkoski",1.75,,,,,"AM windy; RGD 27min; HTB 33min; PM RGD 18min; HTB 27min"
+2019,02-Aug,Lypps,"Elevational Transect",214,5,"Elevational Transect",10:20,16:15,5:55,9:48,1,"R. Dickson, H. Benkoski",13:45,1,"R. Dickson, H. Benkoski",2,,,,,"AM RGD 20min; HTB 40min; PM breezy and partly cloudy; RGD 25min; HTB 35min"
+2019,05-Aug,"403 W","Single Sample",217,1,Veratrum,10:25,15:03,4:38,10:33,1,"R. Irwin, H. Benkoski",14:35,0.5,"R. Irwin, H. Benkoski",1.5,,,,,
+2019,05-Aug,"Avery Parking Lot","Single Sample",217,1,Dry,10:00,16:25,6:25,12:06,1,"R. Irwin, H. Benkoski",15:21,0.883333,"R. Irwin, H. Benkoski",1.88,,,,,
+2019,05-Aug,Rustlers,"Elevational Transect",217,5,"Elevational Transect",11:00,16:50,5:50,11:10,1,"R. Dickson, M. Stemkovski",14:35,1,"R. Dickson",2,,,,,"2 yellow bowls + 1 blue bowl dried up (no water); AM RGD 57 min; MS 3 min B. bifs like to bury their heads in the foam of the bee squeezer and exude nectar"
+2019,06-Aug,Davids,A,218,5,Dry,9:45,17:15,7:30,9:45,1,"R. Dickson, H. Benkoski",13:35,1,"R. Dickson, H. Benkoski",2,,,,,"PM wind part clouds; PM RGD 16min; HTB 44min"
+2019,06-Aug,Tuttle,A,218,5,Veratrum,9:05,16:45,7:40,11:07,0.85,"R. Dickson, H. Benkoski",16:02,0.28,"R. Dickson, H. Benkoski",1.13,,,,,"AM RGD 21 min; HTB30min; PM RGD 8 min; HTB 9min"
+2019,06-Aug,Willey,A,218,5,Willow,9:05,16:50,7:45,12:20,0.83,"R. Dickson, H. Benkoski",15:20,0.57,"R. Dickson, H. Benkoski",1.4,,,,,"AM partly cloudy some wind; PM some wind; One blue bowl dried up (no water); AM HTB 10min; RGD 40min; PM RGD 16min; HTB 18min"
+2019,07-Aug,Beaver,B,219,5,Veratrum,9:55,14:11,4:16,10:04,1,"R. Irwin",NA,0,NA,1,,,,,"Cloudy for the first 40 min of sampling; one blue bowl missing"
+2019,07-Aug,Gothic,B,219,5,Willow,9:40,13:52,4:12,10:05,1,"R. Dickson",NA,0,NA,1,,,,,"Cloudy for the first 40 min of sampling; one blue bowl missing"
+2019,07-Aug,Seans,B,219,5,Dry,9:00,13:41,4:41,12:17,1,"R. Dickson, R. Irwin",NA,0,NA,1,,,,,"AM RGD 23 min; REI 37 min"
+2019,09-Aug,"Mexican Cut","Weather Station",221,2,"Weather Station",11:40,14:30,2:50,11:35,1,"R. Dickson, R. Irwin",13:09,1,"R. Irwin",2,,,,,"AM RGD 32 min; REI 28 min. AM partly cloudy with some wind"
+2019,09-Aug,"North Elko","Elevational Transect",221,2,"Elevational Transect",10:05,15:15,5:10,9:55,1,"R. Dickson, R. Irwin",13:27,1,"R. Dickson",2,,,,,"PM windy"
+2019,12-Aug,"Avery 3","Single Sample",224,1,Dry,10:30,15:35,5:05,10:10,1,"R. Irwin, H. Benkoski",14:43,0.5,"R. Irwin, H. Benkoski",1.5,,,,,"Windy all day"
+2019,12-Aug,"Marmot Meadow","Single Sample",224,1,Veratrum,10:00,16:00,6:00,11:50,1,"R. Irwin, H. Benkoski",15:40,0.133333,"H. Benkoski",1.13,,,,,"Windy all day"
+2019,13-Aug,Copper,D,225,5,Willow,10:25,16:10,5:45,10:30,1,"R. Dickson",14:55,0.316666,"H. Benkoski",1.31667,,,,,"windy for the about 1/3 of the AM session; RGD time split evenly between Frasera and everything else in AM; strong winds during PM HTB time split 10 min Frasera; 9 min everything else"
+2019,13-Aug,Hill,D,225,5,Dry,10:20,16:50,6:30,10:32,1,"H. Benkoski",14:42,0.433333,"R. Irwin",1.433333,,,,,"AM cool with steady wind; PM very windy. One white bowl spilled"
+2019,13-Aug,Little,D,225,5,Veratrum,10:20,16:15,5:55,10:25,1,"R. Irwin",15:37,0.116666,"R. Dickson",1.117,,,,,"PM windy and partly cloudy; 1 blue bowl dried up"
+2019,14-Aug,Almont,"Weather Station",226,7,"Weather Station",9:50,16:20,6:30,10:12,1,"R. Irwin",15:46,0.466666,"R. Irwin",1.466666,,,,,
+2019,14-Aug,"Almont Curve","Elevational Transect",226,7,"Elevational Transect",9:15,15:23,6:08,11:45,1,"R. Irwin",13:51,1,"R. Irwin",2,,,,,
+2019,15-Aug,CDOT,"Elevational Transect",227,6,"Elevational Transect",10:00,16:25,6:25,10:25,1,"R. Dickson, R. Irwin",13:45,1,"R. Dickson, R. Irwin",2,,,,,"PM RGD 26 min; REI 34 min"
+2019,15-Aug,Lypps,"Elevational Transect",227,6,"Elevational Transect",9:10,15:47,6:37,11:51,1,"R. Dickson, R. Irwin",15:13,1,"R. Dickson, R. Irwin",2,,,,,"Some wind during the AM PM REI 20 min; RGD 40 min; 2 bees dropped from the blue bowls- one bumblebee and one other."
+2019,19-Aug,Davids,A,231,6,Dry,10:00,14:20,4:20,10:00,1,"R. Irwin",12:42,1,"R. Irwin",2,,,,,
+2019,19-Aug,Tuttle,A,231,6,Veratrum,9:00,16:45,7:45,NA,0,NA,13:27,0.75,"R. Dickson",0.75,,,,,"Spent morning netting at Willey"
+2019,19-Aug,Willey,A,231,6,Willow,9:20,16:33,7:13,9:50,1,"R. Dickson",NA,0,"R. Dickson",1,,,,,"some breeze during AM"
+2019,20-Aug,Beaver,B,232,6,Veratrum,9:40,15:55,6:15,9:50,0.633333,"R. Dickson",15:30,0.083333,"R. Dickson",0.716666,,,,,
+2019,20-Aug,Gothic,B,232,6,Willow,9:40,15:40,6:00,9:45,0.716666,"R. Irwin",14:26,0.183333,"R. Dickson",0.9,,,,,
+2019,20-Aug,Seans,B,232,6,Dry,8:55,15:08,6:13,NA,0,NA,12:33,0.8,"R. Irwin",0.8,,,,,"2 Blue bowls knocked over"
+2019,21-Aug,"Rosie Point","Single Sample",233,1,Dry,10:30,15:20,4:50,10:40,0.5,"R. Irwin",13:56,0.5,"R. Irwin",1,,,,,"AM Hot and sunny. PM cloudy, windy, sunny mixture"
+2019,21-Aug,Rustlers,"Elevational Transect",233,6,"Elevational Transect",10:40,16:50,6:10,10:50,0.75,"R. Dickson",14:50,0.533333,"R. Dickson",1.283333,,,,,"AM: Windy and partly cloud, noticed a decrtease in activity. PM: mostly cloudy and slightly windy. A giant swarm of Appositus were hanging out in the pentaflora bush right of the big rock- Huge nest- mostly males, caught 2"
+2019,21-Aug,Stables,"Single Sample",233,1,Veratrum,10:00,16:25,6:25,12:05,0.5,"R. Irwin",15:36,0.25,"R. Irwin",0.75,,,,,
+2019,22-Aug,"Mexican Cut","Weather Station",234,3,"Weather Station",12:10,14:20,2:10,12:20,1,"R. Dickson, R. Irwin, N. Taylor",NA,0,NA,1,,,,,"Netting split between REI and RGD with assistance from NIT"
+2019,22-Aug,"North Elko","Elevational Transect",234,3,"Elevational Transect",10:07,15:20,5:13,10:00,1,"R. Dickson, R. Irwin, N. Taylor",14:32,0.233333,"R. Dickson, R. Irwin, N. Taylor",1.233333,,,,,"AM: Breezy; REI and NIT worked as a team; will use REI in data; split time evenly (2 ways) with RGD. PM: Coudy and windy. RGD 7 min; REI 7 min. REI and NIT worked as a team; will use NIT in data, split time evenly (2 ways) with RGD."
+2019,26-Aug,CDOT,"Elevational Transect",238,7,"Elevational Transect",9:32,16:35,7:03,11:43,0.833333,"R. Dickson",15:57,0.333333,"R. Dickson",1.166666,,,,,"AM windy on and off; PM Windy!"
+2019,26-Aug,Lypps,"Elevational Transect",238,7,"Elevational Transect",10:15,17:10,6:55,10:17,0.833333,"R. Dickson",14:58,0.5,"R. Dickson",1.333333,,,,,"AM breezy; PM windy"
+2019,27-Aug,Almont,"Weather Station",239,8,"Weather Station",10:40,16:05,5:25,10:43,1,"R. Irwin",15:30,0.5,"R. Irwin",1.5,,,,,
+2019,27-Aug,"Almont Curve","Elevational Transect",239,8,"Elevational Transect",10:10,15:00,4:50,12:30,1,"R. Irwin",14:11,0.7,"R. Irwin",1.7,,,,,
+2019,28-Aug,Copper,D,240,6,Willow,9:45,15:15,5:30,11:43,0.6,"R. Dickson, R. Irwin",14:30,0.283333,"R. Dickson",0.883333,,,,,"AM: REI 23 min; RGD 13 min."
+2019,28-Aug,Hill,D,240,6,Dry,10:30,15:12,4:42,10:32,0.566666,"R. Irwin",13:30,0.433333,"R. Dickson",1,,,,,"PM windy. 1 blue and 1 white bowl blew over."
+2019,28-Aug,Little,D,240,6,Veratrum,10:00,16:05,6:05,10:15,0.4,"R. Dickson",15:41,0.2,"R. Irwin",0.6,,,,,"AM some breeze"
+2019,30-Aug,Rustlers,"Elevational Transect",242,7,"Elevational Transect",10:05,14:05,4:00,10:11,0.366666,"R. Irwin, D. Seth-Carley",12:24,1,"R. Irwin, D. Seth-Carley",1.366666,,,,,"REI and AAT worked together; REI is listed as collector in Bombus data. At 11:30 there was rain for 30 min and then it cleared up and was sunny by 12:24 when PM netting started"
+2019,03-Sep,Davids,A,246,7,Dry,9:30,14:10,4:40,9:45,1,"R. Dickson",12:20,1,"R. Dickson",2,,,,,"AM: sunny and hot; PM: some wind"
+2019,03-Sep,Tuttle,A,246,7,Veratrum,9:50,15:37,5:47,11:17,0.316666,"R. Irwin",15:50,0.35,"R. Irwin",0.666666,,,,,"AM: sunny and hot; PM: cloudy"
+2019,03-Sep,Willey,A,246,7,Willow,9:20,15:00,5:40,10:00,0.35,"R. Irwin",13:32,0.566666,"R. Irwin",0.916666,,,,,"AM: sunny and hot; PM: cloudy"
+2019,05-Sep,Beaver,B,248,7,Veratrum,10:10,12:23,2:13,10:05,0.633333,"R. Dickson, R. Irwin",NA,0,NA,0.633333,,,,,"Storm rolled in; picked up bowls early and no afternoon sample"
+2019,05-Sep,Gothic,B,248,7,Willow,9:55,12:15,2:20,11:15,0.7,"R. Dickson, R. Irwin",NA,0,NA,0.7,,,,,"Storm rolled in; picked up bowls early and no afternoon sample"
+2019,10-Sep,Seans,B,253,7,Dry,10:50,16:10,5:20,11:00,0.75,"R. Dickson",14:05,1,"R. Dickson",1.75,,,,,"AM it got cold and cloudy and windy around 11:50 so I stopped netting to let it warm up so the bees started moving around again- they were all too cold at first. It warmed back up in the PM and the sun came out but it was windy on and off."
+2019,14-Sep,"Mexican Cut","Weather Station",257,4,"Weather Station",12:50,15:50,3:00,13:10,1,"R. Dickson",14:55,0.5,"R. Dickson",1.5,,,,,"counted as AM and PM even though they were both in PM.. AM was slightly breezy; PM was shady and breezy"
+2019,14-Sep,"North Elko","Elevational Transect",257,4,"Elevational Transect",10:30,17:30,7:00,10:35,1,"R. Dickson",16:40,0.5,"R. Dickson",1.5,,,,,"AM: some wind. PM: bowls were out 15 min after sundown. It was warm and calm during sampling but I didn't hear or see a single bee but TONS were killed in the bowls throughout the day maybe none were left :("
+2020,02-May,Almont,"Weather Station",123,1,"Weather Station",11:15,16:20,5:05,11:30,0.583333,"R. Dickson",15:37,0.583333,"R. Dickson",1.166666,,,,,"AM: warm and breezy, PM: windy and part clouds, much less activity."
+2020,02-May,"Almont Curve","Elevational Transect",123,1,"Elevational Transect",10:50,17:15,6:25,12:40,0.583333,"R. Dickson",14:15,0.583333,"R. Dickson",1.166666,,,,,"AM: part clouds, warm, breezy. A little windier and cloudier in the PM, less activity"
+2020,03-May,CDOT,"Elevational Transect",124,1,"Elevational Transect",9:55,15:10,5:15,10:20,1,"R. Dickson",13:40,1,"R. Dickson",2,,,,,"AM: warm, sunny, breezy. PM: a little windier and hotter, not as many bees out. Tons of bombilied flies out"
+2020,06-May,Willey,A,127,1,Willow,10:15,16:30,6:15,NA,0,NA,NA,0,NA,0,,,,,"AM: warm and sunny PM: cloudy cool and windy. No bees caught in the bols, no flowers in or near site. Most of site covered in snow, partially melted out. 25 bowls on the snow 5 on freshly melted ground. Caught 2 wasps + 2 flies."
+2020,17-May,Seans,B,138,1,Dry,10:30,16:40,6:10,10:50,1,"R. Dickson",15:10,1,"R. Dickson",2,,,,,"AM: cool and sunny with a little breeze, 1/2 of hill shaded at start of AM sampling. PM: warm, part couds, some wind but mostly calm"
+2020,18-May,CDOT,"Elevational Transect",139,2,"Elevational Transect",10:20,16:35,6:15,10:17,0.333333,"R. Dickson",14:40,0.383333,"R. Dickson",0.716666,,,,,"AM: warm and sunny with some breeze. PM: very warm and windy ** training day for Ashley Woolman, didn't count her netting times."
+2020,18-May,Lypps,"Elevational Transect",139,1,"Elevational Transect",9:00,16:00,7:00,11:45,0.483333,"R. Dickson",15:27,0.333333,"R. Dickson",0.816666,,,,,"AM: warm, sunny, breezy. PM: warm, windy ** training day for Ashley Woolman, didn't count her netting times. 1 white bowl empty"
+2020,22-May,Almont,"Weather Station",143,2,"Weather Station",11:10,17:10,6:00,11:25,0.416666,"R. Dickson",15:50,0.75,"R. Dickson",1.166666,,,,,"AM: warm, clear, breezy. PM warm and pretty parly cloudy last 15 min of sampling"
+2020,22-May,"Almont Curve","Elevational Transect",143,2,"Elevational Transect",10:35,17:50,7:15,12:27,0.5,"R. Dickson",14:15,0.75,"R. Dickson",1.25,,,,,"AM/PM: warm and clear"
+2020,23-May,Rustlers,"Elevational Transect",144,1,"Elevational Transect",10:50,15:05,4:15,11:05,1,"R. Dickson",13:55,0.583333,"R. Dickson",1.583333,,,,,"AM: chilly and cloudy with wind on and off throughout sampling. Weather dereased activity- took some netting breaks when it got too cold. PM: got 100% cloudy so I stopped sampling. Didn't see any solitarities during PM session."
+2020,26-May,Davids,A,147,1,Dry,9:55,16:20,6:25,9:55,0.766666,"R. Dickson, A. Woolman",15:48,1,"R. Dickson, A. Woolman",1.766666,,,,,"AM: RGD(23) AMW(16) chilly, sunny, windy. PM: cloudy and windy, not much acitbity, saw Bif Q on Mahonia repens but couldn't catch."
+2020,26-May,Tuttle,A,147,1,Veratrum,8:55,17:15,8:20,11:20,0.9,"R. Dickson, A. Woolman",13:27,1,"R. Dickson, A. Woolman",1.9,,,,,"AM: RGD(24) AMW(30) sunny with breeze. PM: RGD(17) AMW(43) warm and sunny with some breeze"
+2020,26-May,Willey,A,147,2,Willow,8:55,17:30,8:35,12:00,1,"R. Dickson, A. Woolman",14:25,1,"R. Dickson, A. Woolman",2,,,,,"AM: RGD(28) AMW(32) warm and sunny, some wind. PM: RGD(28) AMW(32)"
+2020,28-May,Copper,D,149,1,Willow,10:20,16:50,6:30,10:40,1,"R. Dickson, K. Brennan",14:00,1,"R. Dickson, K. Brennan",2,,,,,"AM: warm and sunny, PM: warm and sunny with breeze"
+2020,28-May,Hill,D,149,1,Dry,9:55,17:50,7:55,12:32,1,"R. Dickson, K. Brennan",15:45,1,"R. Dickson, K. Brennan",2,,,,,"AM: RGD(28) KEB(32) warm sunny breeze. PM: Part clouds, breeze"
+2020,28-May,Little,D,149,1,Veratrum,9:40,17:20,7:40,11:30,1,"R. Dickson, K. Brennan",14:50,1,"R. Dickson, K. Brennan",2,,,,,"AM: warm, part clouds. PM: cloudy last 10 min of sampling"
+2020,02-Jun,Beaver,B,154,1,Veratrum,9:05,15:45,6:40,11:34,1,"R. Dickson, A. Woolman",14:05,0.666666,"R. Dickson, A. Woolman",1.666666,,,,,"AM: warm and sunny, windy for the ast 10 min.saw one bombus fly through the site. PM: hot and sunny RGD(14) AMW(26)"
+2020,02-Jun,Gothic,B,154,1,Willow,8:50,15:40,6:50,12:30,1,"R. Dickson, A. Woolman",15:05,0.716666,"R. Dickson, A. Woolman",1.716666,,,,,"AM: warm and sunny. PM: RGD(22) AMW(21) warm and sunny"
+2020,02-Jun,Seans,B,154,2,Dry,9:55,17:15,7:20,9:50,1,"R. Dickson, A. Woolman",16:35,0.566666,"R. Dickson, A. Woolman",1.566666,,,,,"AM: RGD(34) AMW(26) warm and sunny, about half of the sample area was shaded when netting started. Windy towards the end. PM: hot and sunny"
+2020,03-Jun,CDOT,"Elevational Transect",155,3,"Elevational Transect",9:55,17:00,7:05,10:05,0.833333,"R. Dickson",13:48,0.75,"R. Dickson",1.583333,,,,,"AM: warm, sunny windy. PM: windy and part clouds"
+2020,03-Jun,Lypps,"Elevational Transect",155,2,"Elevational Transect",9:30,16:25,6:55,11:35,0.833333,"R. Dickson",15:40,0.5,"R. Dickson",1.333333,,,,,"AM: warm and sunny to part clouds. PM: warm and sunny, windy. No bombus seen all day"
+2020,04-Jun,Rustlers,"Elevational Transect",156,2,"Elevational Transect",10:25,15:25,5:00,10:50,1,"R. Dickson",13:38,1,"R. Dickson",2,,,,,"AM: warm and part clouds, windy. PM: even more windy, partly cloudy- looks like a storm rolling in. One blue bowl dried up."
+2020,05-Jun,Almont,"Weather Station",157,3,"Weather Station",10:15,15:18,5:03,10:20,1,"R. Dickson, K. Brennan",NA,0,NA,1,,,,,"AM: hot and sunny KEB(35) RGD(25) PM: no sampling because it got cloudy, started sprinkling and was super windy."
+2020,05-Jun,"Almont Curve","Elevational Transect",157,3,"Elevational Transect",9:40,14:40,5:00,11:30,1,"R. Dickson, K. Brennan",13:47,1,"R. Dickson, K. Brennan",2,,,,,"AM: hot and sunny. PM: hot with thin cloud cover, got cloudy and sampling continued. Storm rolling in."
+2020,11-Jun,Davids,A,163,2,Dry,9:30,16:35,7:05,9:38,0.366666,"R. Dickson",16:10,0.316666,"R. Dickson, B. Swift",0.683333,,,,,"AM: warm and sunny. PM: warm and sunny with some wind. RGD(4) BRS(15) **training day for B. Swift- counted his sampling in PM but he wasn't catching any solitaries. BRS threw out a lot of solitaries when picking up bowls. Mostly small ones"
+2020,11-Jun,Tuttle,A,163,2,Veratrum,8:40,17:30,8:50,11:15,0.416666,"R. Dickson",14:00,0.866666,"R. Dickson, B. Swift",1.283333,,,,,"AM: warm and sunny, PM: warm and sunny with wind. RGD(17) BRS(35)**training day for B. Swift- counted his sampling in PM but he wasn't catching any solitaries."
+2020,11-Jun,Willey,A,163,3,Willow,8:55,17:30,8:35,12:15,0.416666,"R. Dickson",15:15,0.433333,"B. Swift",0.85,,,,,"AM: warm and sunny. PM: warm and sunny with some wind.**training day for B. Swift- counted his sampling in PM but he wasn't catching any solitaries. B. Swift threw some bees out when collecting bowls. Mostly smaller ones."
+2020,12-Jun,Copper,D,164,2,Willow,10:12,15:36,5:24,10:25,1,"K. Brennan, A. Woolman",14:35,1,"R. Dickson, B. Swift",2,,,,,"AM: warm and clear. PM: warm, breezy some clouds. One blue bowl dry"
+2020,12-Jun,Hill,D,164,2,Dry,9:40,15:10,5:30,11:35,1,"R. Dickson, B. Swift",14:25,1,"K. Brennan, A. Woolman",2,,,,,"AM: warm and sunny"
+2020,12-Jun,Little,D,164,2,Veratrum,9:55,15:30,5:35,9:40,1,"R. Dickson, B. Swift",13:15,1,"K. Brennan, A. Woolman",2,,,,,"AM: warm and sunny BRS had a low bumble catch rate- was hyper focused on solitaries"
+2020,15-Jun,CDOT,"Elevational Transect",167,4,"Elevational Transect",10:05,17:15,7:10,10:20,1,"R. Dickson, B. Swift",14:39,1,"R. Dickson, B. Swift",2,,,,,"AM: warm, wispy clouds with a little wind. PM: hot and sunny"
+2020,15-Jun,Lypps,"Elevational Transect",167,3,"Elevational Transect",9:35,16:25,6:50,11:32,1,"R. Dickson, B. Swift",15:45,0.85,"R. Dickson, B. Swift",1.85,,,,,"AM: warm and sunny. PM: warm and sunny RGD(22) BRS(29) Didn't see any bombus in the site during AM or PM but tons of bumbles down on a raspberry bush by the creek- B. bifarius, huntii, insularis, nevadensis and tons of solitaries also."
+2020,16-Jun,Beaver,B,168,2,Veratrum,9:50,16:55,7:05,11:50,1,"R. Dickson, A. Woolman, B. Swift",15:55,0.916666,"R. Dickson, A. Woolman",1.916666,,,,,"AM: cool and mostly cloudy, windy. PM: cool cloudy and windy. RGD(30) AMW(25)"
+2020,16-Jun,Gothic,B,168,2,Willow,9:30,15:46,6:16,11:06,1,"R. Dickson, A. Woolman, B. Swift",15:00,1,"R. Dickson, A. Woolman, B. Swift",2,,,,,"AM cool and mostly cloudy with some wind, not many bees. PM BRS(21) AMW(21) RGD(8) cool, part clouds, wind."
+2020,16-Jun,Seans,B,168,3,Dry,9:20,16:40,7:20,9:30,0.75,"R. Dickson",13:32,1,"R. Dickson, A. Woolman, B. Swift",1.75,,,,,"AM: cool and windy with clouds most of sampling. Site mostly covered in shade at the beginning-- 1/3 at end. Only saw a few solitaries probably due to the weather. PM: wam, part clouds, some wind. BRS(27) RGD(26) AMW(7)"
+2020,18-Jun,Almont,"Weather Station",170,4,"Weather Station",10:25,16:10,5:45,10:37,1,"R. Dickson, B. Swift",15:30,1,"R. Dickson, B. Swift",2,,,,,"AM: hot and sunny with some breeze. Saw a B. huntii queen nest searching. RGD(28) BRS(32) PM: warm and sunny with some wind. Saw 2 B. huntii Q nest searching."
+2020,18-Jun,"Almont Curve","Elevational Transect",170,4,"Elevational Transect",9:45,16:40,6:55,11:40,1,"R. Dickson, B. Swift",14:05,1,"R. Dickson, B. Swift",2,,,,,"AM warm and sunny with some breeze. PM warm and sunny with occasional clouds and some breeze. One blue bowl empty until 12:30- filled it up"
+2020,20-Jun,Rustlers,"Elevational Transect",172,3,"Elevational Transect",10:35,16:20,5:45,10:55,1,"R. Dickson",14:15,1,"R. Dickson",2,,,,,"AM: cool, sunny, windy. PM: warm, sunny and windy. MWD(Mary Waldum Dickson) was a netting helper during both sessions. Did not count her netting separately because she was practicing."
+2020,23-Jun,"Mexican Cut","Weather Station",175,1,"Weather Station",12:07,15:42,3:35,12:30,1,"R. Dickson, M. Dickson",15:02,1,"R. Dickson, M. Dickson",2,,,,,"AM: warm and sunny with some breeze, saw 1 bombus fly through and one land on Erthy grand- didn't catch either. PM warm and sunny- cloudy for the 2nd half of sampling-- sprinkled about 5 min at the end. RGD(25) MWD(35)"
+2020,23-Jun,"North Elko","Elevational Transect",175,1,"Elevational Transect",9:55,16:30,6:35,10:15,1,"R. Dickson, M. Dickson",NA,0,NA,1,,,,,"AM: warm and sunny with some breeze and part clouds. RGD(25) MWD(35). PM: too rainy and stormy to sample. Rained a little in bowls before pickup but not enough to spill"
+2020,25-Jun,Davids,A,177,3,Dry,9:02,15:40,6:38,10:10,1,"R. Dickson, B. Swift, S. Dartnell",NA,0,NA,1,,,,,"AM: warm, humid, partly sunny. RGD(20) BRS(23) SKD(17). PM: no sampling due to a storm. One white bowl was spilled and broken."
+2020,25-Jun,Tuttle,A,177,3,Veratrum,8:55,15:20,6:25,11:20,1,"R. Dickson, B. Swift, S. Dartnell",13:59,1,"B. Swift, S. Dartnell",2,,,,,"AM: sunny with some wispy clouds, warm. RGD(23) BRS(18) SKD(19). PM: warm, cloudy and very windy- didn't see any bombus."
+2020,25-Jun,Willey,A,177,4,Willow,9:15,15:15,6:00,12:22,1,"R. Dickson, B. Swift, S. Dartnell",14:35,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: warm, sunny, humid. RGD(21) BRS(17) SKD(22). PM: part clouds, windy. 1 yellow and 1 white bowl missed"
+2020,26-Jun,Copper,D,178,3,Willow,9:38,15:10,5:32,9:39,1,"R. Dickson, S. Dartnell",13:08,1,"K. Brennan, B. Swift",2,,,,,"AM: warm sunny and calm RGD(33) SKD(27). PM: breezy warm and sunny"
+2020,26-Jun,Hill,D,178,3,Dry,10:05,15:00,4:55,10:20,1,"K. Brennan, B. Swift",14:13,1,"R. Dickson, S. Dartnell",2,,,,,"AM: warm and clear. PM: warm, windy, clear 1 yellow bowl empty"
+2020,26-Jun,Little,D,178,3,Veratrum,9:50,14:50,5:00,11:00,1,"R. Dickson, B. Swift, S. Dartnell, K. Brennan",14:00,1,"K. Brennan, B. Swift",2,,,,,"AM: warm, sunny. RGD(2) SKD(2) KEB(30) BRS(26). PM: windy, sunny"
+2020,29-Jun,Beaver,B,181,3,Veratrum,9:10,16:02,6:52,9:30,1,"B. Swift, S. Dartnell",13:55,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: cool and windy, partly cloudy to sunny. PM: warm sunny breezy RGD(7) SKD(23) BRS(20)"
+2020,29-Jun,Gothic,B,181,3,Willow,8:57,15:30,6:33,10:30,1,"R. Dickson, B. Swift, S. Dartnell",14:54,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: cool and windy, partly cloudy. RGD(6) SKD(26) BRS(28) PM: warm sunny windy. RGD(19) BRS(21) SKD(20)"
+2020,29-Jun,Seans,B,181,4,Dry,8:45,16:15,7:30,11:50,1,"R. Dickson, B. Swift, S. Dartnell",15:39,1,"R. Dickson, B. Swift",2,,,,,"AM: warm and sunny with some wind. RGD(32) SKD(15) BRS(13) PM: warm and sunny with some wind"
+2020,01-Jul,Rustlers,"Elevational Transect",183,4,"Elevational Transect",9:20,14:15,4:55,9:45,1,"R. Dickson",12:33,1,"R. Dickson",2,,,,,"AM: warm and sunny some wind. Potentilla pulcherrima wasn't completely open- decreased activity. PM: a little warmer than AM, Potentilla pulcherrima opened up more. **Picked up blue bowls at 12:17 because they were catching bombus"
+2020,02-Jul,Almont,"Weather Station",184,5,"Weather Station",10:45,16:10,5:25,10:58,1,"R. Dickson, A. Woolman",15:20,1,"R. Dickson, A. Woolman",2,,,,,"AM: hot sunny, calm. PM : very hot, sunny, storm rolling in- part clouds and some wind. AMW(45) RGD(15), only 3 stalks of Eremogone congesta, didn't see any bombus all day"
+2020,02-Jul,"Almont Curve","Elevational Transect",184,5,"Elevational Transect",10:15,15:15,5:00,12:00,1,"R. Dickson, A. Woolman",14:16,1,"R. Dickson, A. Woolman",2,,,,,"AM: hot sunny calm. PM: hot sunny windy, clouds building. Saw 1 bombus fly through in the AM, none in PM"
+2020,03-Jul,CDOT,"Elevational Transect",185,5,"Elevational Transect",9:35,16:00,6:25,10:19,1,"R. Dickson, B. Swift",14:04,1,"R. Dickson, B. Swift",2,,,,,"AM: warm and cloudy-- sun second half of sampling. RGD(24) BRS(36). PM: warm and sunny with wispy clouds. 0 bombus seen in PM"
+2020,03-Jul,Lypps,"Elevational Transect",185,4,"Elevational Transect",9:46,15:48,6:02,11:32,1,"R. Dickson, B. Swift",15:01,1,"R. Dickson, B. Swift",2,,,,,"AM: warm, sunny to partly cloudy. Saw 2 bombus fly through in AM. PM: hot and sunny with wispy clouds. Humid. 0 bombus seen in PM"
+2020,06-Jul,Davids,A,188,4,Dry,9:05,14:55,5:50,9:47,1,"R. Dickson, B. Swift, S. Dartnell",14:02,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: hot calm and sunny. RGD(14) SKD(25) BRS(21). PM: par clouds windy warm RGD(17) SKD(25) BRS(18)"
+2020,06-Jul,Tuttle,A,188,4,Veratrum,9:14,16:56,7:42,11:07,1,"R. Dickson, B. Swift, S. Dartnell",15:18,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: warm, sunny, partly cloudy. BRS(20) RGD(17) SKD(23). PM: windy, warm, partly cloudy. No bombus seen. RGD(4) SKD(35) BRS(17)"
+2020,06-Jul,Willey,A,188,5,Willow,8:55,16:53,7:58,11:57,1,"R. Dickson, B. Swift, S. Dartnell",16:15,0.633333,"B. Swift, S. Dartnell",1.633333,,,,,"AM: warm, partly cloudy, windy. RGD(29) BRS(14) SKD(17). PM: a little cooler than AM."
+2020,07-Jul,"Mexican Cut","Weather Station",189,2,"Weather Station",11:45,15:30,3:45,11:47,1,"B. Swift, S. Dartnell",14:06,1,"R. Dickson",2,,,,,"AM: warm, sunny, breezy. BRS(27) SKD(33). PM: windy, sunny warm"
+2020,07-Jul,"North Elko","Elevational Transect",189,2,"Elevational Transect",9:53,15:45,5:52,9:52,1,"R. Dickson, B. Swift, S. Dartnell",14:40,1,"B. Swift, S. Dartnell",2,,,,,"AM: warm, sunny, breezy. RGD(13) BRS(22) SKD(25). One blue bowl dried up."
+2020,09-Jul,Copper,D,191,4,Willow,9:35,15:58,6:23,12:11,1,"R. Dickson, B. Swift, S. Dartnell",15:18,1,"B. Swift, S. Dartnell",2,,,,,"AM: sunny, warm, windy. RGD(18) BRS(22) SKD(18). No bombus seen AM or PM 1 blue bowl spilled"
+2020,09-Jul,Hill,D,191,4,Dry,10:16,16:05,5:49,9:33,1,"R. Dickson, B. Swift, S. Dartnell",13:35,1,"B. Swift, S. Dartnell",2,,,,,"AM: warm, sunny, slight breeze. RGD(36) BRS(12) SKD(12). PM: Windy, warm, sunny. One blue bowl empty. Saw a Bombus nevadensis Q on Helianthella quinquenervis in AM session but she flew away"
+2020,09-Jul,Little,D,191,4,Veratrum,9:50,16:04,6:14,11:13,1,"R. Dickson, B. Swift, S. Dartnell",14:26,1,"B. Swift, S. Dartnell",2,,,,,"AM: warm, sunny, some breeze. RGD(21) BRS(16) SKD(23). PM: windy, sunny, warm. No bombus seen in PM"
+2020,14-Jul,CDOT,"Elevational Transect",196,6,"Elevational Transect",9:17,14:40,5:23,9:35,1,"R. Dickson, A. Woolman",13:27,1,"R. Dickson",2,,,,,"AM: warm, sunny and breezy. Flowers still wet from rain last night, still opening during AM netting. Probably decreased bee activity. PM: hot, sunny, windy, some clouds, very humid- looks like it will storm later. no bombus seen in PM"
+2020,14-Jul,Lypps,"Elevational Transect",196,5,"Elevational Transect",9:40,14:25,4:45,11:18,1,"R. Dickson, A. Woolman",13:09,1,"A. Woolman",2,,,,,"AM: warm and sunny with some breeze. PM: cloudy, breeze, chance of rain moving in. No bombus seen all day. Lost 1 blue bowl and 1 white bowl."
+2020,15-Jul,Rustlers,"Elevational Transect",197,5,"Elevational Transect",10:12,13:27,3:15,10:30,1,"R. Dickson",NA,0,NA,1,,,,,"AM: warm and sunny, windy. Looks like a storm is rolling in. PM: mostly cloudy, windy and cool. Tried to sample but storm rolled in-- saw 1 bombus in 15 min but didn't catch it so didn't count PM session and picked up bowls early. One blue bowl spilled"
+2020,17-Jul,Beaver,B,199,4,Veratrum,9:40,15:18,5:38,10:57,1,"B. Swift, S. Dartnell",14:40,1,"B. Swift, S. Dartnell",2,,,,,"AM: warm and sunny until half way through when it got partly cloudy and windy. 0 bombus seen in AM. PM: part clouds."
+2020,17-Jul,Gothic,B,199,4,Willow,9:25,15:25,6:00,10:00,1,"B. Swift, S. Dartnell",13:50,1,"B. Swift, S. Dartnell",2,,,,,"AM: part clouds, windy, looks like it will storm later. PM: partly cloudy."
+2020,17-Jul,Seans,B,199,5,Dry,9:15,16:08,6:53,11:56,1,"B. Swift, S. Dartnell",14:40,0.8,"R. Dickson",1.8,,,,,"AM: warm, part clouds. PM: warm, partly cloudy, windy."
+2020,20-Jul,Almont,"Weather Station",202,6,"Weather Station",11:25,16:05,4:40,NA,0,NA,NA,0,NA,0,,,,,"hot, partly cloudy and windy all day. Storms rolled in around 16:00. No netting because there were barely any flowers."
+2020,20-Jul,"Almont Curve","Elevational Transect",202,6,"Elevational Transect",10:55,15:30,4:35,12:18,1,"R. Dickson",14:20,1,"R. Dickson",2,,,,,"AM: hot, sunny, windy. PM: warm, mostly cloudy, windy with some storm clouds rolling in. no bombus seen/heard all day."
+2020,21-Jul,"Mexican Cut","Weather Station",203,3,"Weather Station",10:50,13:43,2:53,11:10,1,"R. Dickson, B. Swift, S. Dartnell",NA,0,NA,1,,,,,"AM: mostly cloudy, cool, a little sprinkle of rain at the end of sampling. PM: storm rolled in so no netting and bowls up early."
+2020,21-Jul,"North Elko","Elevational Transect",203,3,"Elevational Transect",10:15,15:14,4:59,10:25,1,"B. Swift, S. Dartnell",13:39,1,"B. Swift, S. Dartnell",2,,,,,"AM: mild and sunny, light wind. PM: cloudy/windy seemed like it would rain. A little rain then warm and sunny. BRS(40) SKD(20)"
+2020,23-Jul,Davids,A,205,5,Dry,9:23,15:26,6:03,10:40,1,"R. Dickson",16:23,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: warm and sunny with some wind. PM: warm and mostly sunny. Rained 45 min before sampling but let it dry out completely. Bowls were rained on- a few bees probably lost. RGD(17) SKD(18) BRS(25)"
+2020,23-Jul,Tuttle,A,205,5,Veratrum,9:27,15:05,5:38,10:01,1,"B. Swift, S. Dartnell",12:54,1,"B. Swift, S. Dartnell",2,,,,,"AM: flowers are slightly wet, sunny. BRS(31) SKD (29) PM: partly cloudy, slight wind. bowls recovered before rain SKD(37) BRS(23)"
+2020,23-Jul,Willey,A,205,6,Willow,9:11,15:01,5:50,10:49,1,"B. Swift, S. Dartnell",13:57,0.933333,"B. Swift, S. Dartnell",1.933333,,,,,"AM: sunny.BRS(33) SKD(27) PM: partly cloudy to cloudy, slight rain at the end of session. SKD(23) BRS(33). bowls recovered before rain"
+2020,27-Jul,Rustlers,"Elevational Transect",209,6,"Elevational Transect",10:12,15:45,5:33,10:38,0.833333,"R. Dickson",14:00,1,"R. Dickson",1.833333,,,,,"AM: warm and sunny to windy and mostly cloudy (storm clouds rolled in) so I stopped sampling and picked out bees at 12:03. PM: warm and sunny, 100% clouds and windy to sunny"
+2020,29-Jul,CDOT,"Elevational Transect",211,7,"Elevational Transect",10:22,14:20,3:58,10:33,0.666666,"R. Dickson",NA,0,"R. Dickson",0.666666,,,,,"AM: warm, sunny, windy. PM: storm rolled in, no PM sampling and bowls up early."
+2020,29-Jul,Lypps,"Elevational Transect",211,6,"Elevational Transect",9:50,15:20,5:30,11:53,0.666666,"R. Dickson",NA,0,"R. Dickson",0.666666,,,,,"AM: partly cloudy, warm, breezy. No bombus seen or heard. PM: storm rolled in, no netting"
+2020,30-Jul,Copper,D,212,5,Willow,10:04,16:14,6:10,10:20,1,"B. Swift, S. Dartnell",13:52,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: sunny, clear, windy.no bombus. SKD(33) BRS(27). PM: sunny, clear windy. BRS(21) SKD(22) RGD(17)"
+2020,30-Jul,Hill,D,212,5,Dry,9:44,15:31,5:47,11:20,1,"B. Swift, S. Dartnell",14:40,1,"B. Swift, S. Dartnell",2,,,,,"AM: sunny, clear, windy.BRS (29) SKD(31) PM: sunny, clear windy. One blue bowl empty"
+2020,30-Jul,Little,D,212,5,Veratrum,9:40,16:24,6:44,12:02,1,"R. Dickson, B. Swift, S. Dartnell",15:40,1,"R. Dickson, S. Dartnell",2,,,,,"AM: sunny, clear windy. BRS(19) SKD(21) RGD(20). PM: RGD(18) SKD(14) windy at the end of session"
+2020,31-Jul,Beaver,B,213,5,Veratrum,9:23,14:53,5:30,9:40,1,"B. Swift, S. Dartnell",13:12,1,"B. Swift, S. Dartnell",2,,,,,"AM: sunny and windy towards the end."
+2020,31-Jul,Gothic,B,213,5,Willow,9:08,14:51,5:43,10:26,1,"B. Swift, S. Dartnell",14:02,1,"B. Swift, S. Dartnell",2,,,,,"AM: BRS(31) SKD(29) PM: BRS(32) SKD(28)"
+2020,31-Jul,Seans,B,213,6,Dry,9:03,15:29,6:26,11:31,1,"R. Dickson, B. Swift, S. Dartnell",14:00,1,"R. Dickson",2,,,,,"AM: hot, clear, sunny. Wind off and on.BRS(23) SKD(23) RGD(14). PM: 100% cloudy. Theres likely a nesting aggrigation of the small white faced solitary with long antennae. They were all over the place"
+2020,03-Aug,Almont,"Weather Station",216,7,"Weather Station",11:00,17:50,6:50,NA,0,NA,14:25,1,"R. Dickson",1,,,,,"PM: hot, sunny, windy. Only did 1 PM netting session because there were no flowers. No bombus seen or heard all day."
+2020,03-Aug,"Almont Curve","Elevational Transect",216,7,"Elevational Transect",11:30,17:26,5:56,11:42,1,"R. Dickson",15:55,1,"R. Dickson",2,,,,,"AM: hot and sunny with some breeze. PM: warm, mostly cloudy, windy on and off. No bombus seen or heard in AM."
+2020,04-Aug,Davids,A,217,6,Dry,9:41,15:57,6:16,10:04,1,"R. Dickson, B. Swift, S. Dartnell",15:16,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: SKD(25) RGD(6) BRS(29). PM: SKD(9) BRS(8) RGD(18)"
+2020,04-Aug,Tuttle,A,217,6,Veratrum,8:56,15:03,6:07,11:20,1,"R. Dickson, B. Swift, S. Dartnell",13:27,1,"B. Swift, S. Dartnell",2,,,,,"AM: SKD(21) BRS(19) RGD(20)."
+2020,04-Aug,Willey,A,217,7,Willow,8:40,14:58,6:18,12:00,1,"R. Dickson, B. Swift, S. Dartnell",14:14,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: hot, sunny, some wind. SKD(12) RGD(22) BRS(26). PM: SKD(27) BRS(27) RGD(6)"
+2020,06-Aug,"Mexican Cut","Weather Station",219,4,"Weather Station",12:05,15:43,3:38,12:21,0.55,"R. Dickson",14:27,0.583333,"R. Dickson",1.133333,,,,,"AM: Part clouds, some wind. PM: mostly sunny, warm, some breeze. Site got shady about halfway through sampling."
+2020,06-Aug,"North Elko","Elevational Transect",219,4,"Elevational Transect",10:05,17:15,7:10,10:22,0.666666,"R. Dickson",16:22,0.416666,"R. Dickson",1.083333,,,,,"AM: warm, sunny, windy. Saw one bombus on Chamerion angustifolium but couldn't catch. Pretty windy but solitaries still out. PM: warm, sunny, breeze"
+2020,10-Aug,Rustlers,"Elevational Transect",223,7,"Elevational Transect",9:50,14:15,4:25,10:13,1,"R. Dickson",12:54,1,"R. Dickson",2,,,,,"AM: warm, mostly sunny with some clouds and some wind. PM: hot and sunny, some wind."
+2020,11-Aug,CDOT,"Elevational Transect",224,8,"Elevational Transect",9:50,16:05,6:15,10:29,1,"R. Dickson, A. Woolman",13:55,1,"R. Dickson, A. Woolman",2,,,,,"AM: Warm and sunny with some breeze. RGD(22) AMW(38). No bombus seen/heard PM: hot and sunny, some wind."
+2020,11-Aug,Lypps,"Elevational Transect",224,7,"Elevational Transect",9:57,15:50,5:53,11:40,1,"R. Dickson, A. Woolman",15:08,1,"R. Dickson, A. Woolman",2,,,,,"AM: warm, sunny, breezy. RGD(27) AMW(33). PM: warm, sunny windy. RGD(33) AMW(27). Saw 1 ombus Q flying through, couldn't ID"
+2020,13-Aug,Beaver,B,226,6,Veratrum,9:42,15:10,5:28,11:01,1,"R. Dickson, B. Swift, S. Dartnell",14:57,1,"B. Swift, S. Dartnell",2,,,,,"AM: warm, sunny, windy. SKD(22) RGD(15) BRS(23). PM: BRS(27) SKD(33)"
+2020,13-Aug,Gothic,B,226,6,Willow,9:41,15:33,5:52,10:00,1,"B. Swift, S. Dartnell",13:28,1,"B. Swift, S. Dartnell",2,,,,,"AM: SKD(34) BRS(26). PM: BRS(26) SKD(34)"
+2020,13-Aug,Seans,B,226,7,Dry,9:20,16:45,7:25,11:49,1,"R. Dickson, B. Swift, S. Dartnell",14:23,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: sunny, some wind gusts SKD(10) BRS(15) RGD(35). PM: SKD(19) RGD(20) BRS(21). RGD netted from 14:23-15:01 and BRS and SKD netted from 15:55-16:42."
+2020,14-Aug,Copper,D,227,6,Willow,9:52,14:55,5:03,11:20,1,"B. Swift, S. Dartnell",14:10,1,"B. Swift, S. Dartnell",2,,,,,"AM: warm, sunny, windy. BRS(27) SKD(33). PM: SKD(31) BRS(29)."
+2020,14-Aug,Hill,D,227,6,Dry,9:50,15:05,5:15,11:54,1,"R. Dickson, B. Swift, S. Dartnell",14:15,1,"R. Dickson",2,,,,,"AM: warm, sunny, windy. BRS(17) SKD(15) RGD(28)."
+2020,14-Aug,Little,D,227,6,Veratrum,10:05,15:25,5:20,10:16,1,"B. Swift, S. Dartnell",13:19,1,"R. Dickson, B. Swift, S. Dartnell",2,,,,,"AM: warm, sunny, windy. BRS(33) SKD(27). PM: SKD(22) BRS(22) RGD(16)"
+2020,18-Aug,Davids,A,231,7,Dry,9:04,16:50,7:46,11:41,1,"R. Dickson, B. Swift",15:58,1,"R. Dickson, B. Swift",2,,,,,"AM: hot and sunny, part clouds, some wind. PM: hot and sunny, some wind. 1 yellow bowl and 1 blue bowl empty."
+2020,18-Aug,Tuttle,A,231,7,Veratrum,8:50,15:13,6:23,10:20,1,"R. Dickson, B. Swift",14:09,1,"R. Dickson, B. Swift",2,,,,,"AM: hot and sunny. RGD(27) BRS(33). PM: hot, sunny, windy. BRS(40) RGD(20)"
+2020,18-Aug,Willey,A,231,8,Willow,9:10,15:35,6:25,9:38,1,"R. Dickson, B. Swift",13:25,1,"R. Dickson, B. Swift",2,,,,,"AM: hot and sunny. RGD(29) BRS(31). PM: hot, sunny, some wind. BRS(33) RGD(27)"
+2020,19-Aug,Almont,"Weather Station",232,8,"Weather Station",10:25,15:05,4:40,10:43,1,"R. Dickson, A. Woolman",14:45,0.533333,"R. Dickson, A. Woolman",1.533333,,,,,"AM: hot sunny and breezy. PM: hot and sunny. RGD(15) AMW(17) No bombus seen or heard all day."
+2020,19-Aug,"Almont Curve","Elevational Transect",232,8,"Elevational Transect",9:55,15:33,5:38,11:44,1,"R. Dickson, A. Woolman",13:48,1,"R. Dickson, A. Woolman",2,,,,,"AM: hot and sunny. RGD(26) AMW(34). PM: hot and sunny, some breeze 2 blue bowls empty.0 bombus seen or heard in PM"
+2020,20-Aug,"Mexican Cut","Weather Station",233,5,"Weather Station",12:01,15:34,3:33,13:25,1,"R. Dickson, A. Woolman",14:28,1,"R. Dickson, A. Woolman",2,,,,,"AM cool and cloudy- started raining so had to postpone AM sampling and wait for it to dry out. Was warm and sunny during AM sampling. RGD(31) AMW(29). PM: warm, parly cloudy, windy. AMW(45) RGD(15)."
+2020,20-Aug,"North Elko","Elevational Transect",233,5,"Elevational Transect",9:42,16:15,6:33,9:57,1,"R. Dickson",15:23,0.533333,"R. Dickson",1.533333,,,,,"AM: warm, partly cloudy, breezy. PM: cool and cloudy with breeze."
+2020,24-Aug,CDOT,"Elevational Transect",237,9,"Elevational Transect",9:47,16:10,6:23,11:30,0.75,"R. Dickson",13:30,0.75,"R. Dickson",1.5,,,,,"AM: hot, sunny, smoky, some breeze. PM: hot, sunny windy. No bombus seen or heard all day."
+2020,24-Aug,Lypps,"Elevational Transect",237,8,"Elevational Transect",10:12,15:45,5:33,10:21,0.75,"R. Dickson",14:58,0.633333,"R. Dickson",1.383333,,,,,"AM: hot, sunny, smoky. PM: windy, cloudy and smoky. Storm clouds rolling in-- stopped early PM sampling because it started sprinkling and got more windy."
+2020,25-Aug,Beaver,B,238,7,Veratrum,9:48,15:01,5:13,10:01,1,"R. Dickson, B. Swift",NA,0,NA,1,,,,,"AM: warm and sunny, plants in the shade still wet. PM: storm rolled in--bowls got rained and hailed on before pickup. 2 yellow bowls were completely spilled, other bowls probably lost some bees."
+2020,25-Aug,Gothic,B,238,7,Willow,9:36,14:45,5:09,10:56,1,"R. Dickson, B. Swift",NA,0,NA,1,,,,,"AM: warm and sunny.RGD(27) BRS(33) Storm rolled in and rained-- bowls recovered mostly before rain but a few bees probably spilled. One bowl was dry-- not sure what color."
+2020,25-Aug,Seans,B,238,8,Dry,9:15,14:43,5:28,11:50,0.733333,"R. Dickson, B. Swift",13:45,0.533333,"R. Dickson, B. Swift",1.266666,,,,,"AM: partly cloudy, hot.RGD(18) BRS(26) PM:BRS(17) RGD(15) mostly cloudy, storm rolled in and had to stop sampling."
+2020,27-Aug,Copper,D,240,7,Willow,9:47,15:45,5:58,12:25,1,"R. Dickson, A. Woolman",15:18,1,"R. Dickson, A. Woolman",2,,,,,"AM: warm, part clouds, breeze. PM: warm, part clouds, breeze. RGD(40) AMW(20)"
+2020,27-Aug,Hill,D,240,7,Dry,9:05,16:43,7:38,10:40,1,"R. Dickson, A. Woolman",13:38,1,"R. Dickson, A. Woolman",2,,,,,"AM: warm, sunny, breezy. PM: AMW(36) RGD(24) warm, part clouds, wind. 1 white bowl spilled"
+2020,27-Aug,Little,D,240,7,Veratrum,9:25,16:15,6:50,11:22,1,"R. Dickson, A. Woolman",14:24,1,"R. Dickson, A. Woolman",2,,,,,"AM: mostly sunny, warm, breezy. PM: partly cloudy, warm, breezy."
+2020,28-Aug,Rustlers,"Elevational Transect",241,8,"Elevational Transect",10:00,16:00,6:00,10:18,0.916666,"R. Dickson",NA,0,NA,0.916666,,,,,"AM: cool, mostly cloudy, breeze- started raining at the end of sampling. The rest of the day was rainy off and on. I picked out bees at 12:00 and then left them out and they collected ~15 more bees the rest of the day. Some may have spilled in the rain, bu"
+2020,31-Aug,Almont,"Weather Station",244,9,"Weather Station",10:30,13:38,3:08,10:42,0.75,"R. Dickson",NA,0,NA,0.75,,,,,"AM: warm, sunny, breezy. 0 bombus seen or heard. At 13:38 it started to rain off and on-- picked out bees and left bowls until 14:23 but no new bees. Didn't PM sample because of the rain."
+2020,31-Aug,"Almont Curve","Elevational Transect",244,9,"Elevational Transect",10:05,14:55,4:50,11:50,0.833333,"R. Dickson",NA,0,NA,0.833333,,,,,"hot and sunny to mostly cloudy and rain. Picked bees out at 13:00 because of rain- left bowls out until 14:55 and there were about 5 new bees and didn't look like the bowls spilled."
+2020,02-Sep,"Mexican Cut","Weather Station",246,6,"Weather Station",12:18,15:24,3:06,12:34,1,"R. Dickson",14:12,0.833333,"R. Dickson",1.833333,,,,,"all day warm and sunny. No bombus seen/heard in PM"
+2020,02-Sep,"North Elko","Elevational Transect",246,6,"Elevational Transect",9:55,16:10,6:15,10:06,1,"R. Dickson",16:36,0.75,"R. Dickson",1.75,,,,,"all day warm and sunny. Sampled before sunset."
+2020,03-Sep,Davids,A,247,8,Dry,9:10,16:15,7:05,11:47,1,"R. Dickson, A. Woolman",15:09,1,"R. Dickson, A. Woolman",2,,,,,"AM: hot and sunny. RGD(22) AMW(38)PM: hot, sunny, windy."
+2020,03-Sep,Tuttle,A,247,8,Veratrum,9:07,14:50,5:43,10:08,1,"R. Dickson, A. Woolman",14:07,1,"R. Dickson, A. Woolman",2,,,,,"AM: warm and sunny. PM: hot sunny and breezy. AMW(38) RGD(22)."
+2020,03-Sep,Willey,A,247,9,Willow,9:25,15:07,5:42,9:52,1,"R. Dickson, A. Woolman",13:26,1,"R. Dickson, A. Woolman",2,,,,,"AM: warm and sunny. PM: hot and sunny. RGD(32) AMW(28)"
