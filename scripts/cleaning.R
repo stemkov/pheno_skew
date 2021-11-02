@@ -37,6 +37,9 @@ rmbl_bombus <- rmbl_bombus[genus_species != "" & genus_species %!in% unwanted_ta
 mary_bees <- mary_bees[grouped_name != "" & grouped_name %!in% unwanted_taxa$mary_bees_species & Genus %!in% unwanted_taxa$mary_bees_genus,]
 flowers <- flowers[species != "" & species %!in% unwanted_taxa$rmbl_flrs_species,]
 
+# I want to separate queens and workers in analysis
+rmbl_bombus[, genus_species := paste(genus_species, caste)]
+
 # weird little cleaning
 mary_bees <- mary_bees[trapdays == 1,] # removing when traps were left out for more than 1 day
 rmbl_bees <- rmbl_bees[method %in% c("Bowl","bowl"),] # removing netted bees
@@ -96,11 +99,13 @@ bee_data <- data.table(year = c(rmbl_bees$year, rmbl_bombus$year, mary_bees$year
                        sex = c(rmbl_bees$sex, rmbl_bombus$caste, mary_bees$sex),
                        effort = c(rmbl_bees$trap_time, rmbl_bombus$trap_time, mary_bees$trap_time))
 bee_data
+bee_data[dataset == "rmbl" & grepl("Bombus", species),]
 
 # cleaning "sp." or uncertain groups
 # I'm getting rid of species containing sp. spp. ssp. aff. cf. af. w- nr
+# I'm removing bombus with "unknown" caste
 # keeping species with "/" because they seem not to duplicate
-ambiguities <- paste(c("sp\\.", "spp\\.", "ssp\\.", "aff\\.", "cf\\.", "af\\.", "w\\-", " nr "),collapse="|")
+ambiguities <- paste(c("sp\\.", "spp\\.", "ssp\\.", "aff\\.", "cf\\.", "af\\.", "w\\-", " nr ", "unknown"),collapse="|")
 bee_data <- bee_data[!grepl(ambiguities, species), ]
 flowers <- flowers[!grepl(ambiguities, species),]
 
