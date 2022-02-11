@@ -78,12 +78,41 @@ fit.sn <- function(abs, times, method="sn", family="SN", plot=FALSE, ...){
     skew_se <- -6666
     skew_t <- -6666
     skew_p <- skew_test$p.value
-    if(skew > 4 | skew < -4) return(list(mean=-5555, sd=-5555, skew=-5555, skew_se=-5555, skew_t=-5555, skew_p=-5555))
+    if(skew > 5 | skew < -5) return(list(mean=-5555, sd=-5555, skew=-5555, skew_se=-5555, skew_t=-5555, skew_p=-5555))
     if(plot) hist(abs_expand)
   }
   # I probably want to report total pop size, unique time points, and some goodness of fit?
   return(list(mean=mean, sd=sd, skew=skew, skew_se=skew_se, skew_t=skew_t, skew_p=skew_p))
 }
+
+if(!exists("rmbl_bees_w_zeros")){rmbl_bees_w_zeros <- fread("clean_data/rmbl_bees_w_zeros.csv", stringsAsFactors = FALSE)}
+if(!exists("flowers_w_zeros")){flowers_w_zeros <- fread("clean_data/flowers_w_zeros.csv", stringsAsFactors = FALSE)}
+# check for whether there is censoring (lack of zeros before or after non-zeros)
+# returns either "before", "after", "both", or "none" for where the censoring is occurring
+is.ab.censored <- function(abs){
+  zero_positions <- which(abs == 0)
+  #non_zero_positions <- which(abs != 0)
+  
+  if(length(zero_positions) == 0) return("both")
+  if(1 %!in% zero_positions & length(abs) %!in% zero_positions) return("both")
+  if(1 %!in% zero_positions) return("before")
+  if(length(abs) %!in% zero_positions) return("after")
+  
+  return("none")
+}
+
+# checks if TS for site/year/species is censored - uses is.ab.censored
+check.if.censored <- function(site_v, year_v, species_v, sex_v="F", dataset_v="bees"){
+  if(dataset_v=="flowers") rel_abs <- flowers_w_zeros[site == site_v & year == year_v & species == species_v, ab]
+  if(dataset_v=="bees") rel_abs <- rmbl_bees_w_zeros[site == site_v & year == year_v & species == species_v & sex == sex_v, ab]
+  if(length(rel_abs) == 0) stop("no records found - wrong inputs")
+  return(is.ab.censored(rel_abs))
+}
+check.if.censored("Beaver", 2015, "Dufourea harveyi")
+check.if.censored("Beaver", 2015, "Bombus bifarius Q")
+check.if.censored("Beaver", 2015, "Lasioglossum sedi")
+check.if.censored("RM6", 2015, "Claytonia lanceolata", dataset_v = "flowers")
+check.if.censored("RM6", 2015, "Taraxacum officinale", dataset_v = "flowers")
 
 get.overlap <- function(dist1, dist2, x){
   #sum(pmin(dist1, dist2))/ sum(dist1) # only works when I don't scale
@@ -136,6 +165,8 @@ maximize.overlap <- function(skew1, skew2=0, x = seq(60,140,by=0.2), mean = 100,
   return(max(transforms$overlap))
 }
 
+maximize.overlap(-5,5, plot=T)
+
 # to plot distributions and their overlap
 plot.overlap <- function(x, mean1=100, mean2=100, sd1=10, sd2=10, skew1=0, skew2=0,
                          col1 = flr_pal["line"], col2 = bee_pal["line"], col1_shade = flr_pal["point"], col2_shade = bee_pal["point"]){
@@ -154,10 +185,10 @@ plot.overlap <- function(x, mean1=100, mean2=100, sd1=10, sd2=10, skew1=0, skew2
   #lines(intersection ~ x, lwd=4, col=col_inter_line)
   polygon(x = c(x, min(x)),
           y = c(intersection, intersection[1]),
-          col=col1_shade, border=NA, density=10, angle=45)
+          col=col1_shade, border=NA, density=12, angle=45)
   polygon(x = c(x, min(x)),
           y = c(intersection, intersection[1]),
-          col=col2_shade, border=NA, density=10, angle=-45)
+          col=col2_shade, border=NA, density=12, angle=-45)
 }
 
 ### Structure for the analysis:
@@ -199,7 +230,7 @@ flr_pal <- c(point = "#a655cf", line = "#7b04b8")
 # this isn't very satisfying - it just provides one skewness estimate
 
 ### accessory skew distribution figure function
-skew.fig <- function(skew = 0, percent = NA, x1=0, x2=0.5, y1=0, y2=0.5, line_col="red", fill_col = "pink", text_cex=2, shade_percent=0){
+skew.fig <- function(skew = 0, percent = NA, x1=0, x2=0.5, y1=0, y2=0.5, line_col="red", fill_col = "pink", text_cex=2, shade_percent=0, reset_window=FALSE){
   # line_col <- "red"
   # fill_col <- "pink"
   # skew <- 0.8
@@ -208,6 +239,7 @@ skew.fig <- function(skew = 0, percent = NA, x1=0, x2=0.5, y1=0, y2=0.5, line_co
   # shade_percent <- 50
   
   #par(fig = c(0,1,0,1), mar=c(4.1,3.9,2,1))
+  if(reset_window) par(fig = c(0,1,0,1), mar=c(5,4,4,2)); print("nice")
   par(fig = c(x1,x2,y1,y2), new = T, mgp=c(3,0.7,0)) 
   
   #  xi=0, omega=1, alpha=0, tau=0,
@@ -261,30 +293,53 @@ flr_skews <- flr_skews[mean %!in% c(-5555, -7777, -8888, -9999),]
 flr_skews <- flr_skews[!is.na(skew_se),]
 
 
+
+### checking for censoring
+bee_skews[, censored := check.if.censored(site, year, species, dataset_v="bees"), by=.(site, year, species)]
+table(bee_skews$censored)
+
+n_combs <- uniqueN(flr_skews[,c("site", "species", "year")])
+flr_skews[, censored := {cat(.GRP/n_combs*100,"%\n"); check.if.censored(site, year, species, dataset_v="flowers")}, by=.(site, year, species)]
+table(flr_skews$censored)
+
+if(FALSE){
+  par(mfrow=c(4,2))
+  hist(bee_skews[censored == "none",skew], 20, xlab="Skewness", main="Not censored (bees)"); abline(v=mean(bee_skews[censored == "none",skew]), col="red")
+  hist(bee_skews[censored == "before",skew], 20, xlab="Skewness", main="Censored onset (bees)"); abline(v=mean(bee_skews[censored == "before",skew]), col="red")
+  hist(bee_skews[censored == "after",skew], 20, xlab="Skewness", main="Censored end (bees)"); abline(v=mean(bee_skews[censored == "after",skew]), col="red")
+  hist(bee_skews[censored == "both",skew], 20, xlab="Skewness", main="Both censored (bees)"); abline(v=mean(bee_skews[censored == "both",skew]), col="red")
+  
+  hist(flr_skews[censored == "none",skew], 20, xlab="Skewness", main="Not censored (flowers)"); abline(v=mean(flr_skews[censored == "none",skew]), col="red")
+  hist(flr_skews[censored == "before",skew], 20, xlab="Skewness", main="Censored onset (flowers)"); abline(v=mean(flr_skews[censored == "before",skew]), col="red")
+  hist(flr_skews[censored == "after",skew], 20, xlab="Skewness", main="Censored end (flowers)"); abline(v=mean(flr_skews[censored == "after",skew]), col="red")
+  hist(flr_skews[censored == "both",skew], 20, xlab="Skewness", main="Both censored (flowers)"); abline(v=mean(flr_skews[censored == "both",skew]), col="red")
+  par(mfrow=c(1,1))
+}
+
+
 ### conceptual demonstration of mean, SD, and skew effects on overlap
 
 
-png("figures/conceptual.png", width=900, height=300)
+png("figures/conceptual.png", width=3, height=7, units = "in", res=300, pointsize = 9)
 
-layout(matrix(c(1,2,3), nrow=1))
-par(mar=c(4,3.5,2,1))
+layout(matrix(c(1,2,3), nrow=3),
+       heights=c(0.9, 0.95, 1.1))
+par(mar=c(0,3,1,1))
 
 x_vals <- c(60:140)
 plot.overlap(x_vals, mean1 = 100, mean2 = 110)
-mtext("Abundance", 2, 2)
-mtext("  Mean change",3, -2, adj=0)
 
-par(mar=c(4,2,2,1))
+mtext("  Mean \n  change",3, -3.5, adj=0)
+
+par(mar=c(0,3,1,1))
 plot.overlap(x_vals, sd1 = 10, sd2 = 15)
-mtext("Time", 1, 2)
-mtext("  Breadth change",3, -2, adj=0)
+mtext("  Breadth \n  change",3, -3.5, adj=0)
+mtext("Abundance", 2, 1.5)
 
-par(mar=c(4,2,2,2))
+par(mar=c(3,3,1,1))
 plot.overlap(x_vals, skew1=0, skew2=-5, mean2 = 106, sd2 = 18)
 mtext("  Skewness \n  change",3, -3.5, adj=0)
-
-legend("topright", c("Flower", "Bee"), col=c(flr_pal["line"], bee_pal["line"]),
-       lwd=3, cex=1.5, inset=0.05)
+mtext("Time", 1, 1.5)
 
 dev.off()
 
@@ -295,17 +350,30 @@ bee_skews$guild <- "bee"
 flr_skews$guild <- "flower"
 skews <- rbind(flr_skews, bee_skews)
 skews$guild <- relevel(as.factor(skews$guild), "flower") # to put bee points on top
+skews[, genus := gsub(" .*", "", species)]
+
+### Summary statistics
+table(skews$guild)
+table(skews[,c("guild", "dataset")])
+paste("# flower species:",length(unique(skews[guild == "flower",species])), "from", length(unique(skews[guild == "flower",genus])), "genera") 
+paste("# bee species:",length(unique(skews[guild == "bee",species])), "from", length(unique(skews[guild == "bee",genus])), "genera")
+
+overall_model <- lm(skew ~ guild, data=skews)
+summary(overall_model)
+
+paste("mean skew flowers:",round(mean(skews[guild == "flower", skew]),3))
+paste("mean skew bees:",round(mean(skews[guild == "bee", skew]),3))
 
 
 ### Skewness histograms
-png("figures/skewness.png", width=600, height=800)
+png("figures/skewness.png", width=600, height=800, res=80)
 par(mfrow=c(1,1), mar=c(5,4,1,3.5))
 par(fig = c(0,1,0,1))
 
 hist(skews[guild=="flower", skew], 100,
      main="", xlab="Skewness", ylab="Frequency",
      border=F, col=flr_pal["line"],
-     xlim=c(-4,4), ylim=c(-500,700),
+     xlim=c(-4,5), ylim=c(-500,700),
      yaxt="n", xaxt="n")
 axis(2, at=seq(0,700, by=100), labels=seq(0,700, by=100), tick=T, las=2)
 hist(skews[guild=="flower" & skew_p > 0.05, skew], 30,
@@ -318,7 +386,7 @@ par(new=T)
 hist(skews[guild=="bee", skew], 100,
      main="", xlab="", border=F,
      col=bee_pal["point"],
-     ylim=c(0,100), xlim=c(-4,4),
+     ylim=c(0,100), xlim=c(-4,5),
      yaxt="n", ylab=NA, xaxt="n")
 axis(2, at=seq(0,30, by=10), labels=seq(0,30, by=10), tick=T, las=2)
 hist(skews[guild=="bee" & skew_p > 0.05, skew], 30,
@@ -327,7 +395,7 @@ hist(skews[guild=="bee" & skew_p > 0.05, skew], 30,
      yaxt="n", xaxt="n", add=T,
      density=15, angle=45)
 
-axis(1, at=seq(-4,4,by=1), labels=seq(-4,4,by=1), tick=T)
+axis(1, at=seq(-4,5,by=1), labels=seq(-4,5,by=1), tick=T)
 abline(v=0)
 
 legend("topright", c("Flowers", "Bees"), fill=c(flr_pal["line"], bee_pal["point"]),
@@ -390,6 +458,7 @@ polygon(x = c(flr_line$sd, rev(flr_line$sd)),
 legend("topright", c("Flowers", "Bees"), col=c(flr_pal["line"], bee_pal["line"]),
        lwd=3, cex=1, inset=0.05)
 box()
+
 par(mfrow=c(1,1), mar=c(5,4,4,2))
 dev.off()
 
@@ -400,19 +469,19 @@ skew_vals <- seq(-5,5, length.out=n)
 skew_scan <- as.data.table(expand.grid(skew_vals, skew_vals))
 colnames(skew_scan) <- c("skew1", "skew2")
 
-if(!file.exists("clean_data/skew_scan.RDS")){
+if(!file.exists("clean_data/skew_scan5.RDS")){
   overlaps_vals <- pbmapply(maximize.overlap, skew1 = skew_scan$skew1, skew2 = skew_scan$skew2)
   skew_scan$overlap <- overlaps_vals
-  saveRDS(skew_scan,"clean_data/skew_scan.RDS")
+  saveRDS(skew_scan,"clean_data/skew_scan5.RDS")
 } else{
-  skew_scan <- readRDS("clean_data/skew_scan.RDS")
+  skew_scan <- readRDS("clean_data/skew_scan5.RDS")
 }
 
 # getting flr and bee quantiles for plotting
 flr_low <- skews[guild == "flower", quantile(skew, 0.025)]
 flr_high <- skews[guild == "flower", quantile(skew, 0.975)]
-bee_low <- skews[guild == "bee", quantile(skew, 0.025)]
-bee_high <- skews[guild == "bee", quantile(skew, 0.975)]
+bee_low <- skews[guild == "bee" & dataset == "rmbl", quantile(skew, 0.025)]
+bee_high <- skews[guild == "bee" & dataset == "rmbl", quantile(skew, 0.975)]
 
 # heatmap
 png("figures/heatmap.png", width=700, height=600)
@@ -425,10 +494,22 @@ image.plot(x = skew_vals, y = skew_vals, z = skew_scan_mat,
       xlab = "Flower skewness", ylab="Bee skewness",
       legend.shrink = 0.75)
 
+#white
+abline(v=flr_low, col="white", lwd=4, lty=1)
+abline(v=flr_high, col="white", lwd=4, lty=1)
+abline(h=bee_low, col="white", lwd=4, lty=1)
+abline(h=bee_high, col="white", lwd=4, lty=1)
+#color
 abline(v=flr_low, col=flr_pal["line"], lwd=2, lty=3)
 abline(v=flr_high, col=flr_pal["line"], lwd=2, lty=3)
 abline(h=bee_low, col=bee_pal["line"], lwd=2, lty=3)
 abline(h=bee_high, col=bee_pal["line"], lwd=2, lty=3)
+#white
+lines(x = c(flr_low, flr_low), y = c(bee_low, bee_high), col = "white", lwd=7)
+lines(x = c(flr_high, flr_high), y = c(bee_low, bee_high), col = "white", lwd=7)
+lines(x = c(flr_low, flr_high), y = c(bee_low, bee_low), col = "white", lwd=7)
+lines(x = c(flr_low, flr_high), y = c(bee_high, bee_high), col = "white", lwd=7)
+#color
 lines(x = c(flr_low, flr_low),
       y = c(bee_low, bee_high),
       col = flr_pal["line"], lwd=3)
@@ -445,10 +526,34 @@ lines(x = c(flr_low, flr_high),
 mtext("Maximum possible overlap (%)",
       side = 4, line = 0.75)
 
+# adding a sequqnce of skew figs along y and x axes
+
+#skew.fig(-0.9, x1=0, x2=0.5, y1=0, y2=0.5, line_col="red", fill_col = "pink", reset_window=T)
+
 dev.off()
 
+# I'm trying to set up a multipanel window to go over the heatmap
+layout(matrix(c(1,2,3,4,5,
+                0,0,0,0,6,
+                0,0,0,0,7,
+                0,0,0,0,8,
+                0,0,0,0,9),
+              nrow=5,ncol=5))
+plot(c(1:10))
+ 
 
-### Does drought predict skewness?
+# What's the distribution of overlap within the bee/flower box?
+relevant_overlap <- skew_scan[skew1 >= flr_low & skew1 <= flr_high &
+                                skew2 >= bee_low & skew2 <= skew2, overlap]
+
+hist(relevant_overlap,100)
+paste0("Skewness could account for up to ", round(1 - min(relevant_overlap),2)*100, "% of overlap losses") 
+
+hist(skew_scan$overlap,100)
+min(skew_scan$overlap)
+
+
+### Does drought predict skewness? - probably won't include this in the main text
 
 # getting drought index data
 nc <- nc_open("raw_data/terraclim.nc")
@@ -467,10 +572,36 @@ drought_data <- pdsi[, .(yearly_drought = mean(drought),
                      by=.(year)]
 plot(summer_drought ~ yearly_drought, data=drought_data)
 
-test <- merge(skews, drought_data, by="year")
-test <- test[dataset != "mary",]
+# plopping in snowmelt date
+bare_ground <- fread("raw_data/billy_barr_bare_ground.csv")
+bare_ground[, date_bare_ground := mdy(date_bare_ground)]
+bare_ground[, snowmelt_doy := yday(date_bare_ground)]
 
-test_lm <- lm(skew ~ summer_drought*guild + site, data = test)
-summary(test_lm)
-visreg(test_lm, "summer_drought", by="guild")
+skews_weather <- merge(skews, drought_data, by="year")
+skews_weather <- merge(skews_weather, bare_ground, by="year")
+skews_weather <- skews_weather[dataset != "mary",]
 
+plot(skew ~ snowmelt_doy, data = skews_weather[guild=="flower",])
+plot(skew ~ snowmelt_doy, data = skews_weather[guild=="bee",])
+
+weather_model <- lm(skew ~ -1 + summer_drought*guild + snowmelt_doy*guild + site, data = skews_weather)
+summary(weather_model)
+visreg(weather_model, "summer_drought", by="guild")
+visreg(weather_model, "snowmelt_doy", by="guild")
+
+
+test <- lm(skew ~ guild + dataset, data=skews)
+summary(test)
+
+
+### Supplementary figures
+
+# skewness by dataset
+
+png("figures/skewness_datasets.png", width=800, height=500)
+par(mfrow=c(1,2))
+hist(skews[dataset == "rmbl" & guild == "bee", skew], 100, xlim=c(-4,5), main="Rocky Mountain", xlab="Skewness")
+hist(skews[dataset == "mary" & guild == "bee", skew], 100, xlim=c(-4,5), main="Mid-Atlantic", xlab="Skewness", ylab="")
+dataset_model <- lm(skew ~ dataset, data = bee_skews)
+summary(dataset_model)
+dev.off()

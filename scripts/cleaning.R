@@ -40,7 +40,7 @@ flowers <- flowers[species != "" & species %!in% unwanted_taxa$rmbl_flrs_species
 # I want to separate queens and workers in analysis
 rmbl_bombus[, genus_species := paste(genus_species, caste)]
 
-# weird little cleaning
+# misc little cleaning
 mary_bees <- mary_bees[trapdays == 1,] # removing when traps were left out for more than 1 day
 rmbl_bees <- rmbl_bees[method %in% c("Bowl","bowl"),] # removing netted bees
 rmbl_bees$sex <- toupper(rmbl_bees$sex)
@@ -120,15 +120,67 @@ bees <- bee_data[, .(year = unique(year),
                  by = .(species, sex, site, date)]
 bees$doy <- yday(bees$date)
 
+# dropping grasses and sedges
+grasses_sedges <- c("Achnatherum lettermanii", "Bromelica spectabilis", "Bromopsis inermis", "Bromopsis pumpelliana",
+                    "Elymus elymoides", "Festuca thurberi", "Koeleria macrantha", "Muhlenbergia montana",
+                    "Phleum commutatum", "Phleum pratense", "Poa pratensis", "Poa tracyi")
+flowers <- flowers[species %!in% grasses_sedges,]
+
+flowers <- flowers[!(plot %in% c("GH1","GH2","GH3","GH4","GH5") & year <= 1988),] # dropping first 4 years of GH (greenhouse) plots because they had treatments
+
 # aggregating flower counts by site
-flowers[, site := gsub("[[:digit:]]", "", plot), by=plot]
+#flowers[, site := gsub("[[:digit:]]", "", plot), by=plot] # old aggregation
+#flowers[, site := plot, by=plot] # no aggregation
+
+plots_to_sites <- fread("raw_data/flower_plot_aggregations.csv") # plot aggregation scheme from B. Inouye
+flowers <- merge(flowers, plots_to_sites)
+flowers <- flowers[!is.na(site),] # dropping CCR "site" because it's not a site
+
 flowers <- flowers[, .(year = unique(year),
                        ab = sum(floralcount),
                        doy = unique(doy)),
                     by = .(date, species, site)]
 
-#colnames(flowers) <- c("year", "site", "species", "date", "doy", "ab")
+flowers_w_zeros <- flowers  # to check for censoring later
+flowers <- flowers[ab > 0,] # removes zeros to reduce file size by order of magnitude - b/c skew estimation doesn't use zeros
+
+# writing data
 
 write.csv(bees, "clean_data/bees.csv", row.names = FALSE)
 write.csv(flowers, "clean_data/flowers.csv", row.names = FALSE)
+
+write.csv(flowers_w_zeros, "clean_data/flowers_w_zeros.csv", row.names = FALSE)
+
+
+### getting bee data with zeros to check for censoring
+
+rmbl_effort[, date := ydm(paste(year, date_sampled))]
+
+sampling.dates <- function(site_v, year_v){ rmbl_effort[site == site_v & year == year_v, date] }
+
+sampling.dates("Beaver", 2015)
+
+get.abs.w.zeros <- function(abs, dates, site_v, year_v, species_v, sex_v="F"){
+  if(FALSE){
+    site_v <- "Beaver"
+    year_v <- 2015
+    species_v <- "Dufourea harveyi"
+    species_v <- "Lasioglossum sedi"
+    sex_v <- "F"
+    abs <- bees[dataset == "rmbl" & site == site_v & year == year_v & species == species_v & sex == sex_v, ab]
+    dates <- bees[dataset == "rmbl" & site == site_v & year == year_v & species == species_v & sex == sex_v, date]
+  }
+  sampling_dates <- sampling.dates(site_v, year_v)
+  full_ts <- data.table(date = sampling_dates, ab = 0,
+                        site = site_v, year = year_v, species = species_v, sex = sex_v)
+  full_ts[match(dates, sampling_dates), "ab"] <- abs
+  
+  return(full_ts)
+}
+
+rmbl_bees_w_zeros <- bees[dataset == "rmbl", get.abs.w.zeros(ab, date, site, year, species, sex), by=.(site, year, species, sex)] # I'm sure there's a more efficient way to do this
+
+write.csv(rmbl_bees_w_zeros, "clean_data/rmbl_bees_w_zeros.csv", row.names = F)
+
+
 
