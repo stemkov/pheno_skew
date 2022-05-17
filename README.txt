@@ -1,7 +1,5 @@
 This repository contains data and code to reproduce the analysis, generate figures, and generate tables for "Skewness in bee and flower phenological distributions" (Stemkovski et al., in prep). To reproduce everything, download these folders and files, open an R session, set your working directory to this location, execute "cleaning.R", and lastly execute "analysis.R". Make sure to have all of the packages installed that are loaded at the top of the two scripts.
 
-A pre-print of the study can be found here: 
-
 Folder descriptions:
 
 scripts: R-scripts used in the data cleaning, analysis, and figure generation.
