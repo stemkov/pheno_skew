@@ -1,4 +1,10 @@
-# cleaning bee and flower data for phenological skew analysis
+### Cleaning data for analysis of skewness in bee and flower phenological distributions
+# Michael Stemkovski
+# m.stemkovski@gmail.com
+#
+# I initially had mid-atlantic bees in the analysis, but took them out during manuscript prep
+# if anyone wants to analyse those data, the cleaning is all ready to go here
+# the citation for that data: https://www.nature.com/articles/s41597-020-00577-0
 
 library(data.table)
 library(tools)
@@ -9,19 +15,12 @@ library(lubridate)
 
 setwd("/home/michael/Documents/Grad School/Research Projects/pheno_skew")
 
-# old flower data
-# load("raw_data/rmbl_flowers/rmbl.RData")
-# flowers <- data.table(all.data)
-# rm(all.data)
-
 load("raw_data/rmbl_flowers/rmbl_flowers_2019.RData")
 flowers <- data.table(data)
 rm(data)
 
 flowers <- flowers[!is.na(doy),]
 
-#bees <- fread("raw_data/sp_time_series_2019_10_13_no_sings.csv")
-#bees <- fread("raw_data/data_summary_2019_10_14_4.csv")
 rmbl_bees <- fread("raw_data/rmbl_bees/bees_2020-12-16.csv", stringsAsFactors = FALSE)
 rmbl_bombus <- fread("raw_data/rmbl_bees/bombus_2020-12-16.csv", stringsAsFactors = FALSE)
 rmbl_bombus[, genus_species := paste(genus, genus_species)]
@@ -81,11 +80,15 @@ get.effort <- function(site_v, year_v, date_v, method_v){
 rmbl_bees[, trap_time := get.effort(site, year, date_sampled, "bowl"), by=.(site, year, date_sampled)]
 hist(rmbl_bees$trap_time,100, xlab="Bowl hours", main="")
 abline(v=3, col="red")
+rmbl_bees[trap_time < 3, .N, by=.(site, year, date_sampled)][,.N] # number of days that I'm cutting out
+rmbl_bees[, .N, by=.(site, year, date_sampled)][,.N] # total number of sampling days
 rmbl_bees <- rmbl_bees[trap_time >= 3,]
 
 rmbl_bombus[, trap_time := get.effort(site, year, date_sampled, "net"), by=.(site, year, date_sampled)]
 hist(rmbl_bombus$trap_time,100, xlab="Bowl hours", main="")
 abline(v=0.95, col="red")
+rmbl_bombus[trap_time < 1, .N, by=.(site, year, date_sampled)][,.N] # number of days that I'm cutting out
+rmbl_bombus[, .N, by=.(site, year, date_sampled)][,.N] # total number of sampling days
 rmbl_bombus <- rmbl_bombus[trap_time >= 1,]
 
 # combining data
@@ -123,10 +126,13 @@ bees$doy <- yday(bees$date)
 # dropping grasses and sedges
 grasses_sedges <- c("Achnatherum lettermanii", "Bromelica spectabilis", "Bromopsis inermis", "Bromopsis pumpelliana",
                     "Elymus elymoides", "Festuca thurberi", "Koeleria macrantha", "Muhlenbergia montana",
-                    "Phleum commutatum", "Phleum pratense", "Poa pratensis", "Poa tracyi")
+                    "Phleum commutatum", "Phleum pratense", "Poa pratensis", "Poa tracyi",
+                    "Elymus glaucus", "Elymus trachycaulus", "Trisetum spicatum")
 flowers <- flowers[species %!in% grasses_sedges,]
 
 flowers <- flowers[!(plot %in% c("GH1","GH2","GH3","GH4","GH5") & year <= 1988),] # dropping first 4 years of GH (greenhouse) plots because they had treatments
+
+flowers[species == "Chamerion.danielsii ", "species"] <- "Chamerion danielsii" # fixing typo
 
 # aggregating flower counts by site
 #flowers[, site := gsub("[[:digit:]]", "", plot), by=plot] # old aggregation
@@ -136,10 +142,14 @@ plots_to_sites <- fread("raw_data/flower_plot_aggregations.csv") # plot aggregat
 flowers <- merge(flowers, plots_to_sites)
 flowers <- flowers[!is.na(site),] # dropping CCR "site" because it's not a site
 
+paste("Number of plots in flower dataset:",length(unique(flowers$plot)))
+
 flowers <- flowers[, .(year = unique(year),
                        ab = sum(floralcount),
                        doy = unique(doy)),
                     by = .(date, species, site)]
+
+paste("Number of sites into which plots were aggregated:",length(unique(flowers$site)))
 
 flowers_w_zeros <- flowers  # to check for censoring later
 flowers <- flowers[ab > 0,] # removes zeros to reduce file size by order of magnitude - b/c skew estimation doesn't use zeros
